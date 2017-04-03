@@ -1,0 +1,184 @@
+TGrowlAction
+v6
+r1
+cCheck dependencies
+cPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/Info.plist
+cProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist
+cCompileC /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Objects-normal/x86_64/GrowlActionStrings.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/GrowlActionStrings.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005228143200000000000004B3
+t1378358322
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005227ECC800000000000001DE
+t1378348232
+s478
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Objects-normal/x86_64/GrowlActionStrings.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist
+t1485752196
+s2811
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show Growl Notification.action/Contents/Info.plist
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/GrowlActionStrings.m
+c00000000525A29680000000000000513
+t1381640552
+s1299
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/Info.plist
+c00000000525A29680000000000000B01
+t1381640552
+s2817
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/GrowlActionStrings.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies739d7e04ff3ebe41^9088d104ff3ebe41^---0#1#1#--18"Check dependencies36"03F39FDE-A251-40E2-B679-77B8F749554F-
+
+CCompileC /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Objects-normal/x86_64/GrowlActionStrings.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/GrowlActionStrings.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507444996.516273
+e507444996.530387
+r0
+xCompileC
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Objects-normal/x86_64/GrowlActionStrings.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/GrowlActionStrings.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oerror: garbage collection is no longer supported
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/GrowlActionStrings.m274"CompileC /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Objects-normal/x86_64/GrowlActionStrings.o GrowlActionStrings.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler853e8404ff3ebe41^6c94d104ff3ebe41^-49"error: garbage collection is no longer supported1(36%IDEClangDiagnosticActivityLogMessage2@41"Garbage collection is no longer supported-507444996#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic-20"Apple LLVM 5.0 Error--0#0#1#-19%DVTDocumentLocation3@101"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/GrowlActionStrings.m0000000000000000^3650"CompileC /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Objects-normal/x86_64/GrowlActionStrings.o GrowlActionStrings.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Show\ Growl\ Notification-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Show\ Growl\ Notification-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Show\ Growl\ Notification-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Show\ Growl\ Notification-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Objects-normal/x86_64/GrowlActionStrings.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Objects-normal/x86_64/GrowlActionStrings.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/GrowlActionStrings.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Objects-normal/x86_64/GrowlActionStrings.o36"AF843B90-89BF-45C0-832B-DF9B1A80127F-
+b788715EA-9F71-4AAF-9FD3-94291BD33A79
+
+CCompileXIB /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/main.xib
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/ar.lproj/InfoPlist.strings ar.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/ca.lproj/InfoPlist.strings ca.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/cs.lproj/InfoPlist.strings cs.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/cy.lproj/InfoPlist.strings cy.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/da.lproj/InfoPlist.strings da.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/de.lproj/InfoPlist.strings de.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/el.lproj/InfoPlist.strings el.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/en.lproj/Localizable.strings en.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/es-MX.lproj/InfoPlist.strings es-MX.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/es.lproj/InfoPlist.strings es.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/fr.lproj/InfoPlist.strings fr.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/he.lproj/InfoPlist.strings he.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/it.lproj/InfoPlist.strings it.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/ja.lproj/InfoPlist.strings ja.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/ko.lproj/InfoPlist.strings ko.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/lv.lproj/InfoPlist.strings lv.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/nb.lproj/InfoPlist.strings nb.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/nl.lproj/InfoPlist.strings nl.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/pt-PT.lproj/InfoPlist.strings pt-PT.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/pt.lproj/InfoPlist.strings pt.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/ro.lproj/InfoPlist.strings ro.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/ru.lproj/InfoPlist.strings ru.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/sk.lproj/InfoPlist.strings sk.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/sv.lproj/InfoPlist.strings sv.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/th.lproj/InfoPlist.strings th.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/zh-Hans.lproj/InfoPlist.strings zh-Hans.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/zh-Hant.lproj/InfoPlist.strings zh-Hant.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/MacOS/Show\ Growl\ Notification
+r0
+
+CLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/MacOS/Show\ Growl\ Notification normal x86_64
+r0
+
+CPBXCp main.scpt /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Resources/Scripts/main.scpt
+r0
+
+CPhaseScriptExecution Run\ Script /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Script-BC977EA7163823AE007881D5.sh
+r0
+
+CPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/Info.plist
+s507444996.503418
+e507444996.513676
+r1
+xPreprocess
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection177"Preprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist Info.plist177"Preprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist Info.plistfeef8004ff3ebe41^ce8dd104ff3ebe41^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/Info.plist0000000000000000^875"Preprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -E -P -x c -Wno-trigraphs /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction/Info.plist -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include ../../../Info.plist-Prefix.pch -traditional -CC -I /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist36"15CEA82D-456B-41C0-B511-C41CD7EE00EC-
+b788715EA-9F71-4AAF-9FD3-94291BD33A79
+
+CProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist
+s507444996.514208
+e507444996.515787
+r1
+xProcessInfoPlistFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show Growl Notification.action/Contents/Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Process /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist320"ProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist85b38304ff3ebe41^4b90d104ff3ebe41^---0#0#1#-19%DVTDocumentLocation2@162"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist0000000000000000^772"ProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/System/GrowlAction    builtin-infoPlistUtility /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/GrowlAction.build/Debug/GrowlAction.build/Preprocessed-Info.plist -expandbuildsettings -platform macosx -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action/Contents/Info.plist36"453B2A6F-98B1-432A-9F76-3762126B501F-
+b788715EA-9F71-4AAF-9FD3-94291BD33A79
+
+CTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Show\ Growl\ Notification.action
+r0
+

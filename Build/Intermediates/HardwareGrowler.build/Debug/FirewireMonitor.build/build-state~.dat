@@ -1,0 +1,122 @@
+TFirewireMonitor
+v6
+r1
+cCheck dependencies
+cPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Info.plist
+cProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/FirewireMonitor.hwgrowlmonitor/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-cwztdvkxvpjcwcdryfkyosnppruj/FirewireMonitor-Prefix.pch.pch FirewireMonitor/FirewireMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-dqbnevijrpvuskftluculpozkfcs/FirewireMonitor-Prefix.pch.pch FirewireMonitor/FirewireMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005228143200000000000004B3
+t1378358322
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005227ECC800000000000001DE
+t1378348232
+s478
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist
+t1485754963
+s980
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-cwztdvkxvpjcwcdryfkyosnppruj/FirewireMonitor-Prefix.pch.pch
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-dqbnevijrpvuskftluculpozkfcs/FirewireMonitor-Prefix.pch.pch
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/FirewireMonitor.hwgrowlmonitor/Contents/Info.plist
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Info.plist
+c00000000525A296800000000000003D3
+t1381640552
+s979
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Prefix.pch
+c00000000525A2968000000000000009E
+t1381640552
+s158
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/HWGrowlFirewireMonitor.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/HWGrowlFirewireMonitor.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbe5058d3093fbe41^8f1a67d3093fbe41^---0#1#1#--18"Check dependencies36"153CC7F4-8E35-49E3-A24F-F68E90A3550D-
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Objects-normal/x86_64/HWGrowlFirewireMonitor.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/HWGrowlFirewireMonitor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/FirewireMonitor.hwgrowlmonitor/Contents/Resources/en.lproj/InfoPlist.strings FirewireMonitor/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/FirewireMonitor.hwgrowlmonitor.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/FirewireMonitor.hwgrowlmonitor/Contents/MacOS/FirewireMonitor
+r0
+
+CLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/FirewireMonitor.hwgrowlmonitor/Contents/MacOS/FirewireMonitor normal x86_64
+r0
+
+CPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Info.plist
+s507447763.404148
+e507447763.414053
+r1
+xPreprocess
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist FirewireMonitor/FirewireMonitor-Info.plist147"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist FirewireMonitor/FirewireMonitor-Info.plist2f8967d3093fbe41^74ef69d3093fbe41^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Info.plist0000000000000000^837"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist FirewireMonitor/FirewireMonitor-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -E -P -x c -Wno-trigraphs /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Info.plist -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -traditional -CC -I /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist36"7849C25F-55D8-4734-857D-0B11E5338174-
+bA48E1BD1-41C8-4927-A289-D9CAEDA41361
+
+CProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/FirewireMonitor.hwgrowlmonitor/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist
+s507447763.415875
+e507447763.417798
+r1
+xProcessInfoPlistFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/FirewireMonitor.hwgrowlmonitor/Contents/Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Process /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist186"ProcessInfoPlistFile Build/Products/Debug/FirewireMonitor.hwgrowlmonitor/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist34816ad3093fbe41^d7f66ad3093fbe41^---0#0#1#-19%DVTDocumentLocation2@170"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist0000000000000000^640"ProcessInfoPlistFile Build/Products/Debug/FirewireMonitor.hwgrowlmonitor/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    builtin-infoPlistUtility /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/Preprocessed-Info.plist -expandbuildsettings -platform macosx -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/FirewireMonitor.hwgrowlmonitor/Contents/Info.plist36"30B43438-2942-493E-8D30-189E1E670797-
+bA48E1BD1-41C8-4927-A289-D9CAEDA41361
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-cwztdvkxvpjcwcdryfkyosnppruj/FirewireMonitor-Prefix.pch.pch FirewireMonitor/FirewireMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447763.485981
+e507447764.291792
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-cwztdvkxvpjcwcdryfkyosnppruj/FirewireMonitor-Prefix.pch.pch
+xFirewireMonitor/FirewireMonitor-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile FirewireMonitor/FirewireMonitor-Prefix.pch245"ProcessPCH Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-cwztdvkxvpjcwcdryfkyosnppruj/FirewireMonitor-Prefix.pch.pch FirewireMonitor/FirewireMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9cc07cd3093fbe41^f2b24ad4093fbe41^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Prefix.pch0000000000000000^3940"ProcessPCH Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-cwztdvkxvpjcwcdryfkyosnppruj/FirewireMonitor-Prefix.pch.pch FirewireMonitor/FirewireMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/FirewireMonitor-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/FirewireMonitor-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/FirewireMonitor-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/FirewireMonitor-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-cwztdvkxvpjcwcdryfkyosnppruj/FirewireMonitor-Prefix.pch.dia -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-cwztdvkxvpjcwcdryfkyosnppruj/FirewireMonitor-Prefix.pch.d -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-cwztdvkxvpjcwcdryfkyosnppruj/FirewireMonitor-Prefix.pch.pch36"0C1E3EC7-821B-44FD-BF5E-931F31EFCBFB-
+bA48E1BD1-41C8-4927-A289-D9CAEDA41361
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-dqbnevijrpvuskftluculpozkfcs/FirewireMonitor-Prefix.pch.pch FirewireMonitor/FirewireMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s507447763.579420
+e507447764.291807
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-dqbnevijrpvuskftluculpozkfcs/FirewireMonitor-Prefix.pch.pch
+xFirewireMonitor/FirewireMonitor-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile FirewireMonitor/FirewireMonitor-Prefix.pch245"ProcessPCH Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-dqbnevijrpvuskftluculpozkfcs/FirewireMonitor-Prefix.pch.pch FirewireMonitor/FirewireMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzerf77495d3093fbe41^1bb94ad4093fbe41^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Prefix.pch0000000000000000^4263"ProcessPCH Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-dqbnevijrpvuskftluculpozkfcs/FirewireMonitor-Prefix.pch.pch FirewireMonitor/FirewireMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/FirewireMonitor-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/FirewireMonitor-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/FirewireMonitor-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/FirewireMonitor-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/FirewireMonitor.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/FirewireMonitor/FirewireMonitor-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/FirewireMonitor-Prefix-dqbnevijrpvuskftluculpozkfcs/FirewireMonitor-Prefix.pch.pch36"ACA27153-0CF8-459C-9500-502CF343CECD-
+bA48E1BD1-41C8-4927-A289-D9CAEDA41361
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/FirewireMonitor-Prefix-azybnaucdhwhqmceunldnfhcsrza_ast/FirewireMonitor-Prefix.pch.pch FirewireMonitor/FirewireMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/FirewireMonitor.hwgrowlmonitor
+r0
+

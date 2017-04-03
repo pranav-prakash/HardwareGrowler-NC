@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>Growl</title>
+<link rel="stylesheet" href="../main.css" type="text/css">
+<meta charset="UTF-8">
+</head>
+<body>
+
+		<h3>Novidades no Growl 2.1</h3>
+		<h4>Alterações maiores</h4>
+		<ul>
+<li>Nós corrigimos a Ação do Automator. Sinto muito por isso, pessoal. O Xcode tentou ajudar as coisas com as configurações de validação de projeto. Isso resultou em alguma coisa fora do que se desejava. Nós corrigimos isso permanentemente.</li>
+			<li>Corrigido o protetor de tela e detecção de bloqueio para se comportar como esperado.</li>
+		</ul>
+<h3>Novidades no Growl 2.1</h3>
+		<h4>Alterações maiores</h4>
+		<ul>
+<li>Adicionada a habilitada de executar scripts como uma ação.</li>
+			<li>Adicionada a habilidade de controlar notificações via regras. Veja <a href="http://growl.info/documentation/applescript-rules">http://growl.info/documentation/applescript-rules</a> para mais informações.</li>
+			<li>Growl não trava mais ao receber uma grande quantidades de notas (mais do que 100)</li>
+			<li>Tela do Webkit agora pode ter botões de fechar personalizados.</li>
+
+		
+		</ul>
+<h4>Alterações gerais</h4>
+		<ul>
+<li>Deixado claro quando a aplicação decide por prioridade.</li>
+			<li>AppleScript aumenta o tamanho da imagem de 128x128 até 1024x1024.</li>
+			<li>Ao usar encaminhamento com o do Centro de Notificações, você agora verá notas em ambos computadores.</li>
+			<li>A plugin de ação Prowl agora envia as notificações corretamente, se ele estiver configurado para notificar ao ser clicado.</li>
+		</ul>
+<h4>Automator</h4>
+		<ul>
+<li>A ação do automator está agora traduzido.</li>
+			<li>O fluxo de trabalho do GrowlAction vai agora ler a partir da descrição da ação do Automator.</li>
+
+		</ul>
+<h3>Novidades no Growl 2</h3>
+			<h4>Geral</h4>
+			<ul>
+<li>Adicionado suporte para a Central de Notificações do OS X no 10.8.</li>
+				<li>Adicionado suporte para serviços Prowl e Boxcar como forma de exibição.</li>
+				<li>Agrupamento tem melhor detecção de inatividade.</li>
+				<li>Growl agora roda em sandbox.</li>
+			</ul>
+<h4>Preferências</h4>
+			<ul>
+<li>O botão de ON/OFF no Growl deve ser mais fácil de entender agora.</li>
+			</ul>
+<h4>Visuais</h4>
+			<ul>
+<li>Speech agora introduz melhores controles.</li>
+				<li>Separados os Visuais de Ação dos Visuais de Aparência.</li>
+				<li>Vídeo de Música agora pode ter texto em justificado à esquerda ou direita.</li>
+				<li>Correção de problemas de altura para notificações com múltiplas linhas no Vídeo de Música.</li>
+				<li>Nano agora pode ser exibido em múltiplas localizações, esquerda, centro e direita.</li>
+				<li>Adicionado um visual de SoundAction.</li>
+				<li>Adicionada uma forma para não haver notificações sobre visuais.</li>
+			</ul>
+<h4>Correção de Bugs</h4>
+			<ul>
+<li>Resolvido o problema de alto consumo de CPU.</li>
+				<li>Resolvido diversos travamentos.</li>
+				<li>Atalhos agora podem ser desfeitos.</li>
+			</ul>
+<h3>Novidades no Growl 1.4</h3>
+			<h4>Geral</h4>
+			<ul>
+<li>Aba de Aplicativos Redesenhada! Esta é uma grande mudança, e deve estar muito mais fácil de usar.</li>
+				<li>Movidos os controles do Agregamento para uma aba separada.</li>
+				<li>Grandes melhoramentos na conectividade.</li>
+			</ul>
+<h4>Painel de Preferências revisto:</h4>
+			<ul>
+<li>Novo botão de deslizador para ligar/desativar opções</li>
+				<li>Adicionado suporte a teclado para selecionar posição.</li>
+				<li>Aba Geral com novo layout.</li>
+				<li>Aba Rede - Adicionado suporte para inscrição</li>
+				<li>Aba Histórico, menu contextual para tabela de histórico para pular para as configurações de aplicativo/notificação</li>
+				<li>Aba Agrupamento é a nova central de controles relacionada à janela de Agrupamento.</li>
+				<li>Adição de um novo visual não deve mais exigir que Growl seja reiniciado.</li>
+			</ul>
+<h4>Conectividade</h4>
+			<ul>
+<li>Suporte a Notification-Callback-Target, um campo de URL em GNTP. Ao clicar, Growl deixa que OSX se cuide para abrir a URL (como, por exemplo, o navegador padrão para uma URL http://)</li>
+				<li>Suporte a inscrição, inscreva-se a todos aplicativos em uma máquina remota.</li>
+				<li>Melhoramentos gerais da autenticação de rede, removida sua necessidade, e uso de cabeçalhos de senha caso o campo de senha esteja vazio.</li>
+				<li>Correção de falha de conectividade relacionada a resolução de dados de endereço.</li>
+				<li>Vinculação a socket local somente se não estiver ouvindo notificações recebidas.</li>
+				<li>Cache de dados de endereço, e observação de alterações da rede para limpar caches.</li>
+			</ul>
+<h4>Applescript</h4>
+			<ul>
+<li>Suporte a feedback de clique em URL, mesmo que Notification-Callback-Target em GNTP.</li>
+			</ul>
+<h4>Correção de Bugs</h4>
+			<ul>
+<li>Resolvida uma falha com o bridge do plugin webkit na criação.</li>
+				<li>Resolvida uma falha com encaminhamento.</li>
+				<li>Resolvido um problema no qual a exibição de Speech esperava por mensagens anteriores, resultando em consumo total da CPU.</li>
+				<li>Resolvida uma falha com CFErrorGetDomain para Estilos de Exibição.</li>
+				<li>Corrigidas listagens duplicadas de visualização de plugins ao reinstalar.</li>
+				<li>Notification-Callback-Target agora é respeitado, e usado, mesmo sem o cabeçalho do método.</li>
+				<li>Resolvidos os problemas de base de dados de histórico corrompidas.</li>
+				<li>Corrigido um problema de ordenação ao deletar um registro da lista de histórico.</li>
+			</ul>
+</body>
+</html>

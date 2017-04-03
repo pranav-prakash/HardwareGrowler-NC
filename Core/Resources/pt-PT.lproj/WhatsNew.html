@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>Growl</title>
+<link rel="stylesheet" href="../main.css" type="text/css">
+<meta charset="UTF-8">
+</head>
+<body>
+
+		<h3>Novidades no Growl 2.1</h3>
+		<h4>Alterações principais</h4>
+		<ul>
+<li>Corrigimos os problemas com a acção do Automator, pelos quais pedimos desculpa. O Xcode tentou ajudar com as definições de validação do projecto, mas acabou por desligar algo que era necessário. Resolvemos isto permanentemente.</li>
+			<li>Resolvido problema com a detecção de protecção de ecrã e de bloqueio de ecrã para que funcione como esperado.</li>
+		</ul>
+<h3>Novidades no Growl 2.1</h3>
+		<h4>Alterações principais</h4>
+		<ul>
+<li>Adicionada a possibilidade de executar scripts como uma acção.</li>
+			<li>Adicionada a possibilidade de controlar notificações através de regras. Ver <a href="http://growl.info/documentation/applescript-rules">http://growl.info/documentation/applescript-rules</a> para mais informação.</li>
+			<li>O Growl já não deixa de responder quando recebe um elevado número de notas (mais de 100) de uma só vez.</li>
+			<li>As apresentações Webkit podem agora ter botões de fecho personalizados com estilos.</li>
+
+		
+		</ul>
+<h4>Alterações gerais</h4>
+		<ul>
+<li>Tornado mais claro quando a aplicação decide prioridades.</li>
+			<li>Aumento do tamanho da imagem no AppleScript de 128x128 para 1024x1024.</li>
+			<li>Ao utilizar encaminhamento em conjunto com encaminhamento para o Centro de notificações, agora verá notificações em ambos os computadores.</li>
+			<li>O plugin de acção Prowl agora envia notificações correctamente se tiver o clique em notificações definido.</li>
+		</ul>
+<h4>Automator</h4>
+		<ul>
+<li>A acção do Automator está agora traduzida.</li>
+			<li>A workflow GrowlAction irá agora ler da descrição da acção do Automator</li>
+
+		</ul>
+<h3>Novidades no Growl 2</h3>
+			<h4>Geral</h4>
+			<ul>
+<li>- Adiciona suporte para o Centro de notificações do OSX 10.8</li>
+				<li>Adiciona suporte para os serviços Prowl e Boxcar como acções.</li>
+				<li>O Agregador tem melhor detecção de inactividade</li>
+				<li>O Growl é agora executado numa sandbox.</li>
+			</ul>
+<h4>Preferências</h4>
+			<ul>
+<li>Os botão ON/OFF no Growl agora deverão ser mais fáceis de compreender.</li>
+			</ul>
+<h4>Aparências</h4>
+			<ul>
+<li>Maior controlo com a Fala.</li>
+				<li>Separados os estilos de apresentação dos das acções.</li>
+				<li>Pode justificar texto à direita e à esquerda no estilo Music Video.</li>
+				<li>Resolve problemas de altura para notificações de múltiplas linhas com o estilo Music Video.</li>
+				<li>O estilo Nano pode agora apresentar notificações em múltiplos locais, esquerda, centro e direita.</li>
+				<li>Adicionada uma apresentação SoundAction.</li>
+				<li>Adicionada uma forma de não ter quaisquer notificações visuais.</li>
+			</ul>
+<h4>Resolução de problemas</h4>
+			<ul>
+<li>Resolvido o problema com a elevada utilização do CPU.</li>
+				<li>Resolvidas várias falhas.</li>
+				<li>Os atalhos de teclado podem agora ser removidos.</li>
+			</ul>
+<h3>Alterações no Growl 1.4</h3>
+			<h4>Geral</h4>
+			<ul>
+<li>Redesign do separador de Aplicações! Trata-se de uma grande reformulação, deverá ser muito mais fácil de utilizar.</li>
+				<li>Movidos controlos do Agregador para um separador à parte.</li>
+				<li>Grandes melhoramentos no suporte de rede.</li>
+			</ul>
+<h4>Reorganização do Painel de preferências</h4>
+			<ul>
+<li>Novo interruptor para botões I/O.</li>
+				<li>Adicionado suporte para teclado ao seleccionador de posição.</li>
+				<li>Reorganização do separador Geral</li>
+				<li>Separador Rede - Adicionado suporte para subcrições</li>
+				<li>Separador Histórico, menu de contexto na tabela do histórico para saltar para as definições da app/notificações.</li>
+				<li>O separador Agregador é a nova casa dos controlos e definições relacionadas com o Agregador</li>
+				<li>Adicionar uma nova apresentação agora não deverá necessitar que o Growl reinicie</li>
+			</ul>
+<h4>Rede</h4>
+			<ul>
+<li>Suporte para Notification-Callback-Target, um campo de URL no GNTP. Ao clicar, o Growl permite ao OS X decidir como abrir o URL (como por exemplo o browser predefinido para um url http:// )</li>
+				<li>Suporte para subscrições, subscrever todas as aplicações numa máquina remota.</li>
+				<li>- Melhoramentos gerais na autenticação de rede, removida a necessidade de, e a utilização de cabeçalhos de palavra-passe se o campo de palavra-passe estiver em branco.</li>
+				<li>Resolvida falha de rede relacionada com a resolução de dados de endereço.</li>
+				<li>Apenas vincular ao socket local se não estiver a escutar para recepção de notificações.</li>
+				<li>Cache de dados de endereços e monitorização de alterações na rede para limpar caches</li>
+			</ul>
+<h4>Applescript</h4>
+			<ul>
+<li>Suporte a resposta a cliques em URL, tal como Notification-Callback-Target no GNTP</li>
+			</ul>
+<h4>Resolução de problemas</h4>
+			<ul>
+<li>Resolvida uma falha com a bridge de plugins webkit na criação.</li>
+				<li>Resolvida uma falha com o reencaminhamento.</li>
+				<li>Resolvido um problema com a apresentação Speech em que esperava pela mensagem anterior terminar causando um utilização excessiva do CPU.</li>
+				<li>Resolvida uma falha com CFErrorGetDomain para estilos de apresentação Webkit.</li>
+				<li>Resolvida a listagem duplicada dos plugins de apresentação após reinstalar.</li>
+				<li>- Notification-Callback-Target é agora respeitado e utilizado, mesmo sem o cabeçalho do método.</li>
+				<li>Contornados os problemas com bases de dados de Histórico corruptas.</li>
+				<li>Resolvido um problema de ordenação ao eliminar uma entrada na lista de histórico.</li>
+			</ul>
+</body>
+</html>

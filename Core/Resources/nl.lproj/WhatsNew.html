@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>Growl</title>
+<link rel="stylesheet" href="../main.css" type="text/css">
+<meta charset="UTF-8">
+</head>
+<body>
+
+		<h3>Nieuw in Growl 2.1</h3>
+		<h4>Grote wijzigingen</h4>
+		<ul>
+<li>We hebben de Automator Actie gerepareerd. Excuses daarvoor. Xcode probeerde te helpen bij de instellingen voor projectvalidatie. Dit deactiveerde op zijn beurt iets dat vereist was. Dit is nu permanent verholpen.</li>
+			<li>Schermbeveiliging en vergrendeldetectie doen het weer zoals bedoeld.</li>
+		</ul>
+<h3>Nieuw in Growl 2.1</h3>
+		<h4>Grote wijzigingen</h4>
+		<ul>
+<li>Mogelijkheid toegevoegd om script als actie te starten.</li>
+			<li>Mogelijkheid toegevoegd om meldingen te besturen via regels. Zie <a href="http://growl.info/documentation/applescript-rules">http://growl.info/documentation/applescript-rules</a> voor meer informatie.</li>
+			<li>Growl hangt niet langer bij ontvangst van grote hoeveelheden meldingen (meer dan 100) in een keer.</li>
+			<li>Webkit-weergaven kunnen nu eigen sluitknoppen met opmaak bevatten.</li>
+
+		
+		</ul>
+<h4>Algemene wijzigingen</h4>
+		<ul>
+<li>Verduidelijkt wanneer het programma prioriteit bepaalt.</li>
+			<li>AppleScript vergroot de afbeeldingsgrootte van 128x128 naar 1024x1024.</li>
+			<li>Bij gebruik van doorsturen met Berichtencentrum-doorsturen, ziet u nu meldingen op beide computers.</li>
+			<li>De Prowl-actieplugin stuurt nu de meldingen correct als het de melding-terugklik ingesteld heeft staan.</li>
+		</ul>
+<h4>Automator</h4>
+		<ul>
+<li>De automator-actie is nu vertaald.</li>
+			<li>De GrowlAction-workflow leest nu van de omschrijving van de Automator-actie.</li>
+
+		</ul>
+<h3>Nieuw in Growl 2</h3>
+			<h4>Algemeen</h4>
+			<ul>
+<li>Voegt ondersteuning toe voor OS X berichtencentrum toe onder 10.8.</li>
+				<li>Voegt ondersteuning voor Prowl en Boxcar-voorzieningen als actieweergaven.</li>
+				<li>Samenvatting heeft verbeterde pauzedetectie.</li>
+				<li>Growl is nu sandboxed.</li>
+			</ul>
+<h4>Voorkeuren</h4>
+			<ul>
+<li>De AAN/UIT schakelaar binnen Growl moet nu eenvoudiger te begrijpen zijn.</li>
+			</ul>
+<h4>Toonstijlen</h4>
+			<ul>
+<li>Spraak is nu beter te besturen.</li>
+				<li>Scheiding tussen Actietoonstijlen Visuele toonstijlen.</li>
+				<li>Muziekvideo kan nu tekst links en rechts uitlijnen.</li>
+				<li>Verbeteringen in de hoogte bij meerregelige meldingen in Muziekvideo.</li>
+				<li>Nano kan nu op meerdere locaties worden weergegeven, links, rechts en midden.</li>
+				<li>SoundAction-toonstijl toegevoegd.</li>
+				<li>Voorkeur om visuele meldingen te onderdrukken.</li>
+			</ul>
+<h4>Opgeloste problemen</h4>
+			<ul>
+<li>Lost hoog CPU-verbruik op.</li>
+				<li>Lost bepaalde onverwachte stops op.</li>
+				<li>Snelkoppelingen kunnen nu ook worden verwijderd.</li>
+			</ul>
+<h3>Growl 1.4 wijzigingen</h3>
+			<h4>Algemeen</h4>
+			<ul>
+<li>Programma's-tab opnieuw ontworpen! Dit is een groot herontwerp en moet tot meer gebruiksgemak leiden.</li>
+				<li>Besturing van Samenvatting verplaatst naar eigen tab.</li>
+				<li>Grote verbeteringen in netwerken.</li>
+			</ul>
+<h4>Herontwerp voorkeurenpaneel</h4>
+			<ul>
+<li>Nieuwe schuifregelaar voor aan/uit</li>
+				<li>Toetsenbordondersteuning toegevoegd aan positiebepaling.</li>
+				<li>Algemeen herontwerp tabs.</li>
+				<li>Netwerktab - ondersteuning voor abonneren</li>
+				<li>Historietab, contextueel menu voor historieoverzicht om naar de volgende app/meldingsinstellingen te springen</li>
+				<li>Samenvattingtab is de nieuwe plaats voor besturing van het Samenvattingvenster.</li>
+				<li>Toevoegen van een nieuwe toonstijl vereist niet langer een herstart van Growl.</li>
+			</ul>
+<h4>Netwerk</h4>
+			<ul>
+<li>Ondersteuning voor Notification-Callback-Target, een URL-veld in GNTP. Bij klikken laat Growl OSX uitzoeken hoe de URL moet worden geopend (zoals de standaardbrowser voor http://)</li>
+				<li>Ondersteuning voor abonneren, abonneer u op alle programma's op een andere machine.</li>
+				<li>Algemene verbeteringen in netwerkauthenticatie, vereiste verwijderd voor wachtwoordheaders als het wachtwoordveld leeg is</li>
+				<li>Netwerkcrash opgelost gerelateerd aan resolutie van adresgegevens.</li>
+				<li>Bind alleen met lokale socket als we niet staan te luisteren naar inkomende verbindingen.</li>
+				<li>Caching van adresgegevens en monitoren van netwerkwijzigingen om caches te legen.</li>
+			</ul>
+<h4>AppleScript</h4>
+			<ul>
+<li>URL-klik feedbackondersteuning, gelijk aan Notification-Callback-Target in GNTP</li>
+			</ul>
+<h4>Opgeloste problemen</h4>
+			<ul>
+<li>Probleem opgelost met webkit plugin bridge bij aanmaken.</li>
+				<li>Probleem opgelost met doorsturen.</li>
+				<li>Probleem opgelost waarbij de Spraaktoonstijl op voltooiing van een vorig bericht wacht en de CPU overbelast</li>
+				<li>Probleem opgelost met CFErrorGetDomain voor WebKit-toonstijlen.</li>
+				<li>Dubbele vermeldingen van weergaveplugins opgelost bij herinstallatie.</li>
+				<li>Er wordt nu rekening gehouden met Notification-Callback-Target, en gebruik gemaakt van, zelfs zonder method-header.</li>
+				<li>Om problemen heen gewerkt met betrekking tot defecte historie-databestanden.</li>
+				<li>Sorteerprobleem opgelost wanneer een onderdeel van de historielijst wordt verwijderd.</li>
+			</ul>
+</body>
+</html>

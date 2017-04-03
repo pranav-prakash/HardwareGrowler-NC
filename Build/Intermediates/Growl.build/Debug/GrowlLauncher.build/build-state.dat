@@ -1,0 +1,667 @@
+TGrowlLauncher
+v6
+r1
+cCheck dependencies
+cPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Info.plist
+cProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-awxeakaqwrhubncdoexbhatxfxgc/GrowlLauncher-Prefix.pch.pch GrowlLauncher/GrowlLauncher-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/main.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/AppDelegate.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher normal x86_64
+cGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher
+cCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/InfoPlist.strings GrowlLauncher/en.lproj/InfoPlist.strings
+cCpResource GrowlLauncher/en.lproj/Credits.rtf Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/en.lproj/MainMenu.xib
+cCpResource images/Growl.icns Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/Growl.icns
+cTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app
+cProcessProductPackaging /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher.entitlements /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher.xcent
+cCodeSign /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005228144B00000000000000AA
+t1378358347
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005228143200000000000004B3
+t1378358322
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005227ECC800000000000001DE
+t1378348232
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c00000000533B9F1A000000000024BF04
+t1396416282
+s2408196
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000533B9F1B0000000000007C70
+t1396416283
+s31856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c00000000533B9F1B0000000000020E90
+t1396416283
+s134800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c00000000533B9F1B000000000001A05C
+t1396416283
+s106588
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c00000000533B9F1B00000000000359C8
+t1396416283
+s219592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c00000000533B9F1B000000000000CC94
+t1396416283
+s52372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c00000000533B9F1B000000000002C318
+t1396416283
+s181016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c00000000533B9F1B00000000000283C4
+t1396416283
+s164804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c00000000533B9F1B0000000000013F68
+t1396416283
+s81768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000533B9F1B000000000004BC80
+t1396416283
+s310400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005228145F00000000000025C8
+t1378358367
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000533B9F1C0000000000045D30
+t1396416284
+s286000
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000533B9F1C000000000008163C
+t1396416284
+s529980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9F1D0000000000087790
+t1396416285
+s554896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000533B9F1D000000000000962C
+t1396416285
+s38444
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c00000000533B9F1D0000000000020624
+t1396416285
+s132644
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c00000000533B9F1D000000000006F490
+t1396416285
+s455824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c00000000533B9F1D0000000000016F90
+t1396416285
+s94096
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c00000000533B9F1D000000000004546C
+t1396416285
+s283756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c00000000533B9F1D000000000002FA40
+t1396416285
+s195136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c00000000533B9F1D0000000000041644
+t1396416285
+s267844
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c00000000533B9F1E000000000001B5F8
+t1396416286
+s112120
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000533B9F1E000000000002E0E4
+t1396416286
+s188644
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9F1E00000000000C4C54
+t1396416286
+s805972
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000533B9F1F0000000000035AE4
+t1396416287
+s219876
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/crt1.10.6.o
+c000000004FE221DF0000000000002310
+t1340219871
+s8976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+c0000000052281464000000000000654C
+t1378358372
+s25932
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+c00000000533B9F3500000000000143EC
+t1396416309
+s82924
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+c00000000533B9F350000000000004528
+t1396416309
+s17704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000533B9F35000000000000EDB8
+t1396416309
+s60856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000533B9F35000000000000984C
+t1396416309
+s38988
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+c00000000533B9F350000000000004FEC
+t1396416309
+s20460
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+c00000000533B9F350000000000009F64
+t1396416309
+s40804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+c00000000533B9F3500000000000031D0
+t1396416309
+s12752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+c00000000533B9F3500000000000052E4
+t1396416309
+s21220
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+c00000000533B9F350000000000002D34
+t1396416309
+s11572
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+c00000000533B9F3500000000000084E8
+t1396416309
+s34024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+c00000000533B9F350000000000004FF4
+t1396416309
+s20468
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+c00000000533B9F3500000000000047A4
+t1396416309
+s18340
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+c00000000533B9F350000000000004364
+t1396416309
+s17252
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000533B9F350000000000002EF0
+t1396416309
+s12016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+c00000000533B9F350000000000046BB8
+t1396416309
+s289720
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000533B9F3500000000000067BC
+t1396416309
+s26556
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+c00000000533B9F35000000000001AD9C
+t1396416309
+s109980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000533B9F350000000000016C74
+t1396416309
+s93300
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+c00000000533B9F35000000000000F204
+t1396416309
+s61956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533B9F350000000000008EC8
+t1396416309
+s36552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000533B9F350000000000008B14
+t1396416309
+s35604
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000533B9F3500000000000047C0
+t1396416309
+s18368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+c00000000533B9F3500000000000044D8
+t1396416309
+s17624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+c00000000533B9F3500000000000067AC
+t1396416309
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+c00000000533B9F350000000000011E4C
+t1396416309
+s73292
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+c00000000533B9F77000000000000BAF8
+t1396416375
+s47864
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c00000000533B9F790000000000001770
+t1396416377
+s6000
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005840DCD100000000000066C0
+t1480645841
+s26304
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher.xcent
+t1485754479
+s240
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/AppDelegate.o
+t1485754191
+s18808
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/GrowlLauncher.LinkFileList
+c00000000588ECCD80000000000000141
+t1485753560
+s321
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/main.o
+t1485754191
+s2736
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist
+t1485753560
+s1162
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-awxeakaqwrhubncdoexbhatxfxgc/GrowlLauncher-Prefix.pch.pch
+t1485754185
+s13097784
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-defisspsmecslweoyfqgmvzyqgkx/GrowlLauncher-Prefix.pch.pch
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app
+t1485754487
+s102
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app.dSYM
+t1485754487
+s102
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Info.plist
+t1485753560
+s1531
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher
+t1485754487
+s35808
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/PkgInfo
+t1485753560
+s8
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/Growl.icns
+t1485754473
+s1388546
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/Credits.rtf
+t1485754473
+s436
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1485754473
+s92
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/MainMenu.nib
+t1485754473
+s136
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/AppDelegate.h
+c00000000525A296800000000000000F4
+t1381640552
+s244
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/AppDelegate.m
+c00000000525A29680000000000000436
+t1381640552
+s1078
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Info.plist
+c00000000525A29680000000000000480
+t1381640552
+s1152
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Prefix.pch
+c00000000525A2968000000000000009C
+t1381640552
+s156
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher.entitlements
+c00000000525A296800000000000000F0
+t1381640552
+s240
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/en.lproj/Credits.rtf
+c00000000525A296800000000000001B4
+t1381640552
+s436
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/en.lproj/InfoPlist.strings
+c00000000525A2968000000000000002D
+t1381640552
+s45
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/en.lproj/MainMenu.xib
+c00000000525A29680000000000022C13
+t1381640552
+s142355
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/main.m
+c00000000525A2968000000000000010A
+t1381640552
+s266
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/images/Growl.icns
+c00000000525A29680000000000153002
+t1381640552
+s1388546
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/AppDelegate.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3bc86bec083fbe41^402f6cec083fbe41^---0#1#1#--18"Check dependencies36"5B0B2327-10C7-4B39-A96B-6844705E452A-
+
+CCodeSign /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app
+s507447287.080182
+e507447287.162267
+r1
+xCodeSign
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app
+o/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CodeSign Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app70"CodeSign Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.appa39414f7073fbe41^4c8829f7073fbe41^-139"/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@116"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/0000000000000000^703"CodeSign Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    Using code signing identity "3rd Party Mac Developer Application: The Growl Project, LLC"    /usr/bin/codesign --force --sign 5FC89A28B2787126974C9DF6A1938F8FD7A95837 --entitlements /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher.xcent /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app36"497CF78A-4B49-4D5F-AF56-5573297394C1-
+bC64518D1-A585-46DA-9C1D-597BA1A88D53
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/AppDelegate.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507446991.534030
+e507446991.648888
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/AppDelegate.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/AppDelegate.m223"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/AppDelegate.o GrowlLauncher/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbbd488cf063fbe41^1823a6cf063fbe41^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/AppDelegate.m0000000000000000^3882"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/AppDelegate.o GrowlLauncher/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-awxeakaqwrhubncdoexbhatxfxgc/GrowlLauncher-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/AppDelegate.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/AppDelegate.o36"C6A8D7EB-CC7D-4EDF-B704-CCE88C4C56F6-
+bA569AD45-411D-4BE5-8E19-A407B47908AC
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/main.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507446991.533678
+e507446991.648873
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/main.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/main.m209"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/main.o GrowlLauncher/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6cb088cf063fbe41^b81da6cf063fbe41^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/main.m0000000000000000^3840"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/main.o GrowlLauncher/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-awxeakaqwrhubncdoexbhatxfxgc/GrowlLauncher-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/main.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/main.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/main.o36"CD4C20FD-7A14-427F-BDAC-71361425F923-
+bA569AD45-411D-4BE5-8E19-A407B47908AC
+
+CCompileXIB /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/en.lproj/MainMenu.xib
+s507447273.143089
+e507447273.788708
+r1
+xCompileXIB
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/en.lproj/MainMenu.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compiling /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/en.lproj/MainMenu.xib46"CompileXIB GrowlLauncher/en.lproj/MainMenu.xib30ba24e9073fbe41^ddeac9e9073fbe41^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/en.lproj/MainMenu.xib0000000000000000^608"CompileXIB GrowlLauncher/en.lproj/MainMenu.xib    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --flatten NO --errors --warnings --notices --minimum-deployment-target 10.7 --output-format human-readable-text --compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/MainMenu.nib /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/en.lproj/MainMenu.xib36"69FAAE6D-CD22-4D4F-9DFC-2E3EC881BDFD-
+b69EB0BA2-17AF-4178-B148-2AE4038B37DC
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/InfoPlist.strings GrowlLauncher/en.lproj/InfoPlist.strings
+s507447273.140749
+e507447273.141639
+r1
+xCopyStringsFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/InfoPlist.strings
+xGrowlLauncher/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy GrowlLauncher/en.lproj/InfoPlist.strings164"CopyStringsFile Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/InfoPlist.strings GrowlLauncher/en.lproj/InfoPlist.strings901124e9073fbe41^c53b24e9073fbe41^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/en.lproj/InfoPlist.strings0000000000000000^490"CopyStringsFile Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/InfoPlist.strings GrowlLauncher/en.lproj/InfoPlist.strings    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj -- GrowlLauncher/en.lproj/InfoPlist.strings36"7B6892A6-0540-4740-96C5-47B657232AEA-
+b69EB0BA2-17AF-4178-B148-2AE4038B37DC
+
+CCpResource GrowlLauncher/en.lproj/Credits.rtf Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/Credits.rtf
+s507447273.141889
+e507447273.143381
+r1
+xCpResource
+xGrowlLauncher/en.lproj/Credits.rtf
+xExtras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/Credits.rtf147"CpResource GrowlLauncher/en.lproj/Credits.rtf Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/Credits.rtf5b5b24e9073fbe41^fab624e9073fbe41^---0#0#1#-19%DVTDocumentLocation2@155"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/Credits.rtf0034dceddeffdf42^533"CpResource GrowlLauncher/en.lproj/Credits.rtf Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/en.lproj/Credits.rtf /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/en.lproj36"81759D5A-909D-43B4-8495-B07818426CBB-
+b69EB0BA2-17AF-4178-B148-2AE4038B37DC
+
+CCpResource images/Growl.icns Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/Growl.icns
+s507447273.143786
+e507447273.145791
+r1
+xCpResource
+ximages/Growl.icns
+xExtras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/Growl.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/Growl.icns120"CpResource images/Growl.icns Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/Growl.icnsaed724e9073fbe41^fa6025e9073fbe41^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/Growl.icns0034dceddeffdf42^480"CpResource images/Growl.icns Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources/Growl.icns    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/cs/Downloads/Growl-stable--2c0987f24e3b/images/Growl.icns /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Resources36"4BB51195-ED13-48FB-894F-1E27D3055923-
+b69EB0BA2-17AF-4178-B148-2AE4038B37DC
+
+CGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher
+s507447287.063518
+e507447287.075867
+r1
+xGenerateDSYMFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app.dSYM
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generate /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app.dSYM174"GenerateDSYMFile Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app.dSYM Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLaunchere84a10f7073fbe41^745e13f7073fbe41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app.dSYM/0000000000000000^584"GenerateDSYMFile Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app.dSYM Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app.dSYM36"F38C6120-88A5-4ECD-AE54-8D95E89B8860-
+bC64518D1-A585-46DA-9C1D-597BA1A88D53
+
+CLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher normal x86_64
+s507446993.565619
+e507446993.679925
+r1
+xLd
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher
+xnormal
+xx86_64
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/GrowlLauncher.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/crt1.10.6.o
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/main.o
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/AppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Link /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher107"Ld Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher normal x86_6455dc90d1063fbe41^f417aed1063fbe41^---0#0#1#--1218"Ld Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher normal x86_64    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -filelist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/GrowlLauncher.LinkFileList -mmacosx-version-min=10.7 -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Objects-normal/x86_64/GrowlLauncher_dependency_info.dat -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/MacOS/GrowlLauncher36"4805F10E-F1A2-440A-A30A-0A33A57FC3DD-
+bB6A4625F-CDCB-4360-91E8-1570695BB304
+
+CPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Info.plist
+s507446360.422478
+e507446360.430661
+r1
+xPreprocess
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Preprocess Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist GrowlLauncher/GrowlLauncher-Info.plist154"Preprocess Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist GrowlLauncher/GrowlLauncher-Info.plistf4346c58043fbe41^ffeb7058043fbe41^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Info.plist0000000000000000^813"Preprocess Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist GrowlLauncher/GrowlLauncher-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -E -P -x c -Wno-trigraphs /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Info.plist -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include Info.plist-Prefix.pch -traditional -CC -I /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist36"481E7DCC-FADA-4D04-9D8A-6CFE74A2FB44-
+bF09F175B-3955-4A1C-89E2-E4789E6F3E76
+
+CProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist
+s507446360.431026
+e507446360.432412
+r1
+xProcessInfoPlistFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Process /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist207"ProcessInfoPlistFile Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Info.plist Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plistb7636e58043fbe41^b7f07058043fbe41^---0#0#1#-19%DVTDocumentLocation2@158"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist0000000000000000^751"ProcessInfoPlistFile Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Info.plist Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    builtin-infoPlistUtility /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/Preprocessed-Info.plist -genpkginfo /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app/Contents/Info.plist36"BEB6E109-90A6-4B87-80B3-7B2CFA7A0B21-
+bF09F175B-3955-4A1C-89E2-E4789E6F3E76
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-awxeakaqwrhubncdoexbhatxfxgc/GrowlLauncher-Prefix.pch.pch GrowlLauncher/GrowlLauncher-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507446984.599622
+e507446985.174782
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-awxeakaqwrhubncdoexbhatxfxgc/GrowlLauncher-Prefix.pch.pch
+xGrowlLauncher/GrowlLauncher-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile GrowlLauncher/GrowlLauncher-Prefix.pch260"ProcessPCH Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-awxeakaqwrhubncdoexbhatxfxgc/GrowlLauncher-Prefix.pch.pch GrowlLauncher/GrowlLauncher-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd09899c8063fbe41^a1bf2cc9063fbe41^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Prefix.pch0000000000000000^3812"ProcessPCH Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-awxeakaqwrhubncdoexbhatxfxgc/GrowlLauncher-Prefix.pch.pch GrowlLauncher/GrowlLauncher-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-awxeakaqwrhubncdoexbhatxfxgc/GrowlLauncher-Prefix.pch.dia -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-awxeakaqwrhubncdoexbhatxfxgc/GrowlLauncher-Prefix.pch.d -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-awxeakaqwrhubncdoexbhatxfxgc/GrowlLauncher-Prefix.pch.pch36"10A4A736-DF55-4B08-B8A0-D9C762334E9E-
+bC8A95825-72CD-4F46-88D5-190D9B86F996
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-defisspsmecslweoyfqgmvzyqgkx/GrowlLauncher-Prefix.pch.pch GrowlLauncher/GrowlLauncher-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507446938.556856
+e507446938.562256
+r0
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-defisspsmecslweoyfqgmvzyqgkx/GrowlLauncher-Prefix.pch.pch
+xGrowlLauncher/GrowlLauncher-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: argument '-fcatch-undefined-behavior' is deprecated, use '-fsanitize=undefined-trap -fsanitize-undefined-trap-on-error' instead
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile GrowlLauncher/GrowlLauncher-Prefix.pch260"ProcessPCH Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-defisspsmecslweoyfqgmvzyqgkx/GrowlLauncher-Prefix.pch.pch GrowlLauncher/GrowlLauncher-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc7a18e9a063fbe41^73f18f9a063fbe41^-267"clang: error: argument '-fcatch-undefined-behavior' is deprecated, use '-fsanitize=undefined-trap -fsanitize-undefined-trap-on-error' insteadCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-507446938#18446744073709551615#0#-2#--20"Apple LLVM 5.0 Error--0#0#1#-19%DVTDocumentLocation3@92"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Prefix.pch0000000000000000^3839"ProcessPCH Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-defisspsmecslweoyfqgmvzyqgkx/GrowlLauncher-Prefix.pch.pch GrowlLauncher/GrowlLauncher-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -fcatch-undefined-behavior --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-defisspsmecslweoyfqgmvzyqgkx/GrowlLauncher-Prefix.pch.dia -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-defisspsmecslweoyfqgmvzyqgkx/GrowlLauncher-Prefix.pch.d -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlLauncher-Prefix-defisspsmecslweoyfqgmvzyqgkx/GrowlLauncher-Prefix.pch.pch36"C74F77E0-8227-4ED5-93DC-4BA93CDF1AE0-
+b19534A9A-866E-4596-BC22-B083868507BD
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/GrowlLauncher-Prefix-bqbgzearodnlxwgbyeknbrqxhzkg_ast/GrowlLauncher-Prefix.pch.pch GrowlLauncher/GrowlLauncher-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/GrowlLauncher-Prefix-ftmsfurlpmlsaycycgrvwzxajetr_ast/GrowlLauncher-Prefix.pch.pch GrowlLauncher/GrowlLauncher-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher.entitlements /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher.xcent
+s507447279.077813
+e507447279.078635
+r1
+xProcessProductPackaging
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher.entitlements
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection165"ProcessProductPackaging GrowlLauncher/GrowlLauncher.entitlements Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher.xcent165"ProcessProductPackaging GrowlLauncher/GrowlLauncher.entitlements Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher.xcentbaf413ef073fbe41^03b518ef073fbe41^---0#0#1#-19%DVTDocumentLocation2@154"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher.xcent0034dceddeffdf42^521"ProcessProductPackaging GrowlLauncher/GrowlLauncher.entitlements Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher.xcent    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    builtin-productPackagingUtility /Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlLauncher/GrowlLauncher.entitlements -entitlements -format xml -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlLauncher.build/GrowlLauncher.xcent36"5E8B2214-7DC7-410F-B0DD-7F17393039EA-
+b1D89CAF3-9472-4B8C-B69B-CC2FE54945B7
+
+CTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app
+s507447287.076604
+e507447287.079715
+r1
+xTouch
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Touch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app67"Touch Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app4ca513f7073fbe41^666814f7073fbe41^---0#0#1#--253"Touch Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    /usr/bin/touch -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlLauncher.app36"A46CF4DF-3E4F-438A-B558-4D8B6D9926C1-
+bC64518D1-A585-46DA-9C1D-597BA1A88D53
+

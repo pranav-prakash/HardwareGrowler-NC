@@ -1,0 +1,399 @@
+TGrowl.framework
+v6
+r1
+cCheck dependencies
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/CFURLAdditions.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlCodeSignUtilities.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlNetworkUtilities.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlOperatingSystemVersion.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlPathUtilities.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlProcessUtilities.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/NSObject+XPCHelpers.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/NSStringAdditions.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GNTPKey.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlGNTPDefines.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlImageAdditions.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPNotifyPacket.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPPacket.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPRegisterPacket.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPUtilities.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlApplicationBridge.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlApplicationBridgeNotificationAttempt.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlApplicationBridgeRegistrationAttempt.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlCommunicationAttempt.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlDelegate.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlGNTPCommunicationAttempt.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlGNTPNotificationAttempt.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlGNTPRegistrationAttempt.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlNote.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCCommunicationAttempt.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCNotificationAttempt.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCRegistrationAttempt.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCSubscriptionAttempt.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/GrowlMiniDispatch.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/GrowlMistView.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/GrowlMistWindowController.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/NSImageAdditions.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionColumn.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionController.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlQuadTreeNode.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/cocoaasyncsocket/GCD/GCDAsyncSocket.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/iso8601parser/ISO8601DateFormatter.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3baa5ad3093fbe41^f772f7d3093fbe41^---0#1#1#--18"Check dependencies36"910A9017-8BEE-47B1-AACF-95B62AB4A2FB-
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/CFURLAdditions.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/CFURLAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GCDAsyncSocket.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/cocoaasyncsocket/GCD/GCDAsyncSocket.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GNTPKey.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GNTPKey.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GNTPNotifyPacket.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPNotifyPacket.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GNTPPacket.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPPacket.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GNTPRegisterPacket.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPRegisterPacket.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GNTPUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPUtilities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlApplicationBridge.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlApplicationBridge.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlApplicationBridgeNotificationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlApplicationBridgeNotificationAttempt.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlApplicationBridgeRegistrationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlApplicationBridgeRegistrationAttempt.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlCodeSignUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlCodeSignUtilities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlCommunicationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlCommunicationAttempt.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlDelegate.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlGNTPCommunicationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlGNTPCommunicationAttempt.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlGNTPDefines.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlGNTPDefines.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlGNTPNotificationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlGNTPNotificationAttempt.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlGNTPRegistrationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlGNTPRegistrationAttempt.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlImageAdditions.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlImageAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlMiniDispatch.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/GrowlMiniDispatch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlMistView.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/GrowlMistView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlMistWindowController.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/GrowlMistWindowController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlNetworkUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlNetworkUtilities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlNote.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlNote.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlOperatingSystemVersion.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlOperatingSystemVersion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlPathUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlPathUtilities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlPositionColumn.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionColumn.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlPositionController.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlProcessUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlProcessUtilities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlQuadTreeNode.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlQuadTreeNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlXPCCommunicationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCCommunicationAttempt.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlXPCNotificationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCNotificationAttempt.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlXPCRegistrationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCRegistrationAttempt.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/GrowlXPCSubscriptionAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCSubscriptionAttempt.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/ISO8601DateFormatter.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/iso8601parser/ISO8601DateFormatter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/NSImageAdditions.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/NSImageAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/NSObject+XPCHelpers.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/NSObject+XPCHelpers.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/NSStringAdditions.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/NSStringAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/CFURLAdditions.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/CFURLAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GCDAsyncSocket.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/cocoaasyncsocket/GCD/GCDAsyncSocket.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GNTPKey.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GNTPKey.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GNTPNotifyPacket.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPNotifyPacket.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GNTPPacket.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPPacket.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GNTPRegisterPacket.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPRegisterPacket.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GNTPUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Developer\ Tools/GNTPTestServer/GNTPTestServer/GNTPUtilities.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlApplicationBridge.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlApplicationBridge.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlApplicationBridgeNotificationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlApplicationBridgeNotificationAttempt.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlApplicationBridgeRegistrationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlApplicationBridgeRegistrationAttempt.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlCodeSignUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlCodeSignUtilities.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlCommunicationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlCommunicationAttempt.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlDelegate.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlGNTPCommunicationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlGNTPCommunicationAttempt.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlGNTPDefines.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlGNTPDefines.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlGNTPNotificationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlGNTPNotificationAttempt.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlGNTPRegistrationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlGNTPRegistrationAttempt.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlImageAdditions.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlImageAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlMiniDispatch.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/GrowlMiniDispatch.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlMistView.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/GrowlMistView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlMistWindowController.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/GrowlMistWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlNetworkUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlNetworkUtilities.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlNote.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlNote.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlOperatingSystemVersion.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlOperatingSystemVersion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlPathUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlPathUtilities.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlPositionColumn.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionColumn.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlPositionController.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlProcessUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlProcessUtilities.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlQuadTreeNode.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlQuadTreeNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlXPCCommunicationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCCommunicationAttempt.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlXPCNotificationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCNotificationAttempt.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlXPCRegistrationAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCRegistrationAttempt.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/GrowlXPCSubscriptionAttempt.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlXPCSubscriptionAttempt.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/ISO8601DateFormatter.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/iso8601parser/ISO8601DateFormatter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/NSImageAdditions.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/Mist/NSImageAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/NSObject+XPCHelpers.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/NSObject+XPCHelpers.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/NSStringAdditions.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/NSStringAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCpHeader Common/Source/GrowlCodeSignUtilities.h Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Versions/A/Headers/GrowlCodeSignUtilities.h
+r0
+
+CCpHeader Common/Source/GrowlDefines.h Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Versions/A/Headers/GrowlDefines.h
+r0
+
+CCpHeader Framework/Source/Growl.h Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Versions/A/Headers/Growl.h
+r0
+
+CCpHeader Framework/Source/GrowlApplicationBridge.h Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Versions/A/Headers/GrowlApplicationBridge.h
+r0
+
+CCpHeader Framework/Source/GrowlApplicationBridge_Private.h Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Versions/A/PrivateHeaders/GrowlApplicationBridge_Private.h
+r0
+
+CCpHeader Framework/Source/GrowlNote.h Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Versions/A/Headers/GrowlNote.h
+r0
+
+CCpHeader Framework/Source/GrowlNote_Private.h Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Versions/A/PrivateHeaders/GrowlNote_Private.h
+r0
+
+CCreateUniversalBinary /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Versions/A/Growl normal x86_64\ i386
+r0
+
+CGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Growl.framework.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Versions/A/Growl
+r0
+
+CLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/i386/Growl normal i386
+r0
+
+CLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Objects-normal/x86_64/Growl normal x86_64
+r0
+
+CPhaseScriptExecution Run\ Script /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Script-34F6105E078E4D4B00CECA86.sh
+r0
+
+CPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Resources/Growl.framework-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Versions/A/Resources/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/Growl.framework.build/Preprocessed-Info.plist
+r0
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlFramework_Prefix-awwjjklevvftobdyatymeanqvsau/GrowlFramework_Prefix.pch.pch Framework/Source/GrowlFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlFramework_Prefix-erhfjjbesfmdrsbrludklcucjqah/GrowlFramework_Prefix.pch.pch Framework/Source/GrowlFramework_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/GrowlFramework_Prefix-atjhptlmreyekebycjgnmzraqaev_ast/GrowlFramework_Prefix.pch.pch Framework/Source/GrowlFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/GrowlFramework_Prefix-hadzxzwqpikntxazncxurfybkbuw_ast/GrowlFramework_Prefix.pch.pch Framework/Source/GrowlFramework_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Growl.framework
+r0
+

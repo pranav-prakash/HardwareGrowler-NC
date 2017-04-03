@@ -1,0 +1,125 @@
+TPowerMonitor
+v6
+r1
+cCheck dependencies
+cPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Info.plist
+cProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/PowerMonitor.hwgrowlmonitor/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-dhmukgmlbdnnwyemjctsqwazorqe/PowerMonitor-Prefix.pch.pch PowerMonitor/PowerMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-ehfvscquflsvheabrrppjpwundmk/PowerMonitor-Prefix.pch.pch PowerMonitor/PowerMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005228143200000000000004B3
+t1378358322
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005227ECC800000000000001DE
+t1378348232
+s478
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist
+t1485754963
+s977
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-dhmukgmlbdnnwyemjctsqwazorqe/PowerMonitor-Prefix.pch.pch
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-ehfvscquflsvheabrrppjpwundmk/PowerMonitor-Prefix.pch.pch
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/PowerMonitor.hwgrowlmonitor/Contents/Info.plist
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Info.plist
+c00000000525A296800000000000003D0
+t1381640552
+s976
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Prefix.pch
+c00000000525A29680000000000000098
+t1381640552
+s152
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/HWGrowlPowerMonitor.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/HWGrowlPowerMonitor.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies736958d3093fbe41^9fc764d3093fbe41^---0#1#1#--18"Check dependencies36"5A1C758C-E578-45A9-89FF-7D6D5CA3AFB0-
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Objects-normal/x86_64/HWGrowlPowerMonitor.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/HWGrowlPowerMonitor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileXIB /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitorPrefs.xib
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/PowerMonitor.hwgrowlmonitor/Contents/Resources/en.lproj/InfoPlist.strings PowerMonitor/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/PowerMonitor.hwgrowlmonitor.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/PowerMonitor.hwgrowlmonitor/Contents/MacOS/PowerMonitor
+r0
+
+CLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/PowerMonitor.hwgrowlmonitor/Contents/MacOS/PowerMonitor normal x86_64
+r0
+
+CPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Info.plist
+s507447763.393988
+e507447763.403717
+r1
+xPreprocess
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist PowerMonitor/PowerMonitor-Info.plist138"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist PowerMonitor/PowerMonitor-Info.plist9be764d3093fbe41^bf6067d3093fbe41^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Info.plist0000000000000000^819"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist PowerMonitor/PowerMonitor-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -E -P -x c -Wno-trigraphs /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Info.plist -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -traditional -CC -I /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist36"DCCDAA60-A364-43F5-949F-F4FC8F5BD4BA-
+b33DA1125-FAFF-46D3-B7D9-3C340B9FC6DF
+
+CProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/PowerMonitor.hwgrowlmonitor/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist
+s507447763.404621
+e507447763.406539
+r1
+xProcessInfoPlistFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/PowerMonitor.hwgrowlmonitor/Contents/Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"Process /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist180"ProcessInfoPlistFile Build/Products/Debug/PowerMonitor.hwgrowlmonitor/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plistd49d67d3093fbe41^e31968d3093fbe41^---0#0#1#-19%DVTDocumentLocation2@167"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist0000000000000000^628"ProcessInfoPlistFile Build/Products/Debug/PowerMonitor.hwgrowlmonitor/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    builtin-infoPlistUtility /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/Preprocessed-Info.plist -expandbuildsettings -platform macosx -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/PowerMonitor.hwgrowlmonitor/Contents/Info.plist36"7B1CB898-611B-4FBD-BB7B-F7A1D009A682-
+b33DA1125-FAFF-46D3-B7D9-3C340B9FC6DF
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-dhmukgmlbdnnwyemjctsqwazorqe/PowerMonitor-Prefix.pch.pch PowerMonitor/PowerMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447763.415110
+e507447764.191807
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-dhmukgmlbdnnwyemjctsqwazorqe/PowerMonitor-Prefix.pch.pch
+xPowerMonitor/PowerMonitor-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile PowerMonitor/PowerMonitor-Prefix.pch233"ProcessPCH Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-dhmukgmlbdnnwyemjctsqwazorqe/PowerMonitor-Prefix.pch.pch PowerMonitor/PowerMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc8996ad3093fbe41^388131d4093fbe41^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Prefix.pch0000000000000000^3860"ProcessPCH Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-dhmukgmlbdnnwyemjctsqwazorqe/PowerMonitor-Prefix.pch.pch PowerMonitor/PowerMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/PowerMonitor-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/PowerMonitor-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/PowerMonitor-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/PowerMonitor-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-dhmukgmlbdnnwyemjctsqwazorqe/PowerMonitor-Prefix.pch.dia -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-dhmukgmlbdnnwyemjctsqwazorqe/PowerMonitor-Prefix.pch.d -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-dhmukgmlbdnnwyemjctsqwazorqe/PowerMonitor-Prefix.pch.pch36"7F5D65D5-9474-44D7-AAB0-E06D2EEDA52F-
+b33DA1125-FAFF-46D3-B7D9-3C340B9FC6DF
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-ehfvscquflsvheabrrppjpwundmk/PowerMonitor-Prefix.pch.pch PowerMonitor/PowerMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s507447763.418764
+e507447764.291828
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-ehfvscquflsvheabrrppjpwundmk/PowerMonitor-Prefix.pch.pch
+xPowerMonitor/PowerMonitor-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile PowerMonitor/PowerMonitor-Prefix.pch233"ProcessPCH Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-ehfvscquflsvheabrrppjpwundmk/PowerMonitor-Prefix.pch.pch PowerMonitor/PowerMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer4c546bd3093fbe41^e0be4ad4093fbe41^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Prefix.pch0000000000000000^4195"ProcessPCH Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-ehfvscquflsvheabrrppjpwundmk/PowerMonitor-Prefix.pch.pch PowerMonitor/PowerMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/PowerMonitor-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/PowerMonitor-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/PowerMonitor-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/PowerMonitor-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/PowerMonitor.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/PowerMonitor/PowerMonitor-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/PowerMonitor-Prefix-ehfvscquflsvheabrrppjpwundmk/PowerMonitor-Prefix.pch.pch36"59D7D332-577C-49C9-A634-BCE76D4834A3-
+b33DA1125-FAFF-46D3-B7D9-3C340B9FC6DF
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/PowerMonitor-Prefix-hcyksvtjynhlcrdswfndeaaaqhdi_ast/PowerMonitor-Prefix.pch.pch PowerMonitor/PowerMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/PowerMonitor.hwgrowlmonitor
+r0
+

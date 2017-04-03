@@ -1,0 +1,569 @@
+TVolumeMonitor
+v6
+r1
+cCheck dependencies
+cPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Info.plist
+cProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-eotunqtqwkadlkfuybqmuiizsvat/VolumeMonitor-Prefix.pch.pch VolumeMonitor/VolumeMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-buxhpoputoypyfbrjogzfmlzpukb/VolumeMonitor-Prefix.pch.pch VolumeMonitor/VolumeMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/HWGrowlVolumeMonitor.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m
+cLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor normal x86_64
+cGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor
+cCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Resources/en.lproj/InfoPlist.strings VolumeMonitor/en.lproj/InfoPlist.strings
+cCompileXIB /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitorPrefs.xib
+cTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005228144B00000000000000AA
+t1378358347
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005228143200000000000004B3
+t1378358322
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005227ECC800000000000001DE
+t1378348232
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c00000000533B9F1A000000000024BF04
+t1396416282
+s2408196
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000533B9F1B0000000000007C70
+t1396416283
+s31856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c00000000533B9F1B0000000000020E90
+t1396416283
+s134800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c00000000533B9F1B000000000001A05C
+t1396416283
+s106588
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c00000000533B9F1B00000000000359C8
+t1396416283
+s219592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c00000000533B9F1B000000000000CC94
+t1396416283
+s52372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c00000000533B9F1B000000000002C318
+t1396416283
+s181016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c00000000533B9F1B00000000000283C4
+t1396416283
+s164804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c00000000533B9F1B0000000000013F68
+t1396416283
+s81768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000533B9F1B000000000004BC80
+t1396416283
+s310400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005228145F00000000000025C8
+t1378358367
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000533B9F1C0000000000045D30
+t1396416284
+s286000
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000533B9F1C000000000008163C
+t1396416284
+s529980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9F1D0000000000087790
+t1396416285
+s554896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000533B9F1D000000000000962C
+t1396416285
+s38444
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c00000000533B9F1D0000000000020624
+t1396416285
+s132644
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c00000000533B9F1D000000000006F490
+t1396416285
+s455824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c00000000533B9F1D0000000000016F90
+t1396416285
+s94096
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c00000000533B9F1D000000000004546C
+t1396416285
+s283756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c00000000533B9F1D000000000002FA40
+t1396416285
+s195136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c00000000533B9F1D0000000000041644
+t1396416285
+s267844
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c00000000533B9F1E000000000001B5F8
+t1396416286
+s112120
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000533B9F1E000000000002E0E4
+t1396416286
+s188644
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9F1E00000000000C4C54
+t1396416286
+s805972
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000533B9F1F0000000000035AE4
+t1396416287
+s219876
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+c0000000052281464000000000000654C
+t1378358372
+s25932
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+c00000000533B9F3500000000000143EC
+t1396416309
+s82924
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+c00000000533B9F350000000000004528
+t1396416309
+s17704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000533B9F35000000000000EDB8
+t1396416309
+s60856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000533B9F35000000000000984C
+t1396416309
+s38988
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+c00000000533B9F350000000000004FEC
+t1396416309
+s20460
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+c00000000533B9F350000000000009F64
+t1396416309
+s40804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+c00000000533B9F3500000000000031D0
+t1396416309
+s12752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+c00000000533B9F3500000000000052E4
+t1396416309
+s21220
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+c00000000533B9F350000000000002D34
+t1396416309
+s11572
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+c00000000533B9F3500000000000084E8
+t1396416309
+s34024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+c00000000533B9F350000000000004FF4
+t1396416309
+s20468
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+c00000000533B9F3500000000000047A4
+t1396416309
+s18340
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+c00000000533B9F350000000000004364
+t1396416309
+s17252
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000533B9F350000000000002EF0
+t1396416309
+s12016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+c00000000533B9F350000000000046BB8
+t1396416309
+s289720
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000533B9F3500000000000067BC
+t1396416309
+s26556
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+c00000000533B9F35000000000001AD9C
+t1396416309
+s109980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000533B9F350000000000016C74
+t1396416309
+s93300
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+c00000000533B9F35000000000000F204
+t1396416309
+s61956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533B9F350000000000008EC8
+t1396416309
+s36552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000533B9F350000000000008B14
+t1396416309
+s35604
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000533B9F3500000000000047C0
+t1396416309
+s18368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+c00000000533B9F3500000000000044D8
+t1396416309
+s17624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+c00000000533B9F3500000000000067AC
+t1396416309
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+c00000000533B9F350000000000011E4C
+t1396416309
+s73292
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+c00000000533B9F77000000000000BAF8
+t1396416375
+s47864
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c00000000533B9F790000000000001770
+t1396416377
+s6000
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/HWGrowlVolumeMonitor.o
+t1485754987
+s109500
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/VolumeMonitor.LinkFileList
+c00000000588ED25300000000000000B7
+t1485754963
+s183
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist
+t1485754963
+s978
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/StaticAnalyzer/HardwareGrowler/VolumeMonitor/normal/x86_64/HWGrowlVolumeMonitor.plist
+t1485754987
+s382
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-buxhpoputoypyfbrjogzfmlzpukb/VolumeMonitor-Prefix.pch.pch
+t1485754971
+s13098124
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-eotunqtqwkadlkfuybqmuiizsvat/VolumeMonitor-Prefix.pch.pch
+t1485754964
+s13097976
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor
+t1485755022
+s102
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor.dSYM
+t1485754987
+s102
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Info.plist
+t1485754963
+s1233
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor
+t1485754987
+s64612
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Resources/VolumeMonitorPrefs.nib
+t1485754988
+s136
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Resources/en.lproj/InfoPlist.strings
+t1485754987
+s92
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowlPlugin.h
+c00000000525A29680000000000000583
+t1381640552
+s1411
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.h
+c00000000525A29680000000000000397
+t1381640552
+s919
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m
+c00000000525A29680000000000003180
+t1381640552
+s12672
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Info.plist
+c00000000525A296800000000000003D1
+t1381640552
+s977
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Prefix.pch
+c00000000525A2968000000000000009A
+t1381640552
+s154
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitorPrefs.xib
+c00000000525A29680000000000007CAE
+t1381640552
+s31918
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/en.lproj/InfoPlist.strings
+c00000000525A2968000000000000002D
+t1381640552
+s45
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m
+s507447787.567543
+e507447787.638437
+r1
+xAnalyzeShallow
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Analyze (shallow) /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m51"AnalyzeShallow VolumeMonitor/HWGrowlVolumeMonitor.mbf8191eb093fbe41^1973a3eb093fbe41^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m0000000000000000^4268"AnalyzeShallow VolumeMonitor/HWGrowlVolumeMonitor.m    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-buxhpoputoypyfbrjogzfmlzpukb/VolumeMonitor-Prefix.pch --analyze /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/StaticAnalyzer/HardwareGrowler/VolumeMonitor/normal/x86_64/HWGrowlVolumeMonitor.plist36"53681AFC-81BC-4ADB-B3FF-F5BB3B44481F-
+bD0E7A31E-6E92-45FD-9668-BE3A4D021E8C
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb0c6412dcc91be41^6f48532dcc91be41^---0#1#1#--18"Check dependencies36"1D46C00E-42A8-4A7B-8F37-AB7EE3A9DC1F-
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/HWGrowlVolumeMonitor.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447787.566568
+e507447787.659432
+r1
+xCompileC
+xBuild/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/HWGrowlVolumeMonitor.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowlPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m228"CompileC Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/HWGrowlVolumeMonitor.o VolumeMonitor/HWGrowlVolumeMonitor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler782991eb093fbe41^0fd1a8eb093fbe41^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m0000000000000000^4060"CompileC Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/HWGrowlVolumeMonitor.o VolumeMonitor/HWGrowlVolumeMonitor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-eotunqtqwkadlkfuybqmuiizsvat/VolumeMonitor-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/HWGrowlVolumeMonitor.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/HWGrowlVolumeMonitor.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/HWGrowlVolumeMonitor.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/HWGrowlVolumeMonitor.o36"7A8958EC-3004-4AB0-8CF5-D6F80AF48B0A-
+bD0E7A31E-6E92-45FD-9668-BE3A4D021E8C
+
+CCompileXIB /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitorPrefs.xib
+s507447787.717492
+e507447788.290826
+r1
+xCompileXIB
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitorPrefs.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compiling /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitorPrefs.xib47"CompileXIB VolumeMonitor/VolumeMonitorPrefs.xiba2b8b7eb093fbe41^db854aec093fbe41^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitorPrefs.xib0000000000000000^668"CompileXIB VolumeMonitor/VolumeMonitorPrefs.xib    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --flatten NO --errors --warnings --notices --minimum-deployment-target 10.7 --output-format human-readable-text --compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Resources/VolumeMonitorPrefs.nib /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitorPrefs.xib36"06700988-DDCF-49F9-8EC4-584D84F6488D-
+bD0E7A31E-6E92-45FD-9668-BE3A4D021E8C
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Resources/en.lproj/InfoPlist.strings VolumeMonitor/en.lproj/InfoPlist.strings
+s507447787.707083
+e507447787.707973
+r1
+xCopyStringsFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Resources/en.lproj/InfoPlist.strings
+xVolumeMonitor/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy VolumeMonitor/en.lproj/InfoPlist.strings152"CopyStringsFile Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Resources/en.lproj/InfoPlist.strings VolumeMonitor/en.lproj/InfoPlist.strings280db5eb093fbe41^5f42b5eb093fbe41^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/en.lproj/InfoPlist.strings0000000000000000^512"CopyStringsFile Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Resources/en.lproj/InfoPlist.strings VolumeMonitor/en.lproj/InfoPlist.strings    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Resources/en.lproj -- VolumeMonitor/en.lproj/InfoPlist.strings36"901A8662-D106-4881-958D-5253CCC09E14-
+bD0E7A31E-6E92-45FD-9668-BE3A4D021E8C
+
+CGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor
+s507447787.693648
+e507447787.706742
+r1
+xGenerateDSYMFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor.dSYM
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Generate /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor.dSYM150"GenerateDSYMFile Build/Products/Debug/VolumeMonitor.hwgrowlmonitor.dSYM Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitordd99b1eb093fbe41^6ceeb4eb093fbe41^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor.dSYM0034dceddeffdf42^605"GenerateDSYMFile Build/Products/Debug/VolumeMonitor.hwgrowlmonitor.dSYM Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor.dSYM36"BF65985E-A7CF-4DA9-8BB5-94AF2F3B2497-
+bD0E7A31E-6E92-45FD-9668-BE3A4D021E8C
+
+CLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor normal x86_64
+s507447787.660283
+e507447787.693032
+r1
+xLd
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor
+xnormal
+xx86_64
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/VolumeMonitor.LinkFileList
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/HWGrowlVolumeMonitor.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Link /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor95"Ld Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor normal x86_64001ea9eb093fbe41^df6ab1eb093fbe41^---0#0#1#--1268"Ld Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor normal x86_64    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -filelist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/VolumeMonitor.LinkFileList -mmacosx-version-min=10.7 -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Objects-normal/x86_64/VolumeMonitor_dependency_info.dat -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/MacOS/VolumeMonitor36"B01A8980-DC6E-4DBD-A418-BAC201A67D85-
+bD0E7A31E-6E92-45FD-9668-BE3A4D021E8C
+
+CPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Info.plist
+s507447763.444600
+e507447763.457235
+r1
+xPreprocess
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist VolumeMonitor/VolumeMonitor-Info.plist141"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist VolumeMonitor/VolumeMonitor-Info.pliste61e72d3093fbe41^ca5075d3093fbe41^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Info.plist0000000000000000^825"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist VolumeMonitor/VolumeMonitor-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -E -P -x c -Wno-trigraphs /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Info.plist -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -traditional -CC -I /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist36"C38430D2-A83D-4493-A7B2-0E8A8C3BF0A5-
+bFC4AC223-8BE1-46ED-9737-07FFB96AEF11
+
+CProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist
+s507447763.570873
+e507447763.574019
+r1
+xProcessInfoPlistFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection169"Process /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist182"ProcessInfoPlistFile Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plistb22e92d3093fbe41^1fbba7d3093fbe41^---0#0#1#-19%DVTDocumentLocation2@168"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist0000000000000000^632"ProcessInfoPlistFile Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    builtin-infoPlistUtility /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/Preprocessed-Info.plist -expandbuildsettings -platform macosx -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor/Contents/Info.plist36"D7A094CB-2D6D-49C6-BC64-79802F83FF29-
+bFC4AC223-8BE1-46ED-9737-07FFB96AEF11
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-buxhpoputoypyfbrjogzfmlzpukb/VolumeMonitor-Prefix.pch.pch VolumeMonitor/VolumeMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s507447771.150330
+e507447771.685680
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-buxhpoputoypyfbrjogzfmlzpukb/VolumeMonitor-Prefix.pch.pch
+xVolumeMonitor/VolumeMonitor-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile VolumeMonitor/VolumeMonitor-Prefix.pch237"ProcessPCH Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-buxhpoputoypyfbrjogzfmlzpukb/VolumeMonitor-Prefix.pch.pch VolumeMonitor/VolumeMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer83a526db093fbe41^6e8aafdb093fbe41^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Prefix.pch0000000000000000^4227"ProcessPCH Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-buxhpoputoypyfbrjogzfmlzpukb/VolumeMonitor-Prefix.pch.pch VolumeMonitor/VolumeMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-buxhpoputoypyfbrjogzfmlzpukb/VolumeMonitor-Prefix.pch.pch36"C055D7FF-C5D4-4B53-9C38-9728792EDB1F-
+b46B7AD47-6F00-49C3-B637-D0542FABE847
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-eotunqtqwkadlkfuybqmuiizsvat/VolumeMonitor-Prefix.pch.pch VolumeMonitor/VolumeMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447763.674463
+e507447764.393155
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-eotunqtqwkadlkfuybqmuiizsvat/VolumeMonitor-Prefix.pch.pch
+xVolumeMonitor/VolumeMonitor-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile VolumeMonitor/VolumeMonitor-Prefix.pch237"ProcessPCH Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-eotunqtqwkadlkfuybqmuiizsvat/VolumeMonitor-Prefix.pch.pch VolumeMonitor/VolumeMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerde02add3093fbe41^25ad64d4093fbe41^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Prefix.pch0000000000000000^3896"ProcessPCH Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-eotunqtqwkadlkfuybqmuiizsvat/VolumeMonitor-Prefix.pch.pch VolumeMonitor/VolumeMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/VolumeMonitor-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/VolumeMonitor.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-eotunqtqwkadlkfuybqmuiizsvat/VolumeMonitor-Prefix.pch.dia -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-eotunqtqwkadlkfuybqmuiizsvat/VolumeMonitor-Prefix.pch.d -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/VolumeMonitor/VolumeMonitor-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/VolumeMonitor-Prefix-eotunqtqwkadlkfuybqmuiizsvat/VolumeMonitor-Prefix.pch.pch36"17B0B3B4-F2CC-4A6E-B024-F3BBC7F878D3-
+bFC4AC223-8BE1-46ED-9737-07FFB96AEF11
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/VolumeMonitor-Prefix-cijvymvsebhgzyfslnopncvlhkbw_ast/VolumeMonitor-Prefix.pch.pch VolumeMonitor/VolumeMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor
+s507447822.683564
+e507447822.687707
+r1
+xTouch
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Touch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor55"Touch Build/Products/Debug/VolumeMonitor.hwgrowlmonitor9a08af0e0a3fbe41^b83eb00e0a3fbe41^---0#0#1#--275"Touch Build/Products/Debug/VolumeMonitor.hwgrowlmonitor    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    /usr/bin/touch -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/VolumeMonitor.hwgrowlmonitor36"FEAF5100-A845-4DEE-AFB1-E8010E4ACBAB-
+bFB819893-7DD2-4AC1-BD08-83D9F4B40D8C
+

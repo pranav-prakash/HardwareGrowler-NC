@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+
+<!--
+	AppleScript command support for Growl notifications.
+-->
+
+<dictionary title="Growl Terminology">
+    <suite name="Growl Control" description="control Growl via AppleScript" code="Rawr">
+        <class name="application" code="capp" description="Growl">
+            <cocoa class="GrowlApplication"/>
+            <responds-to command="pause">
+                <cocoa method=""/>
+            </responds-to>
+            <responds-to command="resume">
+                <cocoa method=""/>
+            </responds-to>
+            <responds-to command="disable incoming network">
+                <cocoa method=""/>
+            </responds-to>
+            <responds-to command="enable incoming network">
+               <cocoa method=""/>
+            </responds-to>
+            <responds-to command="close all notifications">
+                <cocoa method=""/>
+            </responds-to>
+            <responds-to command="show rollup">
+                <cocoa method=""/>
+            </responds-to>
+            <responds-to command="hide rollup">
+                <cocoa method=""/>
+            </responds-to>
+            <property name="is paused" code="paus" type="boolean" access="r" description="Is Growl paused?">
+                <cocoa key="paused"/>
+            </property>
+            <property name="allows incoming network" code="innt" type="boolean" access="r" description="Is Growl accepting notifications from the network?">
+               <cocoa key="allowsIncomingNetwork"/>
+            </property>
+           <property name="forwarding enabled" code="OtNT" type="boolean" access="r" description="Is Growl forwarding notifications?">
+              <cocoa key="forwardingEnabled"/>
+           </property>
+           <property name="subscription allowed" code="SoNT" type="boolean" access="r" description="Is Growl allowing subscribers?">
+              <cocoa key="subscriptionAllowed"/>
+           </property>
+        </class>
+        <command name="close all notifications" code="closeall" description="close all on-screen notifications">
+            <cocoa class="GrowlControlCloseAllScriptCommand"/>
+        </command>
+        <command name="pause" code="pausepls" description="Stops display of incoming notifications">
+            <cocoa class="GrowlControlPauseScriptCommand"/>
+        </command>
+        <command name="resume" code="resumpls" description="Starts display of subsequent incoming notifications">
+            <cocoa class="GrowlControlResumeScriptCommand"/>
+        </command>
+        <command name="disable incoming network" code="pausinnt" description="Disables incoming network notifications">
+           <cocoa class="GrowlControlDisableInNetworkScriptCommand"/>
+        </command>
+        <command name="enable incoming network" code="resuinnt" description="Enables incoming network notifications">
+           <cocoa class="GrowlControlEnableInNetworkScriptCommand"/>
+        </command>
+        <command name="show rollup" code="showroll" description="Shows the notification rollup">
+            <cocoa class="GrowlControlShowRollupScriptCommand"/>
+        </command>
+        <command name="hide rollup" code="hideroll" description="Hides the notification rollup">
+            <cocoa class="GrowlControlHideRollupScriptCommand"/>
+        </command>
+    </suite>
+    <suite name="Growl Suite" description="AppleScript for the Growl Notification System" code="Grwl">
+		<value-type name="Image" code="TIFF">
+			<cocoa class="NSData" name="Image"/>
+		</value-type>
+        <command name="notify" code="notifygr" description="Post a notification to be displayed via Growl">
+			<cocoa class="GrowlNotifyScriptCommand"/>
+			<parameter name="with name" code="name" type="text" description="name of the notification to display">
+				<cocoa key="notificationName"/>
+			</parameter>
+			<parameter name="title" code="titl" type="text" description="title of the notification to display">
+				<cocoa key="title"/>
+			</parameter>
+			<parameter name="description" code="desc" type="text" description="full text of the notification to display">
+				<cocoa key="description"/>
+			</parameter>
+			<parameter name="application name" code="appl" type="text" description="name of the application posting the notification.">
+				<cocoa key="appName"/>
+			</parameter>
+			<parameter name="image from location" optional="yes" code="iurl" type="text" description="DEPRECATED as of Growl 2.0, non functional under sandboxing. - Location of the image file to use for this notification. Accepts aliases, paths and file:/// URLs.">
+				<cocoa class="NSString" key="imageFromURL"/>
+			</parameter>
+			<parameter name="icon of file" optional="yes" code="ifil" type="text" description="Location of the file whose icon should be used as the image for this notification. Accepts aliases, paths and file:/// URLs. e.g. 'file:///Applications'.">
+				<cocoa class="NSString" key="iconOfFile"/>
+			</parameter>
+			<parameter name="icon of application" optional="yes" code="iapp" type="text" description="Name of the application whose icon should be used for this notification. For example, 'Mail.app'.">
+				<cocoa key="iconOfApplication"/>
+			</parameter>
+			<parameter name="image" optional="yes" code="imag" type="Image" description="TIFF Image to be used for the notification.">
+				<cocoa class="NSData" key="image"/>
+			</parameter>
+			<parameter name="sticky" optional="yes" code="stck" type="boolean" description="whether or not the notification displayed should remain on screen until the user dispenses with it. Defaults to false.">
+				<cocoa key="sticky"/>
+			</parameter>
+			<parameter name="priority" optional="yes" code="prio" type="integer" description="The priority of the notification, from -2 (low) to 0 (normal) to 2 (emergency).">
+				<cocoa key="priority"/>
+			</parameter>
+			<parameter name="identifier" optional="yes" code="iden" type="text" description="The identifier of the notification for coalescing.">
+				<cocoa key="identifier"/>
+			</parameter>
+         <parameter name="callback URL" optional="yes" code="curl" type="text" description="A URL to open when the notification is clicked.">
+            <cocoa key="callbackURL"/>
+         </parameter>
+		</command>
+		<command name="register" code="register" description="Register an application with Growl">
+			<cocoa class="GrowlRegisterScriptCommand"/>
+			<parameter name="as application" code="appl" type="text" description="name of the application as which to register.">
+				<cocoa key="asApplication"/>
+			</parameter>
+			<parameter name="all notifications" code="anot" description="list of all notifications to register.">
+				<cocoa key="allNotifications"/>
+				<type type="text" list="yes"/>
+			</parameter>
+			<parameter name="default notifications" code="dnot" description="list of default notifications to register.">
+				<cocoa key="defaultNotifications"/>
+				<type type="text" list="yes"/>
+			</parameter>
+			<parameter name="icon of application" optional="yes" code="iapp" type="text" description="Name of the application whose icon should be used for this notification. For example, 'Mail.app'.">
+				<cocoa key="iconOfApplication"/>
+			</parameter>
+		</command>
+	</suite>
+   <suite name="GrowlScriptAction" description="The event handler for script actions, this functionality is only available on 10.8+" code="GrSA">
+      <event name="perform action" description="Perform an action based on the notification passed" code="GrAcScPe">
+         <parameter name="with" code="NtPa" type="GrowlNotification" description="The notification to perform the action with">
+            <cocoa key=""/>
+         </parameter>
+      </event>
+      <class name="GrowlNotification" description="A growl notification" code="GrNt">
+         <cocoa class=""/>
+         <property name="host" description="The computer from which the note came, localhost for the local machine" code="NtHs" type="text"/>
+         <property name="app name" description="The application name" code="ApNm" type="text"/>
+         <property name="note type" description="The underlying note type" code="NtTp" type="text"/>
+         <property name="note title" description="The note's title" code="Titl" type="text"/>
+         <property name="note description" description="The note's main text" code="Desc" type="text"/>
+         <property name="note icon" description="The icon the note will display with" code="Icon" type="Image"/>
+         <property name="sticky" description="Whether the notification will be sticky" code="Stic" type="boolean"/>
+			<property name="priority" description="The priority of the notification" code="Prio" type="GrowlPriority"/>
+      </class>
+      <enumeration name="GrowlPriority" description="A list of possible priorities" code="GrPr">
+         <enumerator name="very low" code="PrVL"/>
+         <enumerator name="moderate" code="PrMo"/>
+         <enumerator name="normal" code="PrNo"/>
+         <enumerator name="high" code="PrHi"/>
+         <enumerator name="emergency" code="PrEm"/>
+      </enumeration>
+   </suite>
+   <suite name="Growl Rules" description="Method to provide rules for Growl, telling it what to do with a given notification, this functionality is only available on 10.8+" code="GrRl">
+      <event name="evaluate notification" description="Evaluate a notification, and return the actions to take" code="GrRuNtEv">
+         <parameter name="with" code="NtPa" type="GrowlNotification" description="The notification to evaluate">
+            <cocoa key=""/>
+         </parameter>
+         <result type="RuleResult" description="The actions to take upon completion"/>
+      </event>
+      <class name="RuleResult" description="Return value from evaluating a notification" code="GrRs">
+         <cocoa class=""/>
+         <property name="enabled" code="GrEN" description="Whether to fire the note at all" type="boolean" optional="yes"/>
+         <property name="display" description="Display to use, send 'notification-center' for explicitly sending to Notification Center" code="GrDs" optional="yes">
+            <type type="text"/>
+            <type type="GrowlDefaultLevel"/>
+         </property>
+         <property name="actions" description="Action(s) to take" code="GrAc" optional="yes">
+            <type type="text"/>
+            <type type="text" list="yes"/>
+            <type type="GrowlDefaultLevel"/>
+         </property>
+         <property name="network forward" description="Whether to forward via network to all enabled destinations, or a list of the entry ID's of the destination machines" code="GrNF" optional="yes">
+            <type type="boolean"/>
+            <type type="text" list="yes"/>
+         </property>
+         <property name="network subscribers" description="Whether to send to all network subscribers, or a list of the Subscriber ID's of subscribed machines" code="GrNS" optional="yes">
+            <type type="boolean"/>
+            <type type="text" list="yes"/>
+         </property>
+         <property name="history log" description="Whether to log in the network" code="GrHL" type="boolean" optional="yes"/>
+         <property name="notification return" description="The updated notification to display, only modifiable fields are title, description, icon, sticky, and priority" type="GrowlNotification" code="NtRt" optional="yes"/>
+         <property name="position" description="What position to display at" type="GrowlPositionOrigin" code="Orig" optional="yes"/>
+      </class>
+      <enumeration name="GrowlPositionOrigin" description="A list of possible origins, including the default or 'no origin'" code="GrOr">
+         <enumerator name="no origin" code="PoNO"/>
+         <enumerator name="top left" code="PoTL"/>
+         <enumerator name="bottom right" code="PoBR"/>
+         <enumerator name="top right" code="PoTR"/>
+         <enumerator name="bottom left" code="PoBL"/>
+      </enumeration>
+      <enumeration name="GrowlDefaultLevel" description="A list of what level of display/action to take, none, default, or global default" code="GrDL">
+         <enumerator name="none" code="DLNo"/>
+         <enumerator name="default" code="DLDf"/>
+         <enumerator name="global default" code="DLGD"/>
+      </enumeration>
+   </suite>
+</dictionary>

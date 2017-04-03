@@ -1,0 +1,620 @@
+THardwareGrowler
+v6
+r1
+cCheck dependencies
+cPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Info.plist
+cProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch.pch HardwareGrowler/HardwareGrowler-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-ctupjwfmuhgpcxgoudflkfebwgel/HardwareGrowler-Prefix.pch.pch HardwareGrowler/HardwareGrowler-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/main.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/AppDelegate.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/GrowlOnSwitch.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/HWGrowlPluginController.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HWGrowlPluginController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/ACImageAndTextCell.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/TMSliderControl.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005228143200000000000004B3
+t1378358322
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005227ECC800000000000001DE
+t1378348232
+s478
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m
+c00000000525A29680000000000001531
+t1381640552
+s5425
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m
+c00000000525A29680000000000000772
+t1381640552
+s1906
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/ACImageAndTextCell.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/AppDelegate.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/GrowlOnSwitch.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/HWGrowlPluginController.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/TMSliderControl.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist
+t1485755201
+s1890
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch.pch
+t1485755202
+s13098472
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-ctupjwfmuhgpcxgoudflkfebwgel/HardwareGrowler-Prefix.pch.pch
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Info.plist
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/AppDelegate.m
+c00000000525A296800000000000049F5
+t1381640552
+s18933
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HWGrowlPluginController.m
+c00000000525A29680000000000001D24
+t1381640552
+s7460
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Info.plist
+c00000000588EC7B20000000000000761
+t1485752242
+s1889
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Prefix.pch
+c00000000525A296800000000000000C0
+t1381640552
+s192
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/main.m
+c00000000525A29680000000000000109
+t1381640552
+s265
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m
+c00000000000000000000000000000000
+t2
+s0
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m
+r0
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m
+r0
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitchLabel.m
+r0
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/AppDelegate.m
+r0
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HWGrowlPluginController.m
+r0
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/main.m
+r0
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitchLabel.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/AppDelegate.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HWGrowlPluginController.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/main.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8107a2c10a3fbe41^48a7a2c10a3fbe41^---0#1#1#--18"Check dependencies36"9A351E27-5233-4632-AE1C-817BF9E37FE1-
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/ACImageAndTextCell.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507448002.052560
+e507448002.159999
+r1
+xCompileC
+xBuild/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/ACImageAndTextCell.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m273"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/ACImageAndTextCell.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6f800dc20a3fbe41^dd0629c20a3fbe41^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m0000000000000000^4125"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/ACImageAndTextCell.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fno-objc-exceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/ACImageAndTextCell.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/ACImageAndTextCell.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/ACImageAndTextCell.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/ACImageAndTextCell.o36"6A0DA442-2F17-4300-AA61-AE0752D2481B-
+bB41B28F7-9170-4D0D-8237-EC6C3C2DFA50
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/AppDelegate.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507448002.051875
+e507448002.160029
+r0
+xCompileC
+xBuild/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/AppDelegate.m:10:
+o/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/../../../Core/Source/GrowlOnSwitch.h:10:9: fatal error: 'TMSliderControl.h' file not found
+o#import "TMSliderControl.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/AppDelegate.m214"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/AppDelegate.o HardwareGrowler/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compileref570dc20a3fbe41^c31029c20a3fbe41^-360"In file included from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/AppDelegate.m:10:/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/../../../Core/Source/GrowlOnSwitch.h:10:9: fatal error: 'TMSliderControl.h' file not found#import "TMSliderControl.h"        ^1 error generated.-0#0#1#-19%DVTDocumentLocation2@106"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/AppDelegate.m0000000000000000^4063"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/AppDelegate.o HardwareGrowler/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fno-objc-exceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/AppDelegate.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/AppDelegate.o36"C50DFF39-9A2E-484D-8310-8AA1D13D35A6-
+bB41B28F7-9170-4D0D-8237-EC6C3C2DFA50
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/GrowlOnSwitch.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507448002.052062
+e507448002.160028
+r0
+xCompileC
+xBuild/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/GrowlOnSwitch.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m:9:
+o/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.h:10:9: fatal error: 'TMSliderControl.h' file not found
+o#import "TMSliderControl.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m261"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/GrowlOnSwitch.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b690dc20a3fbe41^f91329c20a3fbe41^-286"In file included from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m:9:/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.h:10:9: fatal error: 'TMSliderControl.h' file not found#import "TMSliderControl.h"        ^1 error generated.-0#0#1#-19%DVTDocumentLocation2@81"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m0000000000000000^4091"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/GrowlOnSwitch.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fno-objc-exceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/GrowlOnSwitch.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/GrowlOnSwitch.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitch.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/GrowlOnSwitch.o36"CB099A15-D1FE-49CB-9F41-9DE6454511CB-
+bB41B28F7-9170-4D0D-8237-EC6C3C2DFA50
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/GrowlOnSwitchLabel.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlOnSwitchLabel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/HWGrowlPluginController.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HWGrowlPluginController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507448002.052228
+e507448002.160005
+r1
+xCompileC
+xBuild/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/HWGrowlPluginController.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HWGrowlPluginController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HWGrowlPluginController.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HWGrowlPluginController.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Headers/Growl.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Headers/GrowlDefines.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Headers/GrowlApplicationBridge.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/Growl.framework/Headers/GrowlNote.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowlPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HWGrowlPluginController.m238"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/HWGrowlPluginController.o HardwareGrowler/HWGrowlPluginController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerde760dc20a3fbe41^200b29c20a3fbe41^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HWGrowlPluginController.m0000000000000000^4135"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/HWGrowlPluginController.o HardwareGrowler/HWGrowlPluginController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fno-objc-exceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/HWGrowlPluginController.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/HWGrowlPluginController.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HWGrowlPluginController.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/HWGrowlPluginController.o36"4AE53C7A-DB17-44BF-A4D6-F8178DBF5CCC-
+bB41B28F7-9170-4D0D-8237-EC6C3C2DFA50
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/TMSliderControl.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507448002.052940
+e507448002.058536
+r0
+xCompileC
+xBuild/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/TMSliderControl.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m291"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/TMSliderControl.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler34a10dc20a3fbe41^2efe0ec20a3fbe41^-300"clang: error: no such file or directory: '/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-507448002#18446744073709551615#0#-2#--20"Apple LLVM 5.0 Error--0#0#1#-19%DVTDocumentLocation3@109"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m0034dceddeffdf42^4155"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/TMSliderControl.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fno-objc-exceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/TMSliderControl.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/TMSliderControl.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/tmslidercontrol/TMSliderControl.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/TMSliderControl.o36"C1F28FC4-DB37-43BA-A554-7BEE17747449-
+bB41B28F7-9170-4D0D-8237-EC6C3C2DFA50
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/main.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507448002.051719
+e507448002.160035
+r1
+xCompileC
+xBuild/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/main.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/main.m200"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/main.o HardwareGrowler/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler984c0dc20a3fbe41^bc0229c20a3fbe41^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/main.m0000000000000000^4021"CompileC Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/main.o HardwareGrowler/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fno-objc-exceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/main.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/main.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Objects-normal/x86_64/main.o36"356B0EF3-F7B9-4E91-837B-E86486B902E1-
+bB41B28F7-9170-4D0D-8237-EC6C3C2DFA50
+
+CCompileXIB /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/MainMenu.xib
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/ar.lproj/Localizable.strings HardwareGrowler/ar.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/ca.lproj/Localizable.strings HardwareGrowler/ca.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/cs.lproj/Localizable.strings HardwareGrowler/cs.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/da.lproj/Localizable.strings HardwareGrowler/da.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/de.lproj/Localizable.strings HardwareGrowler/de.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/el.lproj/Localizable.strings HardwareGrowler/el.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/en.lproj/InfoPlist.strings HardwareGrowler/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/en.lproj/Localizable.strings HardwareGrowler/en.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/es-MX.lproj/Localizable.strings HardwareGrowler/es-MX.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/es.lproj/Localizable.strings HardwareGrowler/es.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/fr.lproj/Localizable.strings HardwareGrowler/fr.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/it.lproj/Localizable.strings HardwareGrowler/it.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/ja.lproj/Localizable.strings HardwareGrowler/ja.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/ko.lproj/Localizable.strings HardwareGrowler/ko.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/lv_LV.lproj/Localizable.strings HardwareGrowler/lv_LV.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/nb.lproj/Localizable.strings HardwareGrowler/nb.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/nl.lproj/Localizable.strings HardwareGrowler/nl.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/pl.lproj/Localizable.strings HardwareGrowler/pl.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/pt-BR.lproj/Localizable.strings HardwareGrowler/pt-BR.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/pt-PT.lproj/Localizable.strings HardwareGrowler/pt-PT.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/ro.lproj/Localizable.strings HardwareGrowler/ro.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/ru.lproj/Localizable.strings HardwareGrowler/ru.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/sk.lproj/Localizable.strings HardwareGrowler/sk.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/sv.lproj/Localizable.strings HardwareGrowler/sv.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/th.lproj/Localizable.strings HardwareGrowler/th.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/zh-Hans.lproj/Localizable.strings HardwareGrowler/zh-Hans.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/zh-Hant.lproj/Localizable.strings HardwareGrowler/zh-Hant.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/zh_TW.lproj/Localizable.strings HardwareGrowler/zh_TW.lproj/Localizable.strings
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Bluetooth-Off.tif Resources/NotificationIcons/Bluetooth/Bluetooth-Off.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Bluetooth-On.tif Resources/NotificationIcons/Bluetooth/Bluetooth-On.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Capster-CapsLock-Off.tif Resources/NotificationIcons/Capster/Capster-CapsLock-Off.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Capster-CapsLock-On.tif Resources/NotificationIcons/Capster/Capster-CapsLock-On.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Capster-FnKey-Off.tif Resources/NotificationIcons/Capster/Capster-FnKey-Off.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Capster-FnKey-On.tif Resources/NotificationIcons/Capster/Capster-FnKey-On.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Capster-NumLock-Off.tif Resources/NotificationIcons/Capster/Capster-NumLock-Off.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Capster-NumLock-On.tif Resources/NotificationIcons/Capster/Capster-NumLock-On.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Capster-Shift-Off.tif Resources/NotificationIcons/Capster/Capster-Shift-Off.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Capster-Shift-On.tif Resources/NotificationIcons/Capster/Capster-Shift-On.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/DisksVolumes-Eject.tif Resources/NotificationIcons/Disks\ &\ Volumes/DisksVolumes-Eject.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Firewire-Off.tif Resources/NotificationIcons/FireWire/Firewire-Off.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Firewire-On.tif Resources/NotificationIcons/FireWire/Firewire-On.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/HWGPrefsBluetooth.tif Resources/MonitorIcons/HWGPrefsBluetooth.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/HWGPrefsCapster.tif Resources/MonitorIcons/HWGPrefsCapster.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/HWGPrefsDefault.tif Resources/MonitorIcons/HWGPrefsDefault.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/HWGPrefsDrivesVolumes.tif Resources/MonitorIcons/HWGPrefsDrivesVolumes.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/HWGPrefsFireWire.tif Resources/MonitorIcons/HWGPrefsFireWire.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/HWGPrefsNetwork.tif Resources/MonitorIcons/HWGPrefsNetwork.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/HWGPrefsPhone.tif Resources/MonitorIcons/HWGPrefsPhone.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/HWGPrefsPower.tif Resources/MonitorIcons/HWGPrefsPower.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/HWGPrefsTimeMachine.tif Resources/MonitorIcons/HWGPrefsTimeMachine.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/HWGPrefsUSB.tif Resources/MonitorIcons/HWGPrefsUSB.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Network-Ethernet-Off.tif Resources/NotificationIcons/Network/Network-Ethernet-Off.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Network-Ethernet-On.tif Resources/NotificationIcons/Network/Network-Ethernet-On.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Network-Generic-Off.tif Resources/NotificationIcons/Network/Network-Generic-Off.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Network-Generic-On.tif Resources/NotificationIcons/Network/Network-Generic-On.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Network-Wifi-4.tif Resources/NotificationIcons/Network/Network-Wifi-4.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Network-Wifi-Off.tif Resources/NotificationIcons/Network/Network-Wifi-Off.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-0.tif Resources/NotificationIcons/Power/Power-0.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-10.tif Resources/NotificationIcons/Power/Power-10.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-100.tif Resources/NotificationIcons/Power/Power-100.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-20.tif Resources/NotificationIcons/Power/Power-20.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-30.tif Resources/NotificationIcons/Power/Power-30.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-40.tif Resources/NotificationIcons/Power/Power-40.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-50.tif Resources/NotificationIcons/Power/Power-50.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-60.tif Resources/NotificationIcons/Power/Power-60.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-70.tif Resources/NotificationIcons/Power/Power-70.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-80.tif Resources/NotificationIcons/Power/Power-80.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-90.tif Resources/NotificationIcons/Power/Power-90.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-BatteryFailure.tif Resources/NotificationIcons/Power/Power-BatteryFailure.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-Charging.tif Resources/NotificationIcons/Power/Power-Charging.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-NoBattery.tif Resources/NotificationIcons/Power/Power-NoBattery.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/Power-Plugged.tif Resources/NotificationIcons/Power/Power-Plugged.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/TimeMachine-Failed.tif Resources/NotificationIcons/Time\ Machine/TimeMachine-Failed.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/TimeMachine-Off.tif Resources/NotificationIcons/Time\ Machine/TimeMachine-Off.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/TimeMachine-On.tif Resources/NotificationIcons/Time\ Machine/TimeMachine-On.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/USB-Off.tif Resources/NotificationIcons/USB/USB-Off.tif
+r0
+
+CCopyTiffFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Resources/USB-On.tif Resources/NotificationIcons/USB/USB-On.tif
+r0
+
+CCpResource HardwareGrowler/en.lproj/Credits.rtf Build/Products/Debug/HardwareGrowler.app/Contents/Resources/en.lproj/Credits.rtf
+r0
+
+CCpResource Resources/HWGrowler.icns Build/Products/Debug/HardwareGrowler.app/Contents/Resources/HWGrowler.icns
+r0
+
+CCpResource Resources/menubarIcon_Normal.png Build/Products/Debug/HardwareGrowler.app/Contents/Resources/menubarIcon_Normal.png
+r0
+
+CCpResource Resources/menubarIcon_Selected.png Build/Products/Debug/HardwareGrowler.app/Contents/Resources/menubarIcon_Selected.png
+r0
+
+CGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/MacOS/HardwareGrowler
+r0
+
+CLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/MacOS/HardwareGrowler normal x86_64
+r0
+
+CPBXCp Build/Products/Debug/BluetoothMonitor.hwgrowlmonitor Build/Products/Debug/HardwareGrowler.app/Contents/PlugIns/BluetoothMonitor.hwgrowlmonitor
+r0
+
+CPBXCp Build/Products/Debug/FirewireMonitor.hwgrowlmonitor Build/Products/Debug/HardwareGrowler.app/Contents/PlugIns/FirewireMonitor.hwgrowlmonitor
+r0
+
+CPBXCp Build/Products/Debug/Growl.framework Build/Products/Debug/HardwareGrowler.app/Contents/Frameworks/Growl.framework
+r0
+
+CPBXCp Build/Products/Debug/HardwareGrowlerLauncher.app Build/Products/Debug/HardwareGrowler.app/Contents/Library/LoginItems/HardwareGrowlerLauncher.app
+r0
+
+CPBXCp Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor Build/Products/Debug/HardwareGrowler.app/Contents/PlugIns/KeyboardMonitor.hwgrowlmonitor
+r0
+
+CPBXCp Build/Products/Debug/NetworkMonitor.hwgrowlmonitor Build/Products/Debug/HardwareGrowler.app/Contents/PlugIns/NetworkMonitor.hwgrowlmonitor
+r0
+
+CPBXCp Build/Products/Debug/PowerMonitor.hwgrowlmonitor Build/Products/Debug/HardwareGrowler.app/Contents/PlugIns/PowerMonitor.hwgrowlmonitor
+r0
+
+CPBXCp Build/Products/Debug/USBMonitor.hwgrowlmonitor Build/Products/Debug/HardwareGrowler.app/Contents/PlugIns/USBMonitor.hwgrowlmonitor
+r0
+
+CPBXCp Build/Products/Debug/VolumeMonitor.hwgrowlmonitor Build/Products/Debug/HardwareGrowler.app/Contents/PlugIns/VolumeMonitor.hwgrowlmonitor
+r0
+
+CPhaseScriptExecution Generate\ Localizable.strings /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Script-BC4FC625155C051E00EE65EC.sh
+r0
+
+CPhaseScriptExecution Growl\ XPC /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Script-BCB806961551591C0088C69A.sh
+r0
+
+CPhaseScriptExecution pt-BR\ link\ to\ pt /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Script-93B9584016B4E93B00C85136.sh
+r0
+
+CPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Info.plist
+s507448001.635930
+e507448001.643678
+r1
+xPreprocess
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist HardwareGrowler/HardwareGrowler-Info.plist147"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist HardwareGrowler/HardwareGrowler-Info.plistfad3a2c10a3fbe41^54c9a4c10a3fbe41^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Info.plist0000000000000000^837"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist HardwareGrowler/HardwareGrowler-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -E -P -x c -Wno-trigraphs /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Info.plist -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -traditional -CC -I /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist36"F804BEED-9ABA-4F07-8E11-BBB182E2855D-
+bB41B28F7-9170-4D0D-8237-EC6C3C2DFA50
+
+CProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist
+s507448001.643999
+e507448001.645267
+r1
+xProcessInfoPlistFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Process /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist175"ProcessInfoPlistFile Build/Products/Debug/HardwareGrowler.app/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plistdae4a4c10a3fbe41^0e32a5c10a3fbe41^---0#0#1#-19%DVTDocumentLocation2@170"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist0000000000000000^758"ProcessInfoPlistFile Build/Products/Debug/HardwareGrowler.app/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    builtin-infoPlistUtility /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/Preprocessed-Info.plist -genpkginfo /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app/Contents/Info.plist36"A4BA16AE-7989-4311-8FAB-99319EFC0E1C-
+bB41B28F7-9170-4D0D-8237-EC6C3C2DFA50
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch.pch HardwareGrowler/HardwareGrowler-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507448001.645653
+e507448002.044575
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch.pch
+xHardwareGrowler/HardwareGrowler-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Prefix.pch
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlToolChainSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile HardwareGrowler/HardwareGrowler-Prefix.pch245"ProcessPCH Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch.pch HardwareGrowler/HardwareGrowler-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5c56a5c10a3fbe41^b66a0bc20a3fbe41^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Prefix.pch0000000000000000^3961"ProcessPCH Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch.pch HardwareGrowler/HardwareGrowler-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fno-objc-exceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch.dia -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch.d -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-acmwgvtlnivjlxbzojfblgdcdaur/HardwareGrowler-Prefix.pch.pch36"4CC6E3B4-1768-4FBB-AD02-9109D50FE783-
+bB41B28F7-9170-4D0D-8237-EC6C3C2DFA50
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-ctupjwfmuhgpcxgoudflkfebwgel/HardwareGrowler-Prefix.pch.pch HardwareGrowler/HardwareGrowler-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s507448001.645867
+e507448002.051239
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-ctupjwfmuhgpcxgoudflkfebwgel/HardwareGrowler-Prefix.pch.pch
+xHardwareGrowler/HardwareGrowler-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile HardwareGrowler/HardwareGrowler-Prefix.pch245"ProcessPCH Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-ctupjwfmuhgpcxgoudflkfebwgel/HardwareGrowler-Prefix.pch.pch HardwareGrowler/HardwareGrowler-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzerf565a5c10a3fbe41^4f1f0dc20a3fbe41^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Prefix.pch0000000000000000^4284"ProcessPCH Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-ctupjwfmuhgpcxgoudflkfebwgel/HardwareGrowler-Prefix.pch.pch HardwareGrowler/HardwareGrowler-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fno-objc-exceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/HardwareGrowler-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/HardwareGrowler.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/HardwareGrowler/HardwareGrowler-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/HardwareGrowler-Prefix-ctupjwfmuhgpcxgoudflkfebwgel/HardwareGrowler-Prefix.pch.pch36"C5434865-567B-452F-9084-48BB89D001A6-
+bB41B28F7-9170-4D0D-8237-EC6C3C2DFA50
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/HardwareGrowler-Prefix-avixtjheviiuglgoxvvycvexgmgj_ast/HardwareGrowler-Prefix.pch.pch HardwareGrowler/HardwareGrowler-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTiffUtil OverlayMask.tiff
+r0
+
+CTiffUtil SliderHandle.tiff
+r0
+
+CTiffUtil SliderHandleDown.tiff
+r0
+
+CTiffUtil SliderWell.tiff
+r0
+
+CTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/HardwareGrowler.app
+r0
+

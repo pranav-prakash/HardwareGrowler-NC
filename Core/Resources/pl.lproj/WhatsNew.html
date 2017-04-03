@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>Growl</title>
+<link rel="stylesheet" href="../main.css" type="text/css">
+<meta charset="UTF-8">
+</head>
+<body>
+
+		<h3>Nowości w Growl 2.1</h3>
+		<h4>Ważne zmiany</h4>
+		<ul>
+<li>Naprawiliśmy Akcję Automator. Przepraszamy. Xcode próbował usprawnić nam pracę przy walidacji ustawień projektu, co z kolei wyłączyło coś, co powinno być włączone. Poprawka jest permanentna.</li>
+			<li>Poprawka związana z nieprawidłowym wykrywaniem wygaszacza i blokady ekranu.</li>
+		</ul>
+<h3>Nowości w Growl 2.1</h3>
+		<h4>Ważne zmiany</h4>
+		<ul>
+<li>Możliwość uruchamiania skryptów jako akcji.</li>
+			<li>Możliwość kontrolowania powiadomień za pomocą reguł. Więcej informacji na <a href="http://growl.info/documentation/applescript-rules">http://growl.info/documentation/applescript-rules</a>.</li>
+			<li>Growl nie zawiesza się gdy otrzymuje dużą liczbę powiadomień (więcej niż 100) na raz.</li>
+			<li>Powiadomienia Webkit mogą mieć teraz własne ostylowane przyciski zamykania.</li>
+
+		
+		</ul>
+<h4>Ogólne zmiany</h4>
+		<ul>
+<li>Czytelne pokazanie kiedy aplikacja decyduje o priorytecie.</li>
+			<li>AppleScript zwiększa rozmiar obrazów z 128x128 do 1024x1024.</li>
+			<li>Gdy będziesz korzystać z przekierowywania Centrum powiadomień, zobaczysz notatki na obydwu komputerach.</li>
+			<li>Wtyczka Prowl prawidłowo wysyła powiadomienia w pewnych konfiguracjach.</li>
+		</ul>
+<h4>Automator</h4>
+		<ul>
+<li>Akcja jest teraz zlokalizowana.</li>
+			<li>Kolejka czynności GrowlAction czyta z opisu akcji Automatora.</li>
+
+		</ul>
+<h3>Nowości w Growl 2</h3>
+			<h4>Ogólne</h4>
+			<ul>
+<li>Dodanie wsparcia Centrum powiadomień w OS X 10.8.</li>
+				<li>Dodanie serwisów Prowl i Boxcar jako akcji.</li>
+				<li>Usprawnienie wykrywania bezczynności przez Roletę.</li>
+				<li>Growl uruchamia się teraz w "piaskownicy".</li>
+			</ul>
+<h4>Preferencje</h4>
+			<ul>
+<li>Bardziej zrozumiały przełącznik włączony/wyłączony.</li>
+			</ul>
+<h4>Wyświetlanie</h4>
+			<ul>
+<li>Większa kontrola modułu Speech.</li>
+				<li>Oddzielenie akcji od powiadomień wizualnych.</li>
+				<li>Moduł Music Video uzyskał możliwość wyrównywania tekstu do lewej i prawej.</li>
+				<li>Poprawki dotyczące wysokości tekstu w module Music Video gdy tekst ma więcej linii.</li>
+				<li>Moduł Nano ma możliwość wyświetlania w różnych pozycjach - po lewej i prawej stronie oraz na środku.</li>
+				<li>Dodano moduł SoundAction.</li>
+				<li>Dodano możliwość wyłączenia jakichkolwiek powiadomień wizualnych.</li>
+			</ul>
+<h4>Poprawki</h4>
+			<ul>
+<li>Rozwiązuje problemy z wysokim użyciem procesora.</li>
+				<li>Rozwiązanie wielu problemów związanych z zawieszaniem się aplikacji.</li>
+				<li>Przypisane skróty klawiaturowe można teraz cofnąć.</li>
+			</ul>
+<h3>Zmiany w Growl 1.4</h3>
+			<h4>Ogólne</h4>
+			<ul>
+<li>Nowy wygląd zakładki Aplikacje! Zaprojektowana od nowa, jest teraz bardziej przyjazna dla użytkownika.</li>
+				<li>Preferencje Rolety w osobnej zakładce.</li>
+				<li>Duże poprawki w zakresie działania w sieci.</li>
+			</ul>
+<h4>Odświeżenie panelu preferencji</h4>
+			<ul>
+<li>Nowe przełączniki włączony/wyłączony.</li>
+				<li>Dodano wsparcie klawiatury przy wybieraniu pozycji.</li>
+				<li>Poprawki w rozmieszczeniu ustawień w zakładce Ogólne.</li>
+				<li>Zakładka Sieć - dodanie możliwości subskrybowania powiadomień.</li>
+				<li>Możliwość przełączania do ustawień aplikacji i powiadomień z zakładki Historia.</li>
+				<li>Nowa oddzielna zakładka dla ustawień Rolety.</li>
+				<li>Dodawanie nowego stylu powiadomień nie wymaga restartu aplikacji Growl.</li>
+			</ul>
+<h4>Sieć</h4>
+			<ul>
+<li>Wsparcie dla Notification-Callback-Target, pole URL w GNTP; Po kliknięciu Growl pozwala OS X na otwarcie URL (np. domyślną przeglądarką dla adresu http://).</li>
+				<li>Wsparcie dla subskrypcji - subskrybuj powiadomienia aplikacji na zdalnym komputerze.</li>
+				<li>Ogólne usprawnienia autentyfikacji sieciowej; Usunięto wymaganie i używanie hasła w nagłówkach.</li>
+				<li>Poprawki w zakresie rozpoznawania adresów sieciowych.</li>
+				<li>Przypisanie do lokalnego gniazda tylko w przypadku braku nasłuchu powiadomień sieciowych.</li>
+				<li>Zapisywanie danych o adresacji do pamięci podręcznej; Badanie zmian w sieci celem czyszczenia pamięci podręcznej.</li>
+			</ul>
+<h4>AppleScript</h4>
+			<ul>
+<li>Potwierdzenie kliknięcia w URL, analogicznie do Notification-Callback-Target w GNTP.</li>
+			</ul>
+<h4>Poprawki</h4>
+			<ul>
+<li>Rozwiązano problem z tworzeniem mostka WebKit.</li>
+				<li>Rozwiązano problem z przekierowywaniem.</li>
+				<li>Rozwiązno problem z modułem Speech czekającym na zakończenie poprzedniego powiadomienia, powodującym nadmierne uzycie CPU.</li>
+				<li>Rozwiązano problem z CFErrorGetDomain dla modułów WebKit.</li>
+				<li>Poprawka związana z podwójnym wyświetlaniem modułów po reinstalacji.</li>
+				<li>Wykorzystywanie Notification-Callback-Target, nawet bez metody w nagłówku.</li>
+				<li>Obejście problemów z uszkodzoną bazą danych historii.</li>
+				<li>Poprawka dotycząca sortowania po usunięciu wpisu w historii.</li>
+			</ul>
+</body>
+</html>

@@ -1,0 +1,125 @@
+TKeyboardMonitor
+v6
+r1
+cCheck dependencies
+cPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Info.plist
+cProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-fkdbqjitvyckrscdtdoetjrnwodq/KeyboardMonitor-Prefix.pch.pch KeyboardMonitor/KeyboardMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-cbdwerozouyopgeuitnwnsoqytjr/KeyboardMonitor-Prefix.pch.pch KeyboardMonitor/KeyboardMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005228143200000000000004B3
+t1378358322
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005227ECC800000000000001DE
+t1378348232
+s478
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist
+t1485754963
+s980
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-cbdwerozouyopgeuitnwnsoqytjr/KeyboardMonitor-Prefix.pch.pch
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-fkdbqjitvyckrscdtdoetjrnwodq/KeyboardMonitor-Prefix.pch.pch
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor/Contents/Info.plist
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Info.plist
+c00000000525A296800000000000003D3
+t1381640552
+s979
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Prefix.pch
+c00000000525A2968000000000000009E
+t1381640552
+s158
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/HWGrowlKeyboardMonitor.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/HWGrowlKeyboardMonitor.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies016858d3093fbe41^d9b462d3093fbe41^---0#1#1#--18"Check dependencies36"CBD2C6A8-C3C9-45ED-B806-F4AEA9B1C6CE-
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Objects-normal/x86_64/HWGrowlKeyboardMonitor.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/HWGrowlKeyboardMonitor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileXIB /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitorPrefs.xib
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor/Contents/Resources/en.lproj/InfoPlist.strings KeyboardMonitor/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor/Contents/MacOS/KeyboardMonitor
+r0
+
+CLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor/Contents/MacOS/KeyboardMonitor normal x86_64
+r0
+
+CPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Info.plist
+s507447763.388299
+e507447763.398015
+r1
+xPreprocess
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist KeyboardMonitor/KeyboardMonitor-Info.plist147"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist KeyboardMonitor/KeyboardMonitor-Info.plistcd7863d3093fbe41^6de565d3093fbe41^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Info.plist0000000000000000^837"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist KeyboardMonitor/KeyboardMonitor-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -E -P -x c -Wno-trigraphs /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Info.plist -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -traditional -CC -I /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist36"B86FCB45-BBFE-4BCE-823D-E5CB67E9787A-
+b38DCA40E-51A2-47AF-A0D1-923771C6D766
+
+CProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist
+s507447763.399290
+e507447763.401753
+r1
+xProcessInfoPlistFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor/Contents/Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Process /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist186"ProcessInfoPlistFile Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist8b5266d3093fbe41^2ee766d3093fbe41^---0#0#1#-19%DVTDocumentLocation2@170"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist0000000000000000^640"ProcessInfoPlistFile Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    builtin-infoPlistUtility /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/Preprocessed-Info.plist -expandbuildsettings -platform macosx -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor/Contents/Info.plist36"2D79147F-AA56-4E8F-B67E-A0EAA44609A4-
+b38DCA40E-51A2-47AF-A0D1-923771C6D766
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-cbdwerozouyopgeuitnwnsoqytjr/KeyboardMonitor-Prefix.pch.pch KeyboardMonitor/KeyboardMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s507447763.403386
+e507447764.191838
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-cbdwerozouyopgeuitnwnsoqytjr/KeyboardMonitor-Prefix.pch.pch
+xKeyboardMonitor/KeyboardMonitor-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile KeyboardMonitor/KeyboardMonitor-Prefix.pch245"ProcessPCH Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-cbdwerozouyopgeuitnwnsoqytjr/KeyboardMonitor-Prefix.pch.pch KeyboardMonitor/KeyboardMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer3d8267d3093fbe41^018631d4093fbe41^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Prefix.pch0000000000000000^4263"ProcessPCH Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-cbdwerozouyopgeuitnwnsoqytjr/KeyboardMonitor-Prefix.pch.pch KeyboardMonitor/KeyboardMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-disable-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/KeyboardMonitor-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/KeyboardMonitor-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/KeyboardMonitor-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/KeyboardMonitor-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-cbdwerozouyopgeuitnwnsoqytjr/KeyboardMonitor-Prefix.pch.pch36"8D47F85E-32E1-4007-83F5-AA0EE62F7A75-
+b38DCA40E-51A2-47AF-A0D1-923771C6D766
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-fkdbqjitvyckrscdtdoetjrnwodq/KeyboardMonitor-Prefix.pch.pch KeyboardMonitor/KeyboardMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447763.402620
+e507447764.191150
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-fkdbqjitvyckrscdtdoetjrnwodq/KeyboardMonitor-Prefix.pch.pch
+xKeyboardMonitor/KeyboardMonitor-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile KeyboardMonitor/KeyboardMonitor-Prefix.pch245"ProcessPCH Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-fkdbqjitvyckrscdtdoetjrnwodq/KeyboardMonitor-Prefix.pch.pch KeyboardMonitor/KeyboardMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf64067d3093fbe41^44dc30d4093fbe41^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Prefix.pch0000000000000000^3940"ProcessPCH Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-fkdbqjitvyckrscdtdoetjrnwodq/KeyboardMonitor-Prefix.pch.pch KeyboardMonitor/KeyboardMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/KeyboardMonitor-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/KeyboardMonitor-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/KeyboardMonitor-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/KeyboardMonitor-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/KeyboardMonitor.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-fkdbqjitvyckrscdtdoetjrnwodq/KeyboardMonitor-Prefix.pch.dia -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-fkdbqjitvyckrscdtdoetjrnwodq/KeyboardMonitor-Prefix.pch.d -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/KeyboardMonitor/KeyboardMonitor-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/KeyboardMonitor-Prefix-fkdbqjitvyckrscdtdoetjrnwodq/KeyboardMonitor-Prefix.pch.pch36"19317A43-6872-4D34-A73D-C15983C78C62-
+b38DCA40E-51A2-47AF-A0D1-923771C6D766
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/KeyboardMonitor-Prefix-dwmplwxkzjgyngdszpttpyluiiwg_ast/KeyboardMonitor-Prefix.pch.pch KeyboardMonitor/KeyboardMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/KeyboardMonitor.hwgrowlmonitor
+r0
+

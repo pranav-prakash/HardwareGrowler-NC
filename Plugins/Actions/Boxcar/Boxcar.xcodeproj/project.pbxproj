@@ -1,0 +1,741 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BC19A16C15198D1900A0CA64 /* GrowlPlugins.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BC19A15115198CE300A0CA64 /* GrowlPlugins.framework */; };
+		BC8F61B815F0555000DEC0A8 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = BC8058FB15BB742900E852B9 /* Localizable.strings */; };
+		BCA446F115E67EE300BF4FDA /* BoxcarPrefPane.xib in Resources */ = {isa = PBXBuildFile; fileRef = BCA446F015E67EE300BF4FDA /* BoxcarPrefPane.xib */; };
+		BCEA7EE21517CD4400E98B1F /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCEA7EE11517CD4400E98B1F /* Cocoa.framework */; };
+		BCEA7EE41517CD4400E98B1F /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCEA7EE31517CD4400E98B1F /* AppKit.framework */; };
+		BCEA7EE61517CD4400E98B1F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCEA7EE51517CD4400E98B1F /* Foundation.framework */; };
+		BCEA7EEC1517CD4400E98B1F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BCEA7EEA1517CD4400E98B1F /* InfoPlist.strings */; };
+		BCEA7EF51517CD4500E98B1F /* GrowlBoxcarPreferencePane.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEA7EF41517CD4500E98B1F /* GrowlBoxcarPreferencePane.m */; };
+		BCEA7EF81517CD4500E98B1F /* GrowlBoxcarAction.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEA7EF71517CD4500E98B1F /* GrowlBoxcarAction.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BC19A14A15198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = CB61E5180637763C00E0DDC7;
+			remoteInfo = Growl.app;
+		};
+		BC19A14C15198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BC29B27714D12D5300C72855;
+			remoteInfo = GrowlLauncher;
+		};
+		BC19A14E15198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 34F60EAB078E1CD500CECA86;
+			remoteInfo = Growl.framework;
+		};
+		BC19A15015198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BC83FC11150087EB000504F9;
+			remoteInfo = GrowlPlugins;
+		};
+		BC19A15215198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0AB508B10767C87B006EA5CB;
+			remoteInfo = Speech;
+		};
+		BC19A15415198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 95FC347907E0458E00BD8674;
+			remoteInfo = Brushed;
+		};
+		BC19A15615198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0AB508AE0767C87B006EA5CB;
+			remoteInfo = Bubbles;
+		};
+		BC19A15815198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E14410EF0A94072E0063C4DC;
+			remoteInfo = iCal;
+		};
+		BC19A15A15198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0AB508B40767C87B006EA5CB;
+			remoteInfo = Bezel;
+		};
+		BC19A15C15198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0AB508AF0767C87B006EA5CB;
+			remoteInfo = Smoke;
+		};
+		BC19A15E15198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 93BC379E095A662B0002B365;
+			remoteInfo = Nano;
+		};
+		BC19A16215198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0AB508B30767C87B006EA5CB;
+			remoteInfo = MusicVideo;
+		};
+		BC19A16415198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DD4939CC084BACA700D1CCCB;
+			remoteInfo = SMS;
+		};
+		BC19A16615198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 31E184D61084628D0011C78B;
+			remoteInfo = "Unit tests";
+		};
+		BC19A16815198CE300A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = FF93C8E314218EB3007EAC43;
+			remoteInfo = GNTPClientService;
+		};
+		BC19A16A15198D0700A0CA64 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = BC83FC10150087EB000504F9;
+			remoteInfo = GrowlPlugins;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		831F5EE0171BB6F1006A4DAF /* ar */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
+		831F5EF0171BB70E006A4DAF /* cy */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = cy; path = cy.lproj/Localizable.strings; sourceTree = "<group>"; };
+		8358A9BB15EDAE8C00590748 /* lv */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/Localizable.strings; sourceTree = "<group>"; };
+		8358A9CC15EDAE9B00590748 /* sk */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Localizable.strings; sourceTree = "<group>"; };
+		839F997D15F458AD00A04D3C /* pt-PT */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "pt-PT"; path = "pt-PT.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BC19A13615198CE300A0CA64 /* Growl.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Growl.xcodeproj; path = ../../../../Growl.xcodeproj; sourceTree = "<group>"; };
+		BC1FE6D415C0F00200E27306 /* Common.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Common.xcconfig; path = ../../../xcconfig/Common.xcconfig; sourceTree = "<group>"; };
+		BC1FE6D515C0F00200E27306 /* Debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Debug.xcconfig; path = ../../../xcconfig/Debug.xcconfig; sourceTree = "<group>"; };
+		BC1FE6D615C0F00200E27306 /* Localization.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Localization.xcconfig; path = ../../../xcconfig/Localization.xcconfig; sourceTree = "<group>"; };
+		BC1FE6D715C0F00200E27306 /* Release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Release.xcconfig; path = ../../../xcconfig/Release.xcconfig; sourceTree = "<group>"; };
+		BC4002D715F2652900F95B4E /* da */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC4C9C8E15F7B8D1007ECC82 /* th */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC61354B15E6616700686C89 /* cs */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC61355D15E6617200686C89 /* de */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC61355F15E6618600686C89 /* fr */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC61356115E6618E00686C89 /* it */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC61356315E6619600686C89 /* ja */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC61356515E6619D00686C89 /* ko */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC61356715E661A400686C89 /* nb */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC61356915E661AC00686C89 /* nl */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC61356B15E661B300686C89 /* pl */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC61356D15E661BC00686C89 /* pt-BR */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BC61356F15E661C300686C89 /* zh-Hans */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BC61357115E661CA00686C89 /* zh-Hant */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BC678F1815F135EA00E567D8 /* es */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC8058FC15BB742900E852B9 /* en */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC8F619915F052C600DEC0A8 /* ca */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ca; path = ca.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC8F61AD15F053EB00DEC0A8 /* es-MX */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "es-MX"; path = "es-MX.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BC8F61AE15F053FF00DEC0A8 /* ru */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC9E6CC915F1B3DC0017B66D /* ro */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BCA446F015E67EE300BF4FDA /* BoxcarPrefPane.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BoxcarPrefPane.xib; sourceTree = "<group>"; };
+		BCC042A715F0EE71000E1768 /* pt */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BCEA7EDE1517CD4400E98B1F /* Boxcar.growlView */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Boxcar.growlView; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCEA7EE11517CD4400E98B1F /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		BCEA7EE31517CD4400E98B1F /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		BCEA7EE51517CD4400E98B1F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		BCEA7EE91517CD4400E98B1F /* Boxcar-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Boxcar-Info.plist"; sourceTree = "<group>"; };
+		BCEA7EEB1517CD4400E98B1F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		BCEA7EED1517CD4400E98B1F /* Boxcar-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Boxcar-Prefix.pch"; sourceTree = "<group>"; };
+		BCEA7EF31517CD4500E98B1F /* GrowlBoxcarPreferencePane.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = GrowlBoxcarPreferencePane.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		BCEA7EF41517CD4500E98B1F /* GrowlBoxcarPreferencePane.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = GrowlBoxcarPreferencePane.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		BCEA7EF61517CD4500E98B1F /* GrowlBoxcarAction.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = GrowlBoxcarAction.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		BCEA7EF71517CD4500E98B1F /* GrowlBoxcarAction.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = GrowlBoxcarAction.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		BCEA7EFE1517CD7200E98B1F /* BoxcarDefines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = BoxcarDefines.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BCEA7EDB1517CD4400E98B1F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCEA7EE21517CD4400E98B1F /* Cocoa.framework in Frameworks */,
+				BCEA7EE41517CD4400E98B1F /* AppKit.framework in Frameworks */,
+				BCEA7EE61517CD4400E98B1F /* Foundation.framework in Frameworks */,
+				BC19A16C15198D1900A0CA64 /* GrowlPlugins.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BC19A13715198CE300A0CA64 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BC19A14B15198CE300A0CA64 /* Growl.app */,
+				BC19A14D15198CE300A0CA64 /* GrowlLauncher.app */,
+				BC19A14F15198CE300A0CA64 /* Growl.framework */,
+				BC19A15115198CE300A0CA64 /* GrowlPlugins.framework */,
+				BC19A15315198CE300A0CA64 /* Speech.growlView */,
+				BC19A15515198CE300A0CA64 /* Brushed.growlView */,
+				BC19A15715198CE300A0CA64 /* Bubbles.growlView */,
+				BC19A15915198CE300A0CA64 /* iCal.growlView */,
+				BC19A15B15198CE300A0CA64 /* Bezel.growlView */,
+				BC19A15D15198CE300A0CA64 /* Smoke.growlView */,
+				BC19A15F15198CE300A0CA64 /* Nano.growlView */,
+				BC19A16315198CE300A0CA64 /* MusicVideo.growlView */,
+				BC19A16515198CE300A0CA64 /* SMS.growlView */,
+				BC19A16715198CE300A0CA64 /* Unit tests.octest */,
+				BC19A16915198CE300A0CA64 /* com.company.application.GNTPClientService.xpc */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BC1FE6C315C0EFF700E27306 /* xcconfigs */ = {
+			isa = PBXGroup;
+			children = (
+				BC1FE6D415C0F00200E27306 /* Common.xcconfig */,
+				BC1FE6D515C0F00200E27306 /* Debug.xcconfig */,
+				BC1FE6D615C0F00200E27306 /* Localization.xcconfig */,
+				BC1FE6D715C0F00200E27306 /* Release.xcconfig */,
+			);
+			name = xcconfigs;
+			sourceTree = "<group>";
+		};
+		BCEA7ED31517CD4400E98B1F = {
+			isa = PBXGroup;
+			children = (
+				BC1FE6C315C0EFF700E27306 /* xcconfigs */,
+				BCEA7EE71517CD4400E98B1F /* Boxcar */,
+				BCEA7EE01517CD4400E98B1F /* Frameworks */,
+				BCEA7EDF1517CD4400E98B1F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BCEA7EDF1517CD4400E98B1F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BCEA7EDE1517CD4400E98B1F /* Boxcar.growlView */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BCEA7EE01517CD4400E98B1F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BCEA7EE11517CD4400E98B1F /* Cocoa.framework */,
+				BCEA7EE31517CD4400E98B1F /* AppKit.framework */,
+				BCEA7EE51517CD4400E98B1F /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BCEA7EE71517CD4400E98B1F /* Boxcar */ = {
+			isa = PBXGroup;
+			children = (
+				BCEA7EFE1517CD7200E98B1F /* BoxcarDefines.h */,
+				BCEA7EF31517CD4500E98B1F /* GrowlBoxcarPreferencePane.h */,
+				BCEA7EF41517CD4500E98B1F /* GrowlBoxcarPreferencePane.m */,
+				BCEA7EF61517CD4500E98B1F /* GrowlBoxcarAction.h */,
+				BCEA7EF71517CD4500E98B1F /* GrowlBoxcarAction.m */,
+				BCEA7EE81517CD4400E98B1F /* Supporting Files */,
+			);
+			path = Boxcar;
+			sourceTree = "<group>";
+		};
+		BCEA7EE81517CD4400E98B1F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BC19A13615198CE300A0CA64 /* Growl.xcodeproj */,
+				BCA446F015E67EE300BF4FDA /* BoxcarPrefPane.xib */,
+				BCEA7EE91517CD4400E98B1F /* Boxcar-Info.plist */,
+				BCEA7EEA1517CD4400E98B1F /* InfoPlist.strings */,
+				BCEA7EED1517CD4400E98B1F /* Boxcar-Prefix.pch */,
+				BC8058FB15BB742900E852B9 /* Localizable.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BCEA7EDD1517CD4400E98B1F /* Boxcar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BCEA7EFB1517CD4500E98B1F /* Build configuration list for PBXNativeTarget "Boxcar" */;
+			buildPhases = (
+				BCEA7EDA1517CD4400E98B1F /* Sources */,
+				BCEA7EDB1517CD4400E98B1F /* Frameworks */,
+				BC8058EA15BB6FAD00E852B9 /* Generate Localizable.strings */,
+				BCEA7EDC1517CD4400E98B1F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BC19A16B15198D0700A0CA64 /* PBXTargetDependency */,
+			);
+			name = Boxcar;
+			productName = Boxcar;
+			productReference = BCEA7EDE1517CD4400E98B1F /* Boxcar.growlView */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BCEA7ED51517CD4400E98B1F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+			};
+			buildConfigurationList = BCEA7ED81517CD4400E98B1F /* Build configuration list for PBXProject "Boxcar" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				cs,
+				de,
+				fr,
+				it,
+				ja,
+				ko,
+				nb,
+				nl,
+				pl,
+				"pt-BR",
+				"zh-Hans",
+				"zh-Hant",
+				lv,
+				sk,
+				ca,
+				"es-MX",
+				ru,
+				pt,
+				es,
+				ro,
+				da,
+				he,
+				"pt-PT",
+				th,
+				ar,
+				cy,
+			);
+			mainGroup = BCEA7ED31517CD4400E98B1F;
+			productRefGroup = BCEA7EDF1517CD4400E98B1F /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = BC19A13715198CE300A0CA64 /* Products */;
+					ProjectRef = BC19A13615198CE300A0CA64 /* Growl.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				BCEA7EDD1517CD4400E98B1F /* Boxcar */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		BC19A14B15198CE300A0CA64 /* Growl.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = Growl.app;
+			remoteRef = BC19A14A15198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A14D15198CE300A0CA64 /* GrowlLauncher.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = GrowlLauncher.app;
+			remoteRef = BC19A14C15198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A14F15198CE300A0CA64 /* Growl.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Growl.framework;
+			remoteRef = BC19A14E15198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A15115198CE300A0CA64 /* GrowlPlugins.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = GrowlPlugins.framework;
+			remoteRef = BC19A15015198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A15315198CE300A0CA64 /* Speech.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Speech.growlView;
+			remoteRef = BC19A15215198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A15515198CE300A0CA64 /* Brushed.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Brushed.growlView;
+			remoteRef = BC19A15415198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A15715198CE300A0CA64 /* Bubbles.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Bubbles.growlView;
+			remoteRef = BC19A15615198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A15915198CE300A0CA64 /* iCal.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = iCal.growlView;
+			remoteRef = BC19A15815198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A15B15198CE300A0CA64 /* Bezel.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Bezel.growlView;
+			remoteRef = BC19A15A15198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A15D15198CE300A0CA64 /* Smoke.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Smoke.growlView;
+			remoteRef = BC19A15C15198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A15F15198CE300A0CA64 /* Nano.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Nano.growlView;
+			remoteRef = BC19A15E15198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A16315198CE300A0CA64 /* MusicVideo.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = MusicVideo.growlView;
+			remoteRef = BC19A16215198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A16515198CE300A0CA64 /* SMS.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = SMS.growlView;
+			remoteRef = BC19A16415198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A16715198CE300A0CA64 /* Unit tests.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "Unit tests.octest";
+			remoteRef = BC19A16615198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC19A16915198CE300A0CA64 /* com.company.application.GNTPClientService.xpc */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = com.company.application.GNTPClientService.xpc;
+			remoteRef = BC19A16815198CE300A0CA64 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BCEA7EDC1517CD4400E98B1F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCEA7EEC1517CD4400E98B1F /* InfoPlist.strings in Resources */,
+				BCA446F115E67EE300BF4FDA /* BoxcarPrefPane.xib in Resources */,
+				BC8F61B815F0555000DEC0A8 /* Localizable.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		BC8058EA15BB6FAD00E852B9 /* Generate Localizable.strings */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Boxcar/*.h",
+				"$(SRCROOT)/Boxcar/*.m",
+			);
+			name = "Generate Localizable.strings";
+			outputPaths = (
+				"$(SRCROOT)/Boxcar/en.lproj/Localizable.strings",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "genstrings -o ./Boxcar/en.lproj/ ./Boxcar/*.h ./Boxcar/*.m";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BCEA7EDA1517CD4400E98B1F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCEA7EF51517CD4500E98B1F /* GrowlBoxcarPreferencePane.m in Sources */,
+				BCEA7EF81517CD4500E98B1F /* GrowlBoxcarAction.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BC19A16B15198D0700A0CA64 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = GrowlPlugins;
+			targetProxy = BC19A16A15198D0700A0CA64 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		BC8058FB15BB742900E852B9 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BC8058FC15BB742900E852B9 /* en */,
+				BC61354B15E6616700686C89 /* cs */,
+				BC61355D15E6617200686C89 /* de */,
+				BC61355F15E6618600686C89 /* fr */,
+				BC61356115E6618E00686C89 /* it */,
+				BC61356315E6619600686C89 /* ja */,
+				BC61356515E6619D00686C89 /* ko */,
+				BC61356715E661A400686C89 /* nb */,
+				BC61356915E661AC00686C89 /* nl */,
+				BC61356B15E661B300686C89 /* pl */,
+				BC61356D15E661BC00686C89 /* pt-BR */,
+				BC61356F15E661C300686C89 /* zh-Hans */,
+				BC61357115E661CA00686C89 /* zh-Hant */,
+				8358A9BB15EDAE8C00590748 /* lv */,
+				8358A9CC15EDAE9B00590748 /* sk */,
+				BC8F619915F052C600DEC0A8 /* ca */,
+				BC8F61AD15F053EB00DEC0A8 /* es-MX */,
+				BC8F61AE15F053FF00DEC0A8 /* ru */,
+				BCC042A715F0EE71000E1768 /* pt */,
+				BC678F1815F135EA00E567D8 /* es */,
+				BC9E6CC915F1B3DC0017B66D /* ro */,
+				BC4002D715F2652900F95B4E /* da */,
+				839F997D15F458AD00A04D3C /* pt-PT */,
+				BC4C9C8E15F7B8D1007ECC82 /* th */,
+				831F5EE0171BB6F1006A4DAF /* ar */,
+				831F5EF0171BB70E006A4DAF /* cy */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		BCEA7EEA1517CD4400E98B1F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BCEA7EEB1517CD4400E98B1F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BC1FE6DC15C0F01100E27306 /* Localization */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6D615C0F00200E27306 /* Localization.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_PREFIX_HEADER = "";
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Localization;
+		};
+		BC1FE6DD15C0F01100E27306 /* Localization */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6D615C0F00200E27306 /* Localization.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: The Growl Project, LLC";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/Boxcar\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Boxcar/Boxcar-Prefix.pch";
+				INFOPLIST_FILE = "Boxcar/Boxcar-Info.plist";
+				INFOPLIST_PREFIX_HEADER = "";
+				INSTALL_PATH = "$(USER_LIBRARY_DIR)/Application Support/Growl/Plugins";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = growlView;
+			};
+			name = Localization;
+		};
+		BCEA7EF91517CD4500E98B1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6D515C0F00200E27306 /* Debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_PREFIX_HEADER = "";
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		BCEA7EFA1517CD4500E98B1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6D715C0F00200E27306 /* Release.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_PREFIX_HEADER = "";
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		BCEA7EFC1517CD4500E98B1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6D515C0F00200E27306 /* Debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: The Growl Project, LLC";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/Boxcar\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Boxcar/Boxcar-Prefix.pch";
+				INFOPLIST_FILE = "Boxcar/Boxcar-Info.plist";
+				INFOPLIST_PREFIX_HEADER = "";
+				INSTALL_PATH = "$(USER_LIBRARY_DIR)/Application Support/Growl/Plugins";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = growlView;
+			};
+			name = Debug;
+		};
+		BCEA7EFD1517CD4500E98B1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6D715C0F00200E27306 /* Release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: The Growl Project, LLC";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/Boxcar\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Boxcar/Boxcar-Prefix.pch";
+				INFOPLIST_FILE = "Boxcar/Boxcar-Info.plist";
+				INFOPLIST_PREFIX_HEADER = "";
+				INSTALL_PATH = "$(USER_LIBRARY_DIR)/Application Support/Growl/Plugins";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = growlView;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BCEA7ED81517CD4400E98B1F /* Build configuration list for PBXProject "Boxcar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BCEA7EF91517CD4500E98B1F /* Debug */,
+				BCEA7EFA1517CD4500E98B1F /* Release */,
+				BC1FE6DC15C0F01100E27306 /* Localization */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BCEA7EFB1517CD4500E98B1F /* Build configuration list for PBXNativeTarget "Boxcar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BCEA7EFC1517CD4500E98B1F /* Debug */,
+				BCEA7EFD1517CD4500E98B1F /* Release */,
+				BC1FE6DD15C0F01100E27306 /* Localization */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BCEA7ED51517CD4400E98B1F /* Project object */;
+}

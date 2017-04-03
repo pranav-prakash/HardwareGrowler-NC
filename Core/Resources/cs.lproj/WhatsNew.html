@@ -1,0 +1,110 @@
+<html>
+<head>
+<title>Growl</title>
+<link rel="stylesheet" href="../main.css" type="text/css">
+<meta charset="UTF-8">
+</head>
+<body>
+
+		<h3>Novinky v Growl 2.1</h3>
+		<h4>Hlavní změny</h4>
+		<ul>
+<li>Opraveny akce Automatoru. Omlouváme se všem. XCode se snažilo pomoci s validací některých nastavení projektu. To bylo příčinou, že některé věci přestaly fungovat. Oprava je trvalá.</li>
+			<li>Opraveno neočekávané chování spořiče a zámku.</li>
+		</ul>
+<h3>Novinky v Growl 2.1</h3>
+		<h4>Hlavní změny</h4>
+		<ul>
+<li>Přidána možnost spustit skript jako akci.</li>
+			<li>Přidána podpora ovládání upozornění pomocá pravidel. Podrobnosti na <a href="http://growl.info/documentation/applescript-rules">http://growl.info/documentation/applescript-rules</a>.</li>
+			<li>Growl se nazablokuje při přijímání vysokého objemu (stovky) požadavků na upozornění v jeden okamžik.</li>
+			<li>Webkit nyní dokáže zobrazovat vlastní tlačítka pro zavření.</li>
+
+		
+		</ul>
+<h4>Hlavní změny</h4>
+		<ul>
+<li>Zlepšení zobrazení, pokud se Growl rozhodne na základě priorit.</li>
+			<li>Zvětšeny limity obrázku pro AppleScript ze 128x128 na 1024x1024.</li>
+			<li>Při použití přesměrování s předáním do Centra oznámení, uvidíte poznámku nyní na obou počítačích.</li>
+			<li>Zásuvný modul Prowl nyní posílá upozornění správně, pokud obsahují klikatelnou akci.</li>
+		</ul>
+<h4>Automator</h4>
+		<ul>
+<li>Akce Automatoru jsou nyní lokalizovány.</li>
+			<li>Workflow akce Growl nyní čte z popisu akce Automatoru.</li>
+
+		</ul>
+<h3>Novinky v Growl 2</h3>
+			<h4>Hlavní</h4>
+			<ul>
+<li>Přidána podpora pro systémová upozornění OS X v 10.8.</li>
+				<li>Přidána podpora pro služby Prowl a Boxcar jako zobrazovací akce.</li>
+				<li>Přehled nyní lépe rozpozná čas nečinnost.</li>
+				<li>Growl běží v sandboxu.</li>
+			</ul>
+<h4>Předvolby</h4>
+			<ul>
+<li>Přepínač I/0 (Zapnuto/Vypnuto) je nyní v aplikaci Growl srozumitelnější.</li>
+			</ul>
+<h4>Zobrazení</h4>
+			<ul>
+<li>Předčítání má více možností.</li>
+				<li>Oddělili se akce upozornění od vizuálních upozornění.</li>
+				<li>Text v tématu Music Video může být také zarovnán vlevo nebo vpravo.</li>
+				<li>Opraveny problémy s celkovou výškou ve víceřádkových upozornění v tématu Music Video.</li>
+				<li>Téma Nano se nyní může zobrazovat na více místech, vlevo, uprostřed a vpravo.</li>
+				<li>Přidáno nové téma SoundAction.</li>
+				<li>Přidána možnost nezobrazovat žádná vizuální upozornění.</li>
+			</ul>
+<h4>Opravy chyb</h4>
+			<ul>
+<li>Opravena chyba, která způsobovala nadměrné zatěžování CPU.</li>
+				<li>Opraveny mnohé pády aplikace.
+</li>
+				<li>Klávesové zkratky nemusejí být přiřazeny.</li>
+			</ul>
+<h3>Změny v Growl 1.4</h3>
+			<h4>Hlavní</h4>
+			<ul>
+<li>Přepracován vzhled aplikace a aplikačních panelů!</li>
+				<li>Přehled přesunut do zvláštního panelu.</li>
+				<li>Významné změny v síťové vrstvě.</li>
+			</ul>
+<h4>Přepracování panelu předvoleb</h4>
+			<ul>
+<li>Nový přepínač Zapnuto/Vypnuto</li>
+				<li>Přidána podpora klávesnice pro zjišťování pozice.
+</li>
+				<li>Přepracován vzhled a styl panelů.</li>
+				<li>Panel Síť přidána podpora pro odebírání</li>
+				<li>Panel Historie, kontextová nabídka pro tabulku historie pro rychle zobrazení historie upozornění jedné aplikace.</li>
+				<li>Panel Přehled je v samostatném panelu.</li>
+				<li>Při přidání nové obrazovky není již třeba znovu spouštět Growl.</li>
+			</ul>
+<h4>Síťová vrstva</h4>
+			<ul>
+<li>Podpora Notification-Callback-Target, URL odkaz v GNTP. Po klepnutí na upozornění Growl otevře zadané URL ve výchozím prohlížeči (výchozí URL: http://url).</li>
+				<li>Podpora odebírání, nyní lze odebírat upozornění ze všech aplikací ze vzdáleného stroje.</li>
+				<li>Významná vylepšení v oblastí autentifikace.</li>
+				<li>Opravena chyba, která způsobovala pád při síťové komunikaci.</li>
+				<li>Naslouchá pouze místním upozorněním, pokud nejsou aktivní síťová upozornění.</li>
+				<li>Vylepšena správa vyrovnávací paměti při síťové komunikaci.</li>
+			</ul>
+<h4>Applescript</h4>
+			<ul>
+<li>Aktivní URL odkaz, stejný jako Notification-Callback-Target také v GNTP</li>
+			</ul>
+<h4>Opravy chyb</h4>
+			<ul>
+<li>Opravena chyba, která způsobovala pád zásuvného modulu WebKit</li>
+				<li>Opravena chyba, která způsobovala pád při předávání upozornění.</li>
+				<li>Opravena chyba v modulu Předčítání, která způsoboval nadměrnou spotřebu procesorového času.</li>
+				<li>Opravena chyba, která způsobovala pád v metodě CFErrorGetDomain při zobrazování upozornění.</li>
+				<li>Opraven zdvojený výpis zásuvných modulů po reinstalaci.</li>
+				<li>Notification-Callback-Target je nyní používaný dokonce i bez hlavičky metody.</li>
+				<li>Vyřešen problém při poškození databáze historie.</li>
+				<li>Vyřešen problém ve třídění, při smazání záznamu v historii.</li>
+			</ul>
+</body>
+</html>

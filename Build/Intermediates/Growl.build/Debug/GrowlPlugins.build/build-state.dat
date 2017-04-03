@@ -1,0 +1,1109 @@
+TGrowlPlugins
+v6
+r1
+cCheck dependencies
+cPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Info.plist
+cProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist
+cPhaseScriptExecution Generate\ Localizable.strings /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Script-BCC7F9801503C08B005FFE04.sh
+cProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch.pch Plugins/PluginFramework/GrowlPlugins-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPlugin.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayPlugin.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayWindowController.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotificationView.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/GrowlWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFadingWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFadingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlSlidingWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlSlidingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFlippingWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFlippingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlShrinkingWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlShrinkingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlScaleWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlScaleWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWipeWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlWipeWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlActionPlugin.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Actions/GrowlActionPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotification.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferencePane.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferenceStrings.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlPluginPreferenceStrings.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlKeychainUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlKeychainUtilities.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlIdleStatusObserver.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCombo.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCodeTranslator.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGHotKeyCenter.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000533B9F35000000000000044C
+t1396416309
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9F3500000000000001DE
+t1396416309
+s478
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlDefines.h
+c00000000525A2968000000000000583E
+t1381640552
+s22590
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlDefinesInternal.h
+c00000000525A2968000000000000236F
+t1381640552
+s9071
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlKeychainUtilities.h
+c00000000525A29680000000000000302
+t1381640552
+s770
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlKeychainUtilities.m
+c00000000525A2968000000000000125A
+t1381640552
+s4698
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlPathUtilities.h
+c00000000525A29680000000000001A2D
+t1381640552
+s6701
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/NSStringAdditions.h
+c00000000525A2968000000000000028B
+t1381640552
+s651
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/NSViewAdditions.h
+c00000000525A2968000000000000014F
+t1381640552
+s335
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.h
+c00000000525A296800000000000008C4
+t1381640552
+s2244
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.m
+c00000000525A2968000000000000123C
+t1381640552
+s4668
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlActionPlugin.o
+t1485754631
+s7184
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayPlugin.o
+t1485754631
+s39776
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayWindowController.o
+t1485754631
+s127796
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFadingWindowTransition.o
+t1485754631
+s18936
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFlippingWindowTransition.o
+t1485754631
+s25632
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlIdleStatusObserver.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlKeychainUtilities.o
+t1485754631
+s27504
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotification.o
+t1485754631
+s36876
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotificationView.o
+t1485754631
+s56172
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPlugin.o
+t1485754631
+s34144
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferencePane.o
+t1485754631
+s35224
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferenceStrings.o
+t1485754631
+s47480
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlScaleWindowTransition.o
+t1485754631
+s22844
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlShrinkingWindowTransition.o
+t1485754631
+s21712
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlSlidingWindowTransition.o
+t1485754631
+s21328
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWindowTransition.o
+t1485754631
+s32108
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWipeWindowTransition.o
+t1485754631
+s19416
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGHotKey.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGHotKeyCenter.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCodeTranslator.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCombo.o
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist
+t1485753507
+s977
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Script-BCC7F9801503C08B005FFE04.sh
+c00000000588ECCA3000000000000006E
+t1485753507
+s110
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-cowildqxoccdgncqttzsbxuvjoit/GrowlPlugins-Prefix.pch.pch
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch.pch
+t1485754564
+s13713000
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/Info.plist
+t1485753507
+s1270
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlPositioningDefines.h
+c00000000525A296800000000000008C1
+t1381640552
+s2241
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlToolChainSupport.h
+c00000000588ED0C3000000000000004F
+t1485754563
+s79
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Actions/GrowlActionPlugin.h
+c00000000525A2968000000000000012C
+t1381640552
+s300
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Actions/GrowlActionPlugin.m
+c00000000525A29680000000000000149
+t1381640552
+s329
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.h
+c00000000525A296800000000000008F7
+t1381640552
+s2295
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.m
+c00000000525A29680000000000000A0D
+t1381640552
+s2573
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFadingWindowTransition.h
+c00000000525A29680000000000000117
+t1381640552
+s279
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFadingWindowTransition.m
+c00000000525A2968000000000000026D
+t1381640552
+s621
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFlippingWindowTransition.h
+c00000000525A296800000000000001AB
+t1381640552
+s427
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFlippingWindowTransition.m
+c00000000525A29680000000000000757
+t1381640552
+s1879
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlScaleWindowTransition.h
+c00000000525A296800000000000001ED
+t1381640552
+s493
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlScaleWindowTransition.m
+c00000000525A296800000000000005CC
+t1381640552
+s1484
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlShrinkingWindowTransition.h
+c00000000525A29680000000000000145
+t1381640552
+s325
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlShrinkingWindowTransition.m
+c00000000525A29680000000000000529
+t1381640552
+s1321
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlSlidingWindowTransition.h
+c00000000525A29680000000000000247
+t1381640552
+s583
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlSlidingWindowTransition.m
+c00000000525A29680000000000000450
+t1381640552
+s1104
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlWipeWindowTransition.h
+c00000000525A296800000000000001BF
+t1381640552
+s447
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlWipeWindowTransition.m
+c00000000525A2968000000000000022B
+t1381640552
+s555
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.h
+c00000000525A296800000000000006E9
+t1381640552
+s1769
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.m
+c00000000525A2968000000000000116B
+t1381640552
+s4459
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.h
+c00000000525A29680000000000001FDC
+t1381640552
+s8156
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.m
+c00000000525A29680000000000005C9C
+t1381640552
+s23708
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.h
+c00000000525A2968000000000000046C
+t1381640552
+s1132
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.m
+c00000000525A296800000000000018A1
+t1381640552
+s6305
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlPluginPreferenceStrings.h
+c00000000525A29680000000000000631
+t1381640552
+s1585
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlPluginPreferenceStrings.m
+c00000000525A29680000000000001436
+t1381640552
+s5174
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.h
+c00000000525A29680000000000000D73
+t1381640552
+s3443
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.m
+c00000000525A296800000000000006EA
+t1381640552
+s1770
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlDisplayBridgeController.h
+c00000000525A29680000000000000372
+t1381640552
+s882
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.h
+c00000000525A29680000000000000163
+t1381640552
+s355
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m
+c00000000525A29680000000000001A68
+t1381640552
+s6760
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.h
+c00000000525A29680000000000000233
+t1381640552
+s563
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.m
+c00000000525A29680000000000000C1A
+t1381640552
+s3098
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Info.plist
+c00000000525A296800000000000003C7
+t1381640552
+s967
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Prefix.pch
+c00000000525A296800000000000000BC
+t1381640552
+s188
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionController.h
+c00000000525A296800000000000003D4
+t1381640552
+s980
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlQuadTreeNode.h
+c00000000525A296800000000000004F2
+t1381640552
+s1266
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/en.lproj
+t1485752105
+s102
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKey.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m
+c00000000000000000000000000000000
+t2
+s0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlKeychainUtilities.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Actions/GrowlActionPlugin.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/GrowlWindowTransition.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFadingWindowTransition.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFlippingWindowTransition.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlScaleWindowTransition.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlShrinkingWindowTransition.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlSlidingWindowTransition.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlWipeWindowTransition.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlPluginPreferenceStrings.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlDisplayBridgeController.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionColumn.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionController.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlQuadTreeNode.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlUserScriptTaskUtilities.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/NSScreen+GrowlScreenAdditions.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/NSURL+StringEncoding.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKey.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb3cf6bec083fbe41^56496cec083fbe41^---0#1#1#--18"Check dependencies36"8CEA2B5B-D5C1-4F17-B2B1-73B1C36B1503-
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlActionPlugin.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Actions/GrowlActionPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.243921
+e507447431.264418
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlActionPlugin.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Actions/GrowlActionPlugin.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Actions/GrowlActionPlugin.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Actions/GrowlActionPlugin.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Actions/GrowlActionPlugin.m236"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlActionPlugin.o Plugins/Actions/GrowlActionPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler34853e87083fbe41^18b14387083fbe41^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Actions/GrowlActionPlugin.m0000000000000000^3913"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlActionPlugin.o Plugins/Actions/GrowlActionPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlActionPlugin.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlActionPlugin.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Actions/GrowlActionPlugin.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlActionPlugin.o36"2BE0F53D-42D0-445E-A78A-498DC193F8C4-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayBridgeController.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlDisplayBridgeController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayPlugin.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.122177
+e507447431.171329
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayPlugin.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionController.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlPositioningDefines.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlQuadTreeNode.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlDefinesInternal.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlDisplayBridgeController.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/NSStringAdditions.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlDefines.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.m239"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayPlugin.o Plugins/Displays/GrowlDisplayPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4f5b1f87083fbe41^7bdc2b87083fbe41^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.m0000000000000000^3921"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayPlugin.o Plugins/Displays/GrowlDisplayPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayPlugin.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayPlugin.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayPlugin.o36"F774588E-7E13-498F-AD97-61A17B92808A-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayWindowController.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.122434
+e507447431.231205
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayWindowController.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayPlugin.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionController.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Framework/Source/GrowlPositioningDefines.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlQuadTreeNode.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlDefinesInternal.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlPathUtilities.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlDefines.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlDisplayBridgeController.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/NSViewAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.m259"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayWindowController.o Plugins/Displays/GrowlDisplayWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler12691f87083fbe41^10243b87083fbe41^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.m0000000000000000^3981"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayWindowController.o Plugins/Displays/GrowlDisplayWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayWindowController.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayWindowController.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlDisplayWindowController.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlDisplayWindowController.o36"DF33C18A-B525-4C64-91CF-CAF5D87F45D4-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFadingWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFadingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.171988
+e507447431.203109
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFadingWindowTransition.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFadingWindowTransition.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFadingWindowTransition.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFadingWindowTransition.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFadingWindowTransition.m303"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFadingWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFadingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera41c2c87083fbe41^b9c13487083fbe41^---0#0#1#-19%DVTDocumentLocation2@149"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation%20&%20Transitions/Window%20Transitions/GrowlFadingWindowTransition.m0000000000000000^4067"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFadingWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFadingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFadingWindowTransition.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFadingWindowTransition.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFadingWindowTransition.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFadingWindowTransition.o36"7C1A8939-A6C2-4DAD-BEC5-51050F2CB6A7-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFlippingWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFlippingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.191706
+e507447431.251366
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFlippingWindowTransition.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFlippingWindowTransition.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFlippingWindowTransition.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFlippingWindowTransition.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlFlippingWindowTransition.m307"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFlippingWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFlippingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf6273187083fbe41^b8594087083fbe41^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation%20&%20Transitions/Window%20Transitions/GrowlFlippingWindowTransition.m0000000000000000^4079"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFlippingWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFlippingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFlippingWindowTransition.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFlippingWindowTransition.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFlippingWindowTransition.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlFlippingWindowTransition.o36"D7766CCC-AED1-423E-B87E-C03A8F906E85-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlIdleStatusObserver.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447532.449012
+e507447532.556280
+r0
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlIdleStatusObserver.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.h
+o/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m:201:1: error: ivar 'isIdle' which backs the property is not referenced in this property's accessor [-Werror,-Wunused-property-ivar]
+o-(BOOL)isIdle {
+o^
+oIn file included from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m:9:
+o/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.h:13:38: note: property declared here
+o@property (nonatomic, readonly) BOOL isIdle;
+o                                     ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m256"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlIdleStatusObserver.o Plugins/PluginFramework/GrowlIdleStatusObserver.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler551873ec083fbe41^df6d8eec083fbe41^-605"/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m:201:1: error: ivar 'isIdle' which backs the property is not referenced in this property's accessor [-Werror,-Wunused-property-ivar]-(BOOL)isIdle {^In file included from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m:9:/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.h:13:38: note: property declared here@property (nonatomic, readonly) BOOL isIdle;                                     ^1 error generated.-0#0#1#-19%DVTDocumentLocation2@103"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m0000000000000000^3965"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlIdleStatusObserver.o Plugins/PluginFramework/GrowlIdleStatusObserver.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlIdleStatusObserver.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlIdleStatusObserver.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlIdleStatusObserver.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlIdleStatusObserver.o36"3B2B1B95-1256-4C44-A785-BC51242B42C1-
+b5355EDC3-56A3-42D2-AC2E-C07C9CA84AEE
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlKeychainUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlKeychainUtilities.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.265304
+e507447431.299634
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlKeychainUtilities.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlKeychainUtilities.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlKeychainUtilities.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlKeychainUtilities.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlKeychainUtilities.m244"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlKeychainUtilities.o Common/Source/GrowlKeychainUtilities.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler50fd4387083fbe41^e9b64c87083fbe41^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlKeychainUtilities.m0000000000000000^3939"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlKeychainUtilities.o Common/Source/GrowlKeychainUtilities.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlKeychainUtilities.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlKeychainUtilities.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlKeychainUtilities.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlKeychainUtilities.o36"017362B7-4D70-42E9-BAE3-B583AD83C8D5-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotification.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.252110
+e507447431.288859
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotification.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlDefines.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.m232"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotification.o Core/Source/GrowlNotification.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler419f4087083fbe41^edf24987083fbe41^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.m0000000000000000^3905"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotification.o Core/Source/GrowlNotification.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotification.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotification.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Core/Source/GrowlNotification.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotification.o36"B473C1A8-F659-472D-AE17-0E64EFC7FB70-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotificationView.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.129244
+e507447431.191275
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotificationView.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlDefinesInternal.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.m245"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotificationView.o Plugins/Displays/GrowlNotificationView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler512e2187083fbe41^e0f23087083fbe41^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.m0000000000000000^3939"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotificationView.o Plugins/Displays/GrowlNotificationView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotificationView.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotificationView.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlNotificationView.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlNotificationView.o36"CE897866-2B21-4FBE-9823-1D77D9361C86-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPlugin.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.121307
+e507447431.166192
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPlugin.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.m216"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPlugin.o Plugins/GrowlPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2d211f87083fbe41^2b872a87083fbe41^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.m0000000000000000^3861"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPlugin.o Plugins/GrowlPlugin.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPlugin.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPlugin.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/GrowlPlugin.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPlugin.o36"5C685194-F477-4C82-BCFF-2907D2D89526-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferencePane.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.256320
+e507447431.297482
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferencePane.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.m260"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferencePane.o Plugins/PluginFramework/GrowlPluginPreferencePane.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfbb14187083fbe41^802c4c87083fbe41^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.m0000000000000000^3977"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferencePane.o Plugins/PluginFramework/GrowlPluginPreferencePane.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferencePane.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferencePane.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPluginPreferencePane.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferencePane.o36"A9BFB113-7D59-429B-A4AE-9CEF01154A24-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferenceStrings.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlPluginPreferenceStrings.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.261480
+e507447431.299594
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferenceStrings.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlPluginPreferenceStrings.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlPluginPreferenceStrings.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlPluginPreferenceStrings.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlPluginPreferenceStrings.m259"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferenceStrings.o Plugins/Displays/GrowlPluginPreferenceStrings.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compileradfc4287083fbe41^96b24c87083fbe41^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlPluginPreferenceStrings.m0000000000000000^3981"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferenceStrings.o Plugins/Displays/GrowlPluginPreferenceStrings.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferenceStrings.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferenceStrings.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/GrowlPluginPreferenceStrings.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPluginPreferenceStrings.o36"61C021D1-F476-49F2-A367-CFC6C73632CD-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPositionColumn.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionColumn.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlPositionController.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPositionController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlQuadTreeNode.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlQuadTreeNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlScaleWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlScaleWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.220860
+e507447431.255940
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlScaleWindowTransition.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlScaleWindowTransition.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlScaleWindowTransition.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlScaleWindowTransition.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlDefinesInternal.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlScaleWindowTransition.m301"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlScaleWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlScaleWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler59a53887083fbe41^c2844187083fbe41^---0#0#1#-19%DVTDocumentLocation2@148"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation%20&%20Transitions/Window%20Transitions/GrowlScaleWindowTransition.m0000000000000000^4061"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlScaleWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlScaleWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlScaleWindowTransition.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlScaleWindowTransition.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlScaleWindowTransition.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlScaleWindowTransition.o36"39CD77C9-44E6-434A-BE9C-0EB8BDDC879C-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlShrinkingWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlShrinkingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.204377
+e507447431.243541
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlShrinkingWindowTransition.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlShrinkingWindowTransition.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlShrinkingWindowTransition.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlShrinkingWindowTransition.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlShrinkingWindowTransition.m309"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlShrinkingWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlShrinkingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5c8d3487083fbe41^c0593e87083fbe41^---0#0#1#-19%DVTDocumentLocation2@152"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation%20&%20Transitions/Window%20Transitions/GrowlShrinkingWindowTransition.m0000000000000000^4085"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlShrinkingWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlShrinkingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlShrinkingWindowTransition.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlShrinkingWindowTransition.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlShrinkingWindowTransition.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlShrinkingWindowTransition.o36"DA80EC9E-DB9E-415F-BC7D-E7E4CA0CF4FB-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlSlidingWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlSlidingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.179150
+e507447431.219728
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlSlidingWindowTransition.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlSlidingWindowTransition.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlSlidingWindowTransition.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlSlidingWindowTransition.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Common/Source/GrowlDefinesInternal.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlSlidingWindowTransition.m305"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlSlidingWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlSlidingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9df12d87083fbe41^7fbf3887083fbe41^---0#0#1#-19%DVTDocumentLocation2@150"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation%20&%20Transitions/Window%20Transitions/GrowlSlidingWindowTransition.m0000000000000000^4073"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlSlidingWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlSlidingWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlSlidingWindowTransition.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlSlidingWindowTransition.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlSlidingWindowTransition.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlSlidingWindowTransition.o36"A5614FD1-7907-44C4-8161-F6FD8FA7E1FD-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlUserScriptTaskUtilities.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlUserScriptTaskUtilities.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/GrowlWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.135158
+e507447431.178671
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWindowTransition.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.m271"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/GrowlWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler21ac2287083fbe41^40bd2d87083fbe41^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation%20&%20Transitions/GrowlWindowTransition.m0000000000000000^3991"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/GrowlWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWindowTransition.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWindowTransition.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/GrowlWindowTransition.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWindowTransition.o36"A3A71310-76D6-4638-AAA6-143B8C4C82D3-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWipeWindowTransition.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlWipeWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447431.231742
+e507447431.261209
+r1
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWipeWindowTransition.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlWipeWindowTransition.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlWipeWindowTransition.m
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlWipeWindowTransition.h
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/GrowlWindowTransition.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation & Transitions/Window Transitions/GrowlWipeWindowTransition.m299"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWipeWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlWipeWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera5663b87083fbe41^d7df4287083fbe41^---0#0#1#-19%DVTDocumentLocation2@147"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation%20&%20Transitions/Window%20Transitions/GrowlWipeWindowTransition.m0000000000000000^4055"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWipeWindowTransition.o Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlWipeWindowTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWipeWindowTransition.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWipeWindowTransition.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlWipeWindowTransition.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/GrowlWipeWindowTransition.o36"F4C56591-0113-40E9-BE0A-5FE909978403-
+b087AA0F1-24BF-4FA0-AD79-2B4FC60FDA02
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/NSScreen+GrowlScreenAdditions.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/NSScreen+GrowlScreenAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/NSURL+StringEncoding.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/NSURL+StringEncoding.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGHotKey.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKey.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGHotKeyCenter.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447532.449556
+e507447532.455211
+r0
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGHotKeyCenter.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m262"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGHotKeyCenter.o external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler982f73ec083fbe41^c18d74ec083fbe41^-309"clang: error: no such file or directory: '/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-507447532#18446744073709551615#0#-2#--20"Apple LLVM 5.0 Error--0#0#1#-19%DVTDocumentLocation3@118"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m0034dceddeffdf42^3959"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGHotKeyCenter.o external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGHotKeyCenter.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGHotKeyCenter.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGHotKeyCenter.o36"1AABB82E-CAB7-4117-8B0E-23BBE3B1CD7E-
+b5355EDC3-56A3-42D2-AC2E-C07C9CA84AEE
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCodeTranslator.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447532.449440
+e507447532.455292
+r0
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCodeTranslator.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m272"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCodeTranslator.o external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler833073ec083fbe41^859774ec083fbe41^-314"clang: error: no such file or directory: '/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-507447532#18446744073709551615#0#-2#--20"Apple LLVM 5.0 Error--0#0#1#-19%DVTDocumentLocation3@123"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m0034dceddeffdf42^3989"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCodeTranslator.o external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCodeTranslator.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCodeTranslator.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCodeTranslator.o36"44BF8B2E-11FA-4D72-98B9-0412B6DB600E-
+b5355EDC3-56A3-42D2-AC2E-C07C9CA84AEE
+
+CCompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCombo.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447532.449237
+e507447532.455294
+r0
+xCompileC
+xExtras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCombo.o
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m254"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCombo.o external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler761873ec083fbe41^089174ec083fbe41^-305"clang: error: no such file or directory: '/Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-507447532#18446744073709551615#0#-2#--20"Apple LLVM 5.0 Error--0#0#1#-19%DVTDocumentLocation3@114"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m0034dceddeffdf42^3935"CompileC Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCombo.o external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCombo.d --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCombo.dia -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.m -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Objects-normal/x86_64/SGKeyCombo.o36"1086680B-0A84-45EB-8601-2CDCCF204DE6-
+b5355EDC3-56A3-42D2-AC2E-C07C9CA84AEE
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/ar.lproj/PluginPrefStrings.strings Plugins/PluginFramework/ar.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/ca.lproj/PluginPrefStrings.strings Plugins/PluginFramework/ca.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/cs.lproj/PluginPrefStrings.strings Plugins/PluginFramework/cs.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/cy.lproj/PluginPrefStrings.strings Plugins/PluginFramework/cy.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/da.lproj/PluginPrefStrings.strings Plugins/PluginFramework/da.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/de.lproj/PluginPrefStrings.strings Plugins/PluginFramework/de.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/en.lproj/PluginPrefStrings.strings Plugins/PluginFramework/en.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/es-MX.lproj/PluginPrefStrings.strings Plugins/PluginFramework/es-MX.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/es.lproj/PluginPrefStrings.strings Plugins/PluginFramework/es.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/fr.lproj/PluginPrefStrings.strings Plugins/PluginFramework/fr.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/fur.lproj/PluginPrefStrings.strings Plugins/PluginFramework/fur.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/it.lproj/PluginPrefStrings.strings Plugins/PluginFramework/it.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/ja.lproj/PluginPrefStrings.strings Plugins/PluginFramework/ja.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/ko.lproj/PluginPrefStrings.strings Plugins/PluginFramework/ko.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/lv.lproj/PluginPrefStrings.strings Plugins/PluginFramework/lv.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/nb.lproj/PluginPrefStrings.strings Plugins/PluginFramework/nb.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/nl.lproj/PluginPrefStrings.strings Plugins/PluginFramework/nl.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/pl.lproj/PluginPrefStrings.strings Plugins/PluginFramework/pl.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/pt-BR.lproj/PluginPrefStrings.strings Plugins/PluginFramework/pt-BR.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/pt-PT.lproj/PluginPrefStrings.strings Plugins/PluginFramework/pt-PT.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/pt.lproj/PluginPrefStrings.strings Plugins/PluginFramework/pt.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/ro.lproj/PluginPrefStrings.strings Plugins/PluginFramework/ro.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/ru.lproj/PluginPrefStrings.strings Plugins/PluginFramework/ru.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/sk.lproj/PluginPrefStrings.strings Plugins/PluginFramework/sk.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/sv.lproj/PluginPrefStrings.strings Plugins/PluginFramework/sv.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/th.lproj/PluginPrefStrings.strings Plugins/PluginFramework/th.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/zh-Hans.lproj/PluginPrefStrings.strings Plugins/PluginFramework/zh-Hans.lproj/PluginPrefStrings.strings
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/zh-Hant.lproj/PluginPrefStrings.strings Plugins/PluginFramework/zh-Hant.lproj/PluginPrefStrings.strings
+r0
+
+CCpHeader Common/Source/GrowlDefines.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlDefines.h
+r0
+
+CCpHeader Common/Source/GrowlKeychainUtilities.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlKeychainUtilities.h
+r0
+
+CCpHeader Core/Source/GrowlNotification.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlNotification.h
+r0
+
+CCpHeader Plugins/Actions/GrowlActionPlugin.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlActionPlugin.h
+r0
+
+CCpHeader Plugins/Displays/Animation\ &\ Transitions/GrowlWindowTransition.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlWindowTransition.h
+r0
+
+CCpHeader Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFadingWindowTransition.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlFadingWindowTransition.h
+r0
+
+CCpHeader Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlFlippingWindowTransition.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlFlippingWindowTransition.h
+r0
+
+CCpHeader Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlScaleWindowTransition.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlScaleWindowTransition.h
+r0
+
+CCpHeader Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlShrinkingWindowTransition.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlShrinkingWindowTransition.h
+r0
+
+CCpHeader Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlSlidingWindowTransition.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlSlidingWindowTransition.h
+r0
+
+CCpHeader Plugins/Displays/Animation\ &\ Transitions/Window\ Transitions/GrowlWipeWindowTransition.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlWipeWindowTransition.h
+r0
+
+CCpHeader Plugins/Displays/GrowlDisplayPlugin.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlDisplayPlugin.h
+r0
+
+CCpHeader Plugins/Displays/GrowlDisplayWindowController.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlDisplayWindowController.h
+r0
+
+CCpHeader Plugins/Displays/GrowlNotificationView.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlNotificationView.h
+r0
+
+CCpHeader Plugins/Displays/GrowlPluginPreferenceStrings.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlPluginPreferenceStrings.h
+r0
+
+CCpHeader Plugins/GrowlPlugin.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlPlugin.h
+r0
+
+CCpHeader Plugins/PluginFramework/GrowlIdleStatusObserver.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlIdleStatusObserver.h
+r0
+
+CCpHeader Plugins/PluginFramework/GrowlPluginPreferencePane.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlPluginPreferencePane.h
+r0
+
+CCpHeader Plugins/PluginFramework/GrowlUserScriptTaskUtilities.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/GrowlUserScriptTaskUtilities.h
+r0
+
+CCpHeader Plugins/PluginFramework/NSScreen+GrowlScreenAdditions.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/NSScreen+GrowlScreenAdditions.h
+r0
+
+CCpHeader Plugins/PluginFramework/NSURL+StringEncoding.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/NSURL+StringEncoding.h
+r0
+
+CCpHeader external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKey.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/SGHotKey.h
+r0
+
+CCpHeader external_dependencies/SGHotKeysLib/SGHotKeysLib/SGHotKeyCenter.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/SGHotKeyCenter.h
+r0
+
+CCpHeader external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCodeTranslator.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/SGKeyCodeTranslator.h
+r0
+
+CCpHeader external_dependencies/SGHotKeysLib/SGHotKeysLib/SGKeyCombo.h Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Headers/SGKeyCombo.h
+r0
+
+CGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/GrowlPlugins
+r0
+
+CLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/GrowlPlugins normal x86_64
+r0
+
+CPhaseScriptExecution Generate\ Localizable.strings /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Script-BCC7F9801503C08B005FFE04.sh
+s507447532.423620
+e507447532.445922
+r1
+xPhaseScriptExecution
+xGenerate Localizable.strings
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Script-BCC7F9801503C08B005FFE04.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Run custom shell script 'Generate Localizable.strings'165"PhaseScriptExecution Generate\ Localizable.strings Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Script-BCC7F9801503C08B005FFE04.shf3206dec083fbe41^fe2872ec083fbe41^---0#0#1#--397"PhaseScriptExecution Generate\ Localizable.strings Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Script-BCC7F9801503C08B005FFE04.sh    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    /bin/sh -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Script-BCC7F9801503C08B005FFE04.sh36"DA66A3BE-05EB-4771-835E-AB51EF347490-
+b5355EDC3-56A3-42D2-AC2E-C07C9CA84AEE
+
+CPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Info.plist
+s507446307.243058
+e507446307.254159
+r1
+xPreprocess
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Preprocess Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist Plugins/PluginFramework/GrowlPlugins-Info.plist162"Preprocess Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist Plugins/PluginFramework/GrowlPlugins-Info.plist554b3e23043fbe41^bdfdc923043fbe41^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Info.plist0000000000000000^829"Preprocess Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist Plugins/PluginFramework/GrowlPlugins-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -E -P -x c -Wno-trigraphs /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Info.plist -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -include Info.plist-Prefix.pch -traditional -CC -I /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist36"5DFE07E0-2DFB-413C-A657-CE7456DEDEE8-
+bFFA250B2-FD61-4C7A-A69B-6D386A993567
+
+CProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist
+s507446307.254876
+e507446307.256319
+r1
+xProcessInfoPlistFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Process /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist223"ProcessInfoPlistFile Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/Info.plist Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist82554123043fbe41^3e03ca23043fbe41^---0#0#1#-19%DVTDocumentLocation2@157"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist0000000000000000^645"ProcessInfoPlistFile Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/Info.plist Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    builtin-infoPlistUtility /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/Preprocessed-Info.plist -expandbuildsettings -platform macosx -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework/Versions/A/Resources/Info.plist36"F13EF650-8104-42F4-B810-08E60AA1FD77-
+bFFA250B2-FD61-4C7A-A69B-6D386A993567
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-cowildqxoccdgncqttzsbxuvjoit/GrowlPlugins-Prefix.pch.pch Plugins/PluginFramework/GrowlPlugins-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507446360.439865
+e507446360.444969
+r0
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-cowildqxoccdgncqttzsbxuvjoit/GrowlPlugins-Prefix.pch.pch
+xPlugins/PluginFramework/GrowlPlugins-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: argument '-fcatch-undefined-behavior' is deprecated, use '-fsanitize=undefined-trap -fsanitize-undefined-trap-on-error' instead
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Precompile Plugins/PluginFramework/GrowlPlugins-Prefix.pch267"ProcessPCH Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-cowildqxoccdgncqttzsbxuvjoit/GrowlPlugins-Prefix.pch.pch Plugins/PluginFramework/GrowlPlugins-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler00aa7058043fbe41^e1427258043fbe41^-267"clang: error: argument '-fcatch-undefined-behavior' is deprecated, use '-fsanitize=undefined-trap -fsanitize-undefined-trap-on-error' insteadCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-507446360#18446744073709551615#0#-2#--20"Apple LLVM 5.0 Error--0#0#1#-19%DVTDocumentLocation3@101"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Prefix.pch0000000000000000^3846"ProcessPCH Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-cowildqxoccdgncqttzsbxuvjoit/GrowlPlugins-Prefix.pch.pch Plugins/PluginFramework/GrowlPlugins-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -fcatch-undefined-behavior --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-cowildqxoccdgncqttzsbxuvjoit/GrowlPlugins-Prefix.pch.dia -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-cowildqxoccdgncqttzsbxuvjoit/GrowlPlugins-Prefix.pch.d -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-cowildqxoccdgncqttzsbxuvjoit/GrowlPlugins-Prefix.pch.pch36"D6C3D8D6-1011-4B54-9CD0-36A8F08B7912-
+b868D4F98-3A58-4B08-9243-C3739EDEA73E
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch.pch Plugins/PluginFramework/GrowlPlugins-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s507447364.096624
+e507447364.588318
+r1
+xProcessPCH
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch.pch
+xPlugins/PluginFramework/GrowlPlugins-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Prefix.pch
+d/Users/cs/Downloads/Growl-stable--2c0987f24e3b/GrowlToolChainSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Precompile Plugins/PluginFramework/GrowlPlugins-Prefix.pch267"ProcessPCH Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch.pch Plugins/PluginFramework/GrowlPlugins-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6ccf1844083fbe41^309d9644083fbe41^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Prefix.pch0000000000000000^3819"ProcessPCH Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch.pch Plugins/PluginFramework/GrowlPlugins-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wunknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wsign-compare -Wshorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DNS_BUILD_32_LIKE_64 -DDEBUG -DNS_BLOCK_ASSERTIONS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-generated-files.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-own-target-headers.hmap -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-all-target-headers.hmap -iquote /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/GrowlPlugins-project-headers.hmap -iquote/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources/x86_64 -I/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/Growl.build/Debug/GrowlPlugins.build/DerivedSources -Wall -Wextra -Wpointer-arith -Wformat=2 -Wfloat-equal -Wstrict-overflow=4 -Wbad-function-cast -Winline -Wstrict-aliasing -Wno-unused-parameter -Wno-format-nonliteral -Wno-multichar -Wno-arc-performSelector-leaks -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug --serialize-diagnostics /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch.dia -MMD -MT dependencies -MF /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch.d -c /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Plugins/PluginFramework/GrowlPlugins-Prefix.pch -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/GrowlPlugins-Prefix-eacwnmovgchxyygsdaofrpcwwdae/GrowlPlugins-Prefix.pch.pch36"508C77D4-D033-4F49-ADBE-66CE3FED088C-
+b2591F249-4D11-4229-8726-1BB787A55F11
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/GrowlPlugins-Prefix-crnczapzzsfnagfpcsloweuekjhj_ast/GrowlPlugins-Prefix.pch.pch Plugins/PluginFramework/GrowlPlugins-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/GrowlPlugins-Prefix-gftjypipuverjygohynnluhfsbpa_ast/GrowlPlugins-Prefix.pch.pch Plugins/PluginFramework/GrowlPlugins-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/GrowlPlugins.framework
+r0
+

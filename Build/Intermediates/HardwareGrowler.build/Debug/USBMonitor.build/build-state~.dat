@@ -1,0 +1,74 @@
+TUSBMonitor
+v6
+r1
+cCheck dependencies
+cPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/USBMonitor/USBMonitor-Info.plist
+cProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/USBMonitor.hwgrowlmonitor/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist
+t1485754963
+s975
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/USBMonitor.hwgrowlmonitor/Contents/Info.plist
+t2
+s0
+
+N/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/USBMonitor/USBMonitor-Info.plist
+c00000000525A296800000000000003CE
+t1381640552
+s974
+
+CAnalyzeShallow /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/USBMonitor/HWGrowlUSBMonitor.m
+r0
+
+CBuild AST from /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/USBMonitor/HWGrowlUSBMonitor.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies514e58d3093fbe41^c50075d3093fbe41^---0#1#1#--18"Check dependencies36"1668CA30-FF07-4FEF-AB7D-0A7FED88ADB8-
+
+CCompileC Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Objects-normal/x86_64/HWGrowlUSBMonitor.o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/USBMonitor/HWGrowlUSBMonitor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCopyStringsFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/USBMonitor.hwgrowlmonitor/Contents/Resources/en.lproj/InfoPlist.strings USBMonitor/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/USBMonitor.hwgrowlmonitor.dSYM /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/USBMonitor.hwgrowlmonitor/Contents/MacOS/USBMonitor
+r0
+
+CLd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/USBMonitor.hwgrowlmonitor/Contents/MacOS/USBMonitor normal x86_64
+r0
+
+CPreprocess /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/USBMonitor/USBMonitor-Info.plist
+s507447763.470347
+e507447763.484834
+r1
+xPreprocess
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/USBMonitor/USBMonitor-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist USBMonitor/USBMonitor-Info.plist132"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist USBMonitor/USBMonitor-Info.plist4df978d3093fbe41^48dc7bd3093fbe41^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/USBMonitor/USBMonitor-Info.plist0000000000000000^807"Preprocess Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist USBMonitor/USBMonitor-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -E -P -x c -Wno-trigraphs /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/USBMonitor/USBMonitor-Info.plist -F/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug -traditional -CC -I /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/include -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist36"3070AB57-9180-4DA1-B5ED-AD40B4730D53-
+b7DC3DA16-E8E4-4EB5-B4FE-4377C852DFDB
+
+CProcessInfoPlistFile /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/USBMonitor.hwgrowlmonitor/Contents/Info.plist /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist
+s507447763.673055
+e507447763.674106
+r1
+xProcessInfoPlistFile
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/USBMonitor.hwgrowlmonitor/Contents/Info.plist
+x/Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Process /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist176"ProcessInfoPlistFile Build/Products/Debug/USBMonitor.hwgrowlmonitor/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist2a57acd3093fbe41^cc61c7d3093fbe41^---0#0#1#-19%DVTDocumentLocation2@165"file:///Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist0000000000000000^620"ProcessInfoPlistFile Build/Products/Debug/USBMonitor.hwgrowlmonitor/Contents/Info.plist Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist    cd /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler    builtin-infoPlistUtility /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/HardwareGrowler.build/Debug/USBMonitor.build/Preprocessed-Info.plist -expandbuildsettings -platform macosx -o /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/USBMonitor.hwgrowlmonitor/Contents/Info.plist36"EFAE747D-F0B1-4BB9-BE41-C6A21C5C59D4-
+b7DC3DA16-E8E4-4EB5-B4FE-4377C852DFDB
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/USBMonitor-Prefix-cbsycuvwakkjsmfqjrkdndjzxvrs/USBMonitor-Prefix.pch.pch USBMonitor/USBMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Intermediates/PrecompiledHeaders/USBMonitor-Prefix-fwenplvwvopbduaeagbkxqsuzctc/USBMonitor-Prefix.pch.pch USBMonitor/USBMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/cs/Library/Developer/Xcode/DerivedData/HardwareGrowler-ahkbiwanwomyrbbvvbsyzzlpuvst/Index/PrecompiledHeaders/USBMonitor-Prefix-dinkahjhjuwhsdczwannsswtxuxz_ast/USBMonitor-Prefix.pch.pch USBMonitor/USBMonitor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/cs/Downloads/Growl-stable--2c0987f24e3b/Extras/HardwareGrowler/Build/Products/Debug/USBMonitor.hwgrowlmonitor
+r0
+

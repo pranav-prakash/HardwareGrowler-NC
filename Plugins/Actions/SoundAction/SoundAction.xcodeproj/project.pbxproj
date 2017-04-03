@@ -1,0 +1,748 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BC8F616A15F00B4400DEC0A8 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = BC80590115BB74A000E852B9 /* Localizable.strings */; };
+		BCAD7961151265C70052EB51 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCAD7960151265C70052EB51 /* Cocoa.framework */; };
+		BCAD796B151265C70052EB51 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BCAD7969151265C70052EB51 /* InfoPlist.strings */; };
+		BCAD79D01512661B0052EB51 /* GrowlPlugins.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCAD798D151265DB0052EB51 /* GrowlPlugins.framework */; };
+		BCAD7A07151269AF0052EB51 /* GrowlSoundAction.m in Sources */ = {isa = PBXBuildFile; fileRef = BCAD7A06151269AF0052EB51 /* GrowlSoundAction.m */; };
+		BCAD7A0F15126F5B0052EB51 /* GrowlSoundActionPreferencePane.m in Sources */ = {isa = PBXBuildFile; fileRef = BCAD7A0E15126F5B0052EB51 /* GrowlSoundActionPreferencePane.m */; };
+		BCAD7A1115126F7E0052EB51 /* GrowlSoundActionPrefPane.xib in Resources */ = {isa = PBXBuildFile; fileRef = BCAD7A1015126F7E0052EB51 /* GrowlSoundActionPrefPane.xib */; };
+		BCAD7A15151281370052EB51 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCAD7A13151281230052EB51 /* CoreAudio.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BCAD7986151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = CB61E5180637763C00E0DDC7;
+			remoteInfo = Growl.app;
+		};
+		BCAD7988151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BC29B27714D12D5300C72855;
+			remoteInfo = GrowlLauncher;
+		};
+		BCAD798A151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 34F60EAB078E1CD500CECA86;
+			remoteInfo = Growl.framework;
+		};
+		BCAD798C151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BC83FC11150087EB000504F9;
+			remoteInfo = GrowlPlugins;
+		};
+		BCAD798E151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0AB508B10767C87B006EA5CB;
+			remoteInfo = Speech;
+		};
+		BCAD7990151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 95FC347907E0458E00BD8674;
+			remoteInfo = Brushed;
+		};
+		BCAD7992151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0AB508AE0767C87B006EA5CB;
+			remoteInfo = Bubbles;
+		};
+		BCAD7994151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E14410EF0A94072E0063C4DC;
+			remoteInfo = iCal;
+		};
+		BCAD7996151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0AB508B40767C87B006EA5CB;
+			remoteInfo = Bezel;
+		};
+		BCAD7998151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0AB508AF0767C87B006EA5CB;
+			remoteInfo = Smoke;
+		};
+		BCAD799A151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 93BC379E095A662B0002B365;
+			remoteInfo = Nano;
+		};
+		BCAD799E151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0AB508B30767C87B006EA5CB;
+			remoteInfo = MusicVideo;
+		};
+		BCAD79A0151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DD4939CC084BACA700D1CCCB;
+			remoteInfo = SMS;
+		};
+		BCAD79A2151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 31E184D61084628D0011C78B;
+			remoteInfo = "Unit tests";
+		};
+		BCAD79A4151265DB0052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = FF93C8E314218EB3007EAC43;
+			remoteInfo = GNTPClientService;
+		};
+		BCAD79CE151266080052EB51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = BC83FC10150087EB000504F9;
+			remoteInfo = GrowlPlugins;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		836AEA39171BB90E000F9819 /* ar */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
+		836AEA49171BB935000F9819 /* cy */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = cy; path = cy.lproj/Localizable.strings; sourceTree = "<group>"; };
+		836AEA4A171BB94B000F9819 /* hu */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/Localizable.strings; sourceTree = "<group>"; };
+		839F996715F3D23000A04D3C /* pt-PT */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "pt-PT"; path = "pt-PT.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BC1FE6EF15C0F04700E27306 /* Common.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Common.xcconfig; path = ../../../xcconfig/Common.xcconfig; sourceTree = "<group>"; };
+		BC1FE6F015C0F04700E27306 /* Debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Debug.xcconfig; path = ../../../xcconfig/Debug.xcconfig; sourceTree = "<group>"; };
+		BC1FE6F115C0F04700E27306 /* Localization.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Localization.xcconfig; path = ../../../xcconfig/Localization.xcconfig; sourceTree = "<group>"; };
+		BC1FE6F215C0F04700E27306 /* Release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Release.xcconfig; path = ../../../xcconfig/Release.xcconfig; sourceTree = "<group>"; };
+		BC4785A815E6709000B6451A /* cs */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC4785BA15E6709C00B6451A /* de */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC4785BC15E670A800B6451A /* fr */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC4785BE15E670BF00B6451A /* it */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC4785C015E670C900B6451A /* ko */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC4785C215E670D300B6451A /* nb */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC4785C415E670DD00B6451A /* nl */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC4785C615E6715D00B6451A /* pl */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC4785C815E6716500B6451A /* pt-BR */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BC4785CA15E6716C00B6451A /* zh-Hans */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BC4785CC15E6717400B6451A /* zh-Hant */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BC4C9CC115F7B94F007ECC82 /* th */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC678F4C15F1368400E567D8 /* es */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC80590215BB74A000E852B9 /* en */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC83627415F265A60012FBA3 /* da */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC8F614E15F00A2200DEC0A8 /* sk */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC8F619815F0525D00DEC0A8 /* ca */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ca; path = ca.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC8F61B315F054B400DEC0A8 /* es-MX */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "es-MX"; path = "es-MX.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BC8F61B415F054BF00DEC0A8 /* ru */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC8F61B515F054C900DEC0A8 /* sv */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BC9E6CFC15F1B4AF0017B66D /* ro */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BCA69E6C15F6CCA000547523 /* ja */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BCAD795D151265C70052EB51 /* SoundAction.growlView */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SoundAction.growlView; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCAD7960151265C70052EB51 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		BCAD7963151265C70052EB51 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		BCAD7964151265C70052EB51 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		BCAD7965151265C70052EB51 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		BCAD7968151265C70052EB51 /* SoundAction-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SoundAction-Info.plist"; sourceTree = "<group>"; };
+		BCAD796A151265C70052EB51 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		BCAD796C151265C70052EB51 /* SoundAction-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SoundAction-Prefix.pch"; sourceTree = "<group>"; };
+		BCAD7972151265DB0052EB51 /* Growl.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Growl.xcodeproj; path = ../../../../Growl.xcodeproj; sourceTree = "<group>"; };
+		BCAD7A05151269AF0052EB51 /* GrowlSoundAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GrowlSoundAction.h; sourceTree = "<group>"; };
+		BCAD7A06151269AF0052EB51 /* GrowlSoundAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GrowlSoundAction.m; sourceTree = "<group>"; };
+		BCAD7A0D15126F5A0052EB51 /* GrowlSoundActionPreferencePane.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GrowlSoundActionPreferencePane.h; sourceTree = "<group>"; };
+		BCAD7A0E15126F5B0052EB51 /* GrowlSoundActionPreferencePane.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GrowlSoundActionPreferencePane.m; sourceTree = "<group>"; };
+		BCAD7A1015126F7E0052EB51 /* GrowlSoundActionPrefPane.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GrowlSoundActionPrefPane.xib; sourceTree = "<group>"; };
+		BCAD7A12151272730052EB51 /* GrowlSoundActionDefines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GrowlSoundActionDefines.h; sourceTree = "<group>"; };
+		BCAD7A13151281230052EB51 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
+		BCC0429615F0EE53000E1768 /* pt */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/Localizable.strings; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BCAD795A151265C70052EB51 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCAD7961151265C70052EB51 /* Cocoa.framework in Frameworks */,
+				BCAD79D01512661B0052EB51 /* GrowlPlugins.framework in Frameworks */,
+				BCAD7A15151281370052EB51 /* CoreAudio.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BC1FE6DE15C0F03B00E27306 /* xcconfigs */ = {
+			isa = PBXGroup;
+			children = (
+				BC1FE6EF15C0F04700E27306 /* Common.xcconfig */,
+				BC1FE6F015C0F04700E27306 /* Debug.xcconfig */,
+				BC1FE6F115C0F04700E27306 /* Localization.xcconfig */,
+				BC1FE6F215C0F04700E27306 /* Release.xcconfig */,
+			);
+			name = xcconfigs;
+			sourceTree = "<group>";
+		};
+		BCAD7952151265C60052EB51 = {
+			isa = PBXGroup;
+			children = (
+				BC1FE6DE15C0F03B00E27306 /* xcconfigs */,
+				BCAD7966151265C70052EB51 /* SoundAction */,
+				BCAD795F151265C70052EB51 /* Frameworks */,
+				BCAD795E151265C70052EB51 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BCAD795E151265C70052EB51 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BCAD795D151265C70052EB51 /* SoundAction.growlView */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BCAD795F151265C70052EB51 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BCAD7A13151281230052EB51 /* CoreAudio.framework */,
+				BCAD7960151265C70052EB51 /* Cocoa.framework */,
+				BCAD7962151265C70052EB51 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BCAD7962151265C70052EB51 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BCAD7963151265C70052EB51 /* AppKit.framework */,
+				BCAD7964151265C70052EB51 /* CoreData.framework */,
+				BCAD7965151265C70052EB51 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		BCAD7966151265C70052EB51 /* SoundAction */ = {
+			isa = PBXGroup;
+			children = (
+				BCAD7967151265C70052EB51 /* Supporting Files */,
+				BCAD7A12151272730052EB51 /* GrowlSoundActionDefines.h */,
+				BCAD7A05151269AF0052EB51 /* GrowlSoundAction.h */,
+				BCAD7A06151269AF0052EB51 /* GrowlSoundAction.m */,
+				BCAD7A0D15126F5A0052EB51 /* GrowlSoundActionPreferencePane.h */,
+				BCAD7A0E15126F5B0052EB51 /* GrowlSoundActionPreferencePane.m */,
+			);
+			path = SoundAction;
+			sourceTree = "<group>";
+		};
+		BCAD7967151265C70052EB51 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BCAD7972151265DB0052EB51 /* Growl.xcodeproj */,
+				BCAD7968151265C70052EB51 /* SoundAction-Info.plist */,
+				BCAD7969151265C70052EB51 /* InfoPlist.strings */,
+				BCAD796C151265C70052EB51 /* SoundAction-Prefix.pch */,
+				BCAD7A1015126F7E0052EB51 /* GrowlSoundActionPrefPane.xib */,
+				BC80590115BB74A000E852B9 /* Localizable.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BCAD7973151265DB0052EB51 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BCAD7987151265DB0052EB51 /* Growl.app */,
+				BCAD7989151265DB0052EB51 /* GrowlLauncher.app */,
+				BCAD798B151265DB0052EB51 /* Growl.framework */,
+				BCAD798D151265DB0052EB51 /* GrowlPlugins.framework */,
+				BCAD798F151265DB0052EB51 /* Speech.growlView */,
+				BCAD7991151265DB0052EB51 /* Brushed.growlView */,
+				BCAD7993151265DB0052EB51 /* Bubbles.growlView */,
+				BCAD7995151265DB0052EB51 /* iCal.growlView */,
+				BCAD7997151265DB0052EB51 /* Bezel.growlView */,
+				BCAD7999151265DB0052EB51 /* Smoke.growlView */,
+				BCAD799B151265DB0052EB51 /* Nano.growlView */,
+				BCAD799F151265DB0052EB51 /* MusicVideo.growlView */,
+				BCAD79A1151265DB0052EB51 /* SMS.growlView */,
+				BCAD79A3151265DB0052EB51 /* Unit tests.octest */,
+				BCAD79A5151265DB0052EB51 /* com.company.application.GNTPClientService.xpc */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BCAD795C151265C70052EB51 /* SoundAction */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BCAD796F151265C70052EB51 /* Build configuration list for PBXNativeTarget "SoundAction" */;
+			buildPhases = (
+				BCAD7959151265C70052EB51 /* Sources */,
+				BCAD795A151265C70052EB51 /* Frameworks */,
+				BC8058D915BB6D7900E852B9 /* Generate Localizable.strings */,
+				BCAD795B151265C70052EB51 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BCAD79CF151266080052EB51 /* PBXTargetDependency */,
+			);
+			name = SoundAction;
+			productName = SoundAction;
+			productReference = BCAD795D151265C70052EB51 /* SoundAction.growlView */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BCAD7954151265C60052EB51 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+			};
+			buildConfigurationList = BCAD7957151265C60052EB51 /* Build configuration list for PBXProject "SoundAction" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				cs,
+				de,
+				fr,
+				it,
+				ko,
+				nb,
+				nl,
+				pl,
+				"pt-BR",
+				"zh-Hans",
+				"zh-Hant",
+				sk,
+				ca,
+				"es-MX",
+				ru,
+				sv,
+				pt,
+				es,
+				ro,
+				da,
+				he,
+				"pt-PT",
+				ja,
+				th,
+				ar,
+				cy,
+				hu,
+			);
+			mainGroup = BCAD7952151265C60052EB51;
+			productRefGroup = BCAD795E151265C70052EB51 /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = BCAD7973151265DB0052EB51 /* Products */;
+					ProjectRef = BCAD7972151265DB0052EB51 /* Growl.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				BCAD795C151265C70052EB51 /* SoundAction */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		BCAD7987151265DB0052EB51 /* Growl.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = Growl.app;
+			remoteRef = BCAD7986151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD7989151265DB0052EB51 /* GrowlLauncher.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = GrowlLauncher.app;
+			remoteRef = BCAD7988151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD798B151265DB0052EB51 /* Growl.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Growl.framework;
+			remoteRef = BCAD798A151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD798D151265DB0052EB51 /* GrowlPlugins.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = GrowlPlugins.framework;
+			remoteRef = BCAD798C151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD798F151265DB0052EB51 /* Speech.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Speech.growlView;
+			remoteRef = BCAD798E151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD7991151265DB0052EB51 /* Brushed.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Brushed.growlView;
+			remoteRef = BCAD7990151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD7993151265DB0052EB51 /* Bubbles.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Bubbles.growlView;
+			remoteRef = BCAD7992151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD7995151265DB0052EB51 /* iCal.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = iCal.growlView;
+			remoteRef = BCAD7994151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD7997151265DB0052EB51 /* Bezel.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Bezel.growlView;
+			remoteRef = BCAD7996151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD7999151265DB0052EB51 /* Smoke.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Smoke.growlView;
+			remoteRef = BCAD7998151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD799B151265DB0052EB51 /* Nano.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = Nano.growlView;
+			remoteRef = BCAD799A151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD799F151265DB0052EB51 /* MusicVideo.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = MusicVideo.growlView;
+			remoteRef = BCAD799E151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD79A1151265DB0052EB51 /* SMS.growlView */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = SMS.growlView;
+			remoteRef = BCAD79A0151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD79A3151265DB0052EB51 /* Unit tests.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "Unit tests.octest";
+			remoteRef = BCAD79A2151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BCAD79A5151265DB0052EB51 /* com.company.application.GNTPClientService.xpc */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = com.company.application.GNTPClientService.xpc;
+			remoteRef = BCAD79A4151265DB0052EB51 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BCAD795B151265C70052EB51 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCAD796B151265C70052EB51 /* InfoPlist.strings in Resources */,
+				BCAD7A1115126F7E0052EB51 /* GrowlSoundActionPrefPane.xib in Resources */,
+				BC8F616A15F00B4400DEC0A8 /* Localizable.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		BC8058D915BB6D7900E852B9 /* Generate Localizable.strings */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/SoundAction/*.h",
+				"$(SRCROOT)/SoundAction/*.m",
+			);
+			name = "Generate Localizable.strings";
+			outputPaths = (
+				"$(SRCROOT)/SoundAction/en.lproj/Localizable.strings",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "genstrings -o ./SoundAction/en.lproj/ ./SoundAction/*.h ./SoundAction/*.m";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BCAD7959151265C70052EB51 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCAD7A07151269AF0052EB51 /* GrowlSoundAction.m in Sources */,
+				BCAD7A0F15126F5B0052EB51 /* GrowlSoundActionPreferencePane.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BCAD79CF151266080052EB51 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = GrowlPlugins;
+			targetProxy = BCAD79CE151266080052EB51 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		BC80590115BB74A000E852B9 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BC80590215BB74A000E852B9 /* en */,
+				BC4785A815E6709000B6451A /* cs */,
+				BC4785BA15E6709C00B6451A /* de */,
+				BC4785BC15E670A800B6451A /* fr */,
+				BC4785BE15E670BF00B6451A /* it */,
+				BC4785C015E670C900B6451A /* ko */,
+				BC4785C215E670D300B6451A /* nb */,
+				BC4785C415E670DD00B6451A /* nl */,
+				BC4785C615E6715D00B6451A /* pl */,
+				BC4785C815E6716500B6451A /* pt-BR */,
+				BC4785CA15E6716C00B6451A /* zh-Hans */,
+				BC4785CC15E6717400B6451A /* zh-Hant */,
+				BC8F614E15F00A2200DEC0A8 /* sk */,
+				BC8F619815F0525D00DEC0A8 /* ca */,
+				BC8F61B315F054B400DEC0A8 /* es-MX */,
+				BC8F61B415F054BF00DEC0A8 /* ru */,
+				BC8F61B515F054C900DEC0A8 /* sv */,
+				BCC0429615F0EE53000E1768 /* pt */,
+				BC678F4C15F1368400E567D8 /* es */,
+				BC9E6CFC15F1B4AF0017B66D /* ro */,
+				BC83627415F265A60012FBA3 /* da */,
+				839F996715F3D23000A04D3C /* pt-PT */,
+				BCA69E6C15F6CCA000547523 /* ja */,
+				BC4C9CC115F7B94F007ECC82 /* th */,
+				836AEA39171BB90E000F9819 /* ar */,
+				836AEA49171BB935000F9819 /* cy */,
+				836AEA4A171BB94B000F9819 /* hu */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		BCAD7969151265C70052EB51 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BCAD796A151265C70052EB51 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BC1FE6F715C0F05300E27306 /* Localization */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6F115C0F04700E27306 /* Localization.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Localization;
+		};
+		BC1FE6F815C0F05300E27306 /* Localization */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6F115C0F04700E27306 /* Localization.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: The Growl Project, LLC";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SoundAction/SoundAction-Prefix.pch";
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../../**";
+				INFOPLIST_FILE = "SoundAction/SoundAction-Info.plist";
+				INFOPLIST_PREFIX_HEADER = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = growlView;
+			};
+			name = Localization;
+		};
+		BCAD796D151265C70052EB51 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6F015C0F04700E27306 /* Debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		BCAD796E151265C70052EB51 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6F215C0F04700E27306 /* Release.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		BCAD7970151265C70052EB51 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6F015C0F04700E27306 /* Debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: The Growl Project, LLC";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SoundAction/SoundAction-Prefix.pch";
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../../**";
+				INFOPLIST_FILE = "SoundAction/SoundAction-Info.plist";
+				INFOPLIST_PREFIX_HEADER = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = growlView;
+			};
+			name = Debug;
+		};
+		BCAD7971151265C70052EB51 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC1FE6F215C0F04700E27306 /* Release.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: The Growl Project, LLC";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SoundAction/SoundAction-Prefix.pch";
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../../**";
+				INFOPLIST_FILE = "SoundAction/SoundAction-Info.plist";
+				INFOPLIST_PREFIX_HEADER = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = growlView;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BCAD7957151265C60052EB51 /* Build configuration list for PBXProject "SoundAction" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BCAD796D151265C70052EB51 /* Debug */,
+				BCAD796E151265C70052EB51 /* Release */,
+				BC1FE6F715C0F05300E27306 /* Localization */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BCAD796F151265C70052EB51 /* Build configuration list for PBXNativeTarget "SoundAction" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BCAD7970151265C70052EB51 /* Debug */,
+				BCAD7971151265C70052EB51 /* Release */,
+				BC1FE6F815C0F05300E27306 /* Localization */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BCAD7954151265C60052EB51 /* Project object */;
+}

@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>Growl</title>
+<link rel="stylesheet" href="../main.css" type="text/css">
+<meta charset="UTF-8">
+</head>
+<body>
+
+		<h3>Nouveautés dans Growl 2.1</h3>
+		<h4>Changements majeurs</h4>
+		<ul>
+<li>Nous avons corrigé l'action Automator. Désolé pour ce désagrément. Xcode essaie de faciliter la validation des réglages d'un projet. Mais il a désactivé une option qui nous était nécessaire. C'est définitivement corrigé.</li>
+			<li>Correction du comportement prévu pour la détection de l'économiseur et du verrouillage d'écran?</li>
+		</ul>
+<h3>Nouveautés dans Growl 2.1</h3>
+		<h4>Changements majeurs</h4>
+		<ul>
+<li>Ajout de la possibilité de lancer un script comme action.</li>
+			<li>Ajout de la possibilité de contrôle des notifications par règles. Voir <a href="http://growl.info/documentation/applescript-rules">http://growl.info/documentation/applescript-rules</a> pour plus d'information.</li>
+			<li>Growl ne bloque plus à la réception simultanée d'un grand nombre de notes (plus de 100).</li>
+			<li>Les affichages Webkit peuvent désormais avoir un bouton de fermeture au style personnalisé.</li>
+
+		
+		</ul>
+<h4>Changements généraux</h4>
+		<ul>
+<li>Clarification des décisions de priorité par l'application.</li>
+			<li>Un AppleScript augmente la taille des images de 128x128 à 1024x1024.</li>
+			<li>Si vous utilisez la redirection conjointement avec la redirection au Centre de notifications, vous verrez les notes sur les deux ordinateurs.</li>
+			<li>L'action Prowl envoie désormais correctement les notifications si l'option de notification après clic est définie.</li>
+		</ul>
+<h4>Automator</h4>
+		<ul>
+<li>L'action Automator est désormais traduite.</li>
+			<li>Le flux de production GrowlAction lit désormais la description de l'action Automator.</li>
+
+		</ul>
+<h3>Nouveautés dans Growl 2</h3>
+			<h4>Général</h4>
+			<ul>
+<li>Ajout de la compatibilité avec le Centre de notifications de OS X 10.8.</li>
+				<li>Ajout de la compatibilité avec les services Prowl et Boxcar comme actions d'affichage.</li>
+				<li>L'enroulement d'historique détecte mieux l'inactivité.</li>
+				<li>Growl utilise maintenant le bac à sable.</li>
+			</ul>
+<h4>Préférences</h4>
+			<ul>
+<li>L'interrupteur OUI/NON dans Growl devrait être plus facile à comprendre.</li>
+			</ul>
+<h4>Affichages</h4>
+			<ul>
+<li>Speech introduit désormais plus de contrôle.</li>
+				<li>Séparation des affichages d'actions des affichages visuels.</li>
+				<li>Music Video peut désormais justifier le texte à gauche et à droite.</li>
+				<li>Correction de problèmes de hauteur dans les notifications de plusieurs lignes avec Music Video.</li>
+				<li>Nano peut maintenant afficher en plusieurs endroits : gauche, centre et droite.</li>
+				<li>Ajout d'un affichage SoundAction.</li>
+				<li>Ajout d'un moyen de couper toute notification visuelle.</li>
+			</ul>
+<h4>Correction de bogues</h4>
+			<ul>
+<li>Résolution du problème de surcharge CPU.</li>
+				<li>Résolution de différents plantages.</li>
+				<li>Les raccourcis peuvent désormais être supprimés.</li>
+			</ul>
+<h3>Changements de Growl 1.4</h3>
+			<h4>Général</h4>
+			<ul>
+<li>Reconception de l'onglet Applications ! Une réécriture majeure qui devrait être plus simple d'emploi.</li>
+				<li>Déplacement des contrôle d'enroulement dans un onglet séparé.</li>
+				<li>Améliorations majeures de la partie réseau.</li>
+			</ul>
+<h4>Réécriture du panneau de préférences.</h4>
+			<ul>
+<li>Nouvel effet glissant pour les interrupteurs.</li>
+				<li>Ajout la gestion du clavier dans la sélection de position.</li>
+				<li>Nouvelle disposition de l'onglet Général</li>
+				<li>L'onglet Réseau ajoute la compatibilité avec l'abonnement.</li>
+				<li>L'onglet historique permet de basculer vers les réglages de notification d'application par le menu contextuel du tableau d'historique.</li>
+				<li>L'onglet Enrouler est le nouveau point de contrôle de la fenêtre d'enroulement.</li>
+				<li>L'ajout d'un nouvel affichage ne nécessite plus de redémarrer Growl.</li>
+			</ul>
+<h4>Réseau</h4>
+			<ul>
+<li>Compatibilité avec Notification-Callback-Target, un champ URL de GNTP. Au moment du clic, Growl laisse OSX gérer l'ouverture de l'URL (comme le navigateur par défaut pour une URL http:// )</li>
+				<li>Compatibilité avec l'abonnement, pour s'abonner à toutes les applications d'une machine à distance.</li>
+				<li>Améliorations générales de l'authentification réseau, suppression des prérequis, et utilisation d'en-têtes de mot de passe si le champ du mot de passe est vide</li>
+				<li>Correction d'un plantage réseau lié à la résolution de données d'adressage.</li>
+				<li>Liaison à la socket locale seulement si on n'écoute pas les notifications entrantes.</li>
+				<li>Mise en cache des données d'adressage, et observation des changement réseau pour effacer le cache.</li>
+			</ul>
+<h4>Applescript</h4>
+			<ul>
+<li>Compatibilité avec le retour de clic URL, comme Notification-Callback-Target de GNTP</li>
+			</ul>
+<h4>Correction de bogues</h4>
+			<ul>
+<li>Correction d'un plantage avec le greffon webkit à la création.</li>
+				<li>Correction d'un plantage dans la redirection.</li>
+				<li>Correction d'un souci où l'affichage Speech attendait la fin du message précédent, provoquant un bloquage CPU</li>
+				<li>Correction d'un plantage avec CFErrorGetDomain pour les styles d'affichage WebKit.</li>
+				<li>Correction des doubles dans la liste des greffons après réinstallation.</li>
+				<li>Notification-Callback-Target est désormais respecté et utilisé, même sans en-tête de méthode.</li>
+				<li>Correctifs autour de problèmes de corruption d'historique de bases de données.</li>
+				<li>Correction d'un problème de tri lors de la suppression d'une seule entrée de liste de l'historique.</li>
+			</ul>
+</body>
+</html>

@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>Growl</title>
+<link rel="stylesheet" href="../main.css" type="text/css">
+<meta charset="UTF-8">
+</head>
+<body>
+
+		<h3>Zmeny v Growl 2.1</h3>
+		<h4>Zásadné zmeny</h4>
+		<ul>
+<li>Opravili sme Automator akciu. Za toto sa ospravedlňujeme priatelia. Xcode sa snažil pomôcť a pri kontrole nastavení projektu vypol nastavenie, ktoré bolo potrebné. Opravené nadobro.</li>
+			<li>Opravená detekcia šetriča obrazovky a zamknutia.</li>
+		</ul>
+<h3>Zmeny v Growl 2.1</h3>
+		<h4>Zásadné zmeny</h4>
+		<ul>
+<li>Pridaná možnosť spustenia skriptu ako akcie.</li>
+			<li>Pridaná možnosť kontrolovať hlásenia pomocou pravidiel. Pre viac informácií - <a href="http://growl.info/documentation/applescript-rules">http://growl.info/documentation/applescript-rules</a>.</li>
+			<li>Growl už nezamrzne pri prijatí veľkého množstva poznámok súčasne (viac ako 100).</li>
+			<li>Webkit štýly môžu používať vlastné, upravené tlačítka na zatvorenie.</li>
+
+		
+		</ul>
+<h4>Všeobecné</h4>
+		<ul>
+<li>Zlepšenie zobrazenia, pokiaľ sa Growl rozhodne na základe priority.</li>
+			<li>Zväčšenie limitu obrázku v Applescript zo 128x128 na 1024x1024.</li>
+			<li>Pri použití presmerovania do Centra hlásení, uvidíte poznámku na oboch počítačoch.</li>
+			<li>Plugin Prowl už odosiela hlásenie správna ak má nastavenú klikateľnú akciu.</li>
+		</ul>
+<h4>Automator</h4>
+		<ul>
+<li>Akcia Automator je lokalizovaná.</li>
+			<li>GrowlAction workflow teraz čita z popisu akcie Automatoru.</li>
+
+		</ul>
+<h3>Zmeny v Growl 2</h3>
+			<h4>Všeobecné</h4>
+			<ul>
+<li>Pridaná podpora Notifikačného centra OS X vo verzii 10.8</li>
+				<li>Pridaná podpora pre služby Prowl a Boxcar.</li>
+				<li>Rollup má vylepšenú detekciu nečinnosti.</li>
+				<li>Growl plne podporuje Mac OS X sandboxing.</li>
+			</ul>
+<h4>Nastavenia</h4>
+			<ul>
+<li>Zap./Vyp. prepínač v Growl by mal byť viac zrozumiteľný.</li>
+			</ul>
+<h4>Zobrazenia</h4>
+			<ul>
+<li>Speech umožňuje vačšiu kontrolu nastavenia.</li>
+				<li>Oddelené Akcie a Zobrazenia.</li>
+				<li>Music Video teraz umožňuje zarovnanie textu doľava a doprava.</li>
+				<li>Opravené problémy s výškou viac riadkových hlásení u Music Videa.</li>
+				<li>Nano môže byť zobrazený na viacerých miestach - vľavo, v strede a vpravo.</li>
+				<li>Pridané zobrazenie SoundAction.</li>
+				<li>Pridaná možnosť len nevizuálnych hlásení.</li>
+			</ul>
+<h4>Opravy chýb</h4>
+			<ul>
+<li>Vyriešený problém s vysokou záťažou CPU.</li>
+				<li>Vyriešené viacnásobné pády aplikácie.</li>
+				<li>Klávesové skratky už môžu byť zrušené.</li>
+			</ul>
+<h3>Zmeny v Growl 1.4</h3>
+			<h4>Všeobecné</h4>
+			<ul>
+<li>Redizajn záložky Aplikácie! Jedná sa o zásadné prepracovanie a malo by umožniť oveľa jednoduchšie používanie.</li>
+				<li>Presunutie ovládania Rollup funkcií do vlastnej záložky.</li>
+				<li>Zásadné vylepšenia sieťových funkcií.</li>
+			</ul>
+<h4>Prepracovanie panelu Nastavení</h4>
+			<ul>
+<li>Nový prepínač pre on/off tlačítka</li>
+				<li>Pridaná podpora klávesnice pre vybranie pozície.</li>
+				<li>Zásadné prepracovanie záložiek.</li>
+				<li>Záložka Sieť - Pridaná podpora pre prihlásenia</li>
+				<li>Záložka História, kontextuálne menu pre tabuľku histórie, umožňujúc sa prepnúť priamo do nastavení notifikácií aplikácie</li>
+				<li>Záložka Rollup - nový domov pre ovládacie prvky relevantné pre Rollup okno.</li>
+				<li>Pridanie nového štýlu by nemalo vyžadovať reštart Growl.</li>
+			</ul>
+<h4>Sieť</h4>
+			<ul>
+<li>Podpora pre Notification-Callback-Target, URL pole v GNTP. Po kliknutí, nechá Growl rozhodnúť OSX ako danú URL otvoriť (napríklad predvoleným prehliadačom pre http:// url)</li>
+				<li>Podpora prihlasovania, prihláste sa na všetky aplikácie na vzdialenom počítači.</li>
+				<li>Celkové vylepšenie sieťovej autentifikácie, odstránené povinné používanie hesla a používanie hlavičiek hesla ak nie je heslo vyplnené</li>
+				<li>Opravený pád sieťových funkcií týkajúcich sa zisťovania adresy.</li>
+				<li>Pripojenie sa na lokálny socket len ak nečakáme na príchodzie hlásenia.</li>
+				<li>Caschovanie adresných dát a sledovanie sieťových zmien pre mazanie tejto cashe</li>
+			</ul>
+<h4>Applescript</h4>
+			<ul>
+<li>Podpora URL spätnej väzby, ako u Notification-Callback-Target</li>
+			</ul>
+<h4>Opravy chýb</h4>
+			<ul>
+<li>Vyriešený pád aplikácie s webkit plugin bridge pri vytváraní.</li>
+				<li>Vyriešený pád aplikácie pri preposielaní.</li>
+				<li>Vyriešený problém s čakaním Speech štýlu na dokončenie prechádzajúcej správy, spôsobujúci vyťaženie CPU</li>
+				<li>Vyriešený pád aplikácie s CFErrorGetDomain pre štýly používajúce WebKit.</li>
+				<li>Opravené viacnásobné zobrazenie pluginov pri reinštalácii.</li>
+				<li>Notification-Callback-Target je od teraz rešpektovaný a používaný, aj bez hlavičky metódy.</li>
+				<li>Riešenie problémov s poškodenou databázou histórie.</li>
+				<li>Opravené triedenie pri mazaní záznamu zo zoznamu histórie.</li>
+			</ul>
+</body>
+</html>
